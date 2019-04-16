@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10201%20Christology1.m4a",
+		"id": 7011000001,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (1)",
+		"title": "讲座1 - 10201 教义课程--基督论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10202%20Christology2.m4a",
+		"id": 7011000002,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (2)",
+		"title": "讲座2 - 10202 教义课程--基督论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10203%20Christology3.m4a",
+		"id": 7011000003,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (3)",
+		"title": "讲座3 - 10203 教义课程--基督论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10204%20Christology4.m4a",
+		"id": 7011000004,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (4)",
+		"title": "讲座4 - 10204 教义课程--基督论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10205%20Christology5.m4a",
+		"id": 7011000005,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (5)",
+		"title": "讲座5 - 10205 教义课程--基督论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10206%20Christology6.m4a",
+		"id": 7011000006,
+		"albumId": 7011,
+		"albumName": "BBN 10200 教义课程--基督论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10200 教义课程--基督论 | 唐崇荣博士 (6)",
+		"title": "讲座6 - 10206 教义课程--基督论"
+	}
+]

@@ -1,0 +1,46 @@
+[{
+	"duration": 1650,
+	"size": "5M",
+	"path": "http://media.haomuren.org/message/bibleteaching/2016Jm01-01.mp3",
+	"id": 4144000001,
+	"albumId": 4144,
+	"albumName": "雅各书系列",
+	"albumtitle": "雅各书系列(1)"
+},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/message/bibleteaching/2016Jm01-02.mp3",
+		"id": 4144000002,
+		"albumId": 4144,
+		"albumName": "雅各书系列",
+		"albumtitle": "雅各书系列(2)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/message/bibleteaching/2016Jm01-03.mp3",
+		"id": 4144000003,
+		"albumId": 4144,
+		"albumName": "雅各书系列",
+		"albumtitle": "雅各书系列(3)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/message/bibleteaching/2016Jm01-04.mp3",
+		"id": 4144000004,
+		"albumId": 4144,
+		"albumName": "雅各书系列",
+		"albumtitle": "雅各书系列(4)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/message/bibleteaching/2016Jm01-05.mp3",
+		"id": 4144000005,
+		"albumId": 4144,
+		"albumName": "雅各书系列",
+		"albumtitle": "雅各书系列(5)"
+	}
+]

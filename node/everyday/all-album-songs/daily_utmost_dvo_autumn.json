@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160701.mp3",
+		"id": 6391000001,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(1)",
+		"title": "竭诚为主-7月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160702.mp3",
+		"id": 6391000002,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(2)",
+		"title": "竭诚为主-7月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160703.mp3",
+		"id": 6391000003,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(3)",
+		"title": "竭诚为主-7月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160704.mp3",
+		"id": 6391000004,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(4)",
+		"title": "竭诚为主-7月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160705.mp3",
+		"id": 6391000005,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(5)",
+		"title": "竭诚为主-7月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160706.mp3",
+		"id": 6391000006,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(6)",
+		"title": "竭诚为主-7月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160707.mp3",
+		"id": 6391000007,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(7)",
+		"title": "竭诚为主-7月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160708.mp3",
+		"id": 6391000008,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(8)",
+		"title": "竭诚为主-7月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160709.mp3",
+		"id": 6391000009,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(9)",
+		"title": "竭诚为主-7月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160710.mp3",
+		"id": 6391000010,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(10)",
+		"title": "竭诚为主-7月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160711.mp3",
+		"id": 6391000011,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(11)",
+		"title": "竭诚为主-7月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160712.mp3",
+		"id": 6391000012,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(12)",
+		"title": "竭诚为主-7月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160713.mp3",
+		"id": 6391000013,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(13)",
+		"title": "竭诚为主-7月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160714.mp3",
+		"id": 6391000014,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(14)",
+		"title": "竭诚为主-7月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160715.mp3",
+		"id": 6391000015,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(15)",
+		"title": "竭诚为主-7月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160716.mp3",
+		"id": 6391000016,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(16)",
+		"title": "竭诚为主-7月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160717.mp3",
+		"id": 6391000017,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(17)",
+		"title": "竭诚为主-7月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160718.mp3",
+		"id": 6391000018,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(18)",
+		"title": "竭诚为主-7月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160719.mp3",
+		"id": 6391000019,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(19)",
+		"title": "竭诚为主-7月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160720.mp3",
+		"id": 6391000020,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(20)",
+		"title": "竭诚为主-7月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160721.mp3",
+		"id": 6391000021,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(21)",
+		"title": "竭诚为主-7月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160722.mp3",
+		"id": 6391000022,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(22)",
+		"title": "竭诚为主-7月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160723.mp3",
+		"id": 6391000023,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(23)",
+		"title": "竭诚为主-7月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160724.mp3",
+		"id": 6391000024,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(24)",
+		"title": "竭诚为主-7月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160725.mp3",
+		"id": 6391000025,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(25)",
+		"title": "竭诚为主-7月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160726.mp3",
+		"id": 6391000026,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(26)",
+		"title": "竭诚为主-7月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160727.mp3",
+		"id": 6391000027,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(27)",
+		"title": "竭诚为主-7月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160728.mp3",
+		"id": 6391000028,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(28)",
+		"title": "竭诚为主-7月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160729.mp3",
+		"id": 6391000029,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(29)",
+		"title": "竭诚为主-7月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160730.mp3",
+		"id": 6391000030,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(30)",
+		"title": "竭诚为主-7月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Jul/Dvo160731.mp3",
+		"id": 6391000031,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(31)",
+		"title": "竭诚为主-7月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160801.mp3",
+		"id": 6391000032,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(32)",
+		"title": "竭诚为主-8月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160802.mp3",
+		"id": 6391000033,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(33)",
+		"title": "竭诚为主-8月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160803.mp3",
+		"id": 6391000034,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(34)",
+		"title": "竭诚为主-8月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160804.mp3",
+		"id": 6391000035,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(35)",
+		"title": "竭诚为主-8月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160805.mp3",
+		"id": 6391000036,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(36)",
+		"title": "竭诚为主-8月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160806.mp3",
+		"id": 6391000037,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(37)",
+		"title": "竭诚为主-8月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160807.mp3",
+		"id": 6391000038,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(38)",
+		"title": "竭诚为主-8月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160808.mp3",
+		"id": 6391000039,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(39)",
+		"title": "竭诚为主-8月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160809.mp3",
+		"id": 6391000040,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(40)",
+		"title": "竭诚为主-8月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160810.mp3",
+		"id": 6391000041,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(41)",
+		"title": "竭诚为主-8月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160811.mp3",
+		"id": 6391000042,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(42)",
+		"title": "竭诚为主-8月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160812.mp3",
+		"id": 6391000043,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(43)",
+		"title": "竭诚为主-8月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160813.mp3",
+		"id": 6391000044,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(44)",
+		"title": "竭诚为主-8月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160814.mp3",
+		"id": 6391000045,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(45)",
+		"title": "竭诚为主-8月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160815.mp3",
+		"id": 6391000046,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(46)",
+		"title": "竭诚为主-8月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160816.mp3",
+		"id": 6391000047,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(47)",
+		"title": "竭诚为主-8月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160817.mp3",
+		"id": 6391000048,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(48)",
+		"title": "竭诚为主-8月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160818.mp3",
+		"id": 6391000049,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(49)",
+		"title": "竭诚为主-8月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160819.mp3",
+		"id": 6391000050,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(50)",
+		"title": "竭诚为主-8月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160820.mp3",
+		"id": 6391000051,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(51)",
+		"title": "竭诚为主-8月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160821.mp3",
+		"id": 6391000052,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(52)",
+		"title": "竭诚为主-8月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160822.mp3",
+		"id": 6391000053,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(53)",
+		"title": "竭诚为主-8月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160823.mp3",
+		"id": 6391000054,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(54)",
+		"title": "竭诚为主-8月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160824.mp3",
+		"id": 6391000055,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(55)",
+		"title": "竭诚为主-8月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160825.mp3",
+		"id": 6391000056,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(56)",
+		"title": "竭诚为主-8月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160826.mp3",
+		"id": 6391000057,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(57)",
+		"title": "竭诚为主-8月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160827.mp3",
+		"id": 6391000058,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(58)",
+		"title": "竭诚为主-8月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160828.mp3",
+		"id": 6391000059,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(59)",
+		"title": "竭诚为主-8月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160829.mp3",
+		"id": 6391000060,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(60)",
+		"title": "竭诚为主-8月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160830.mp3",
+		"id": 6391000061,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(61)",
+		"title": "竭诚为主-8月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Aug/Dvo160831.mp3",
+		"id": 6391000062,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(62)",
+		"title": "竭诚为主-8月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160901.mp3",
+		"id": 6391000063,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(63)",
+		"title": "竭诚为主-9月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160902.mp3",
+		"id": 6391000064,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(64)",
+		"title": "竭诚为主-9月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160903.mp3",
+		"id": 6391000065,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(65)",
+		"title": "竭诚为主-9月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160904.mp3",
+		"id": 6391000066,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(66)",
+		"title": "竭诚为主-9月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160905.mp3",
+		"id": 6391000067,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(67)",
+		"title": "竭诚为主-9月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160906.mp3",
+		"id": 6391000068,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(68)",
+		"title": "竭诚为主-9月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160907.mp3",
+		"id": 6391000069,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(69)",
+		"title": "竭诚为主-9月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160908.mp3",
+		"id": 6391000070,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(70)",
+		"title": "竭诚为主-9月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160909.mp3",
+		"id": 6391000071,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(71)",
+		"title": "竭诚为主-9月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160910.mp3",
+		"id": 6391000072,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(72)",
+		"title": "竭诚为主-9月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160911.mp3",
+		"id": 6391000073,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(73)",
+		"title": "竭诚为主-9月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160912.mp3",
+		"id": 6391000074,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(74)",
+		"title": "竭诚为主-9月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160913.mp3",
+		"id": 6391000075,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(75)",
+		"title": "竭诚为主-9月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160914.mp3",
+		"id": 6391000076,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(76)",
+		"title": "竭诚为主-9月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160915.mp3",
+		"id": 6391000077,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(77)",
+		"title": "竭诚为主-9月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160916.mp3",
+		"id": 6391000078,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(78)",
+		"title": "竭诚为主-9月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160917.mp3",
+		"id": 6391000079,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(79)",
+		"title": "竭诚为主-9月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160918.mp3",
+		"id": 6391000080,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(80)",
+		"title": "竭诚为主-9月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160919.mp3",
+		"id": 6391000081,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(81)",
+		"title": "竭诚为主-9月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160920.mp3",
+		"id": 6391000082,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(82)",
+		"title": "竭诚为主-9月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160921.mp3",
+		"id": 6391000083,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(83)",
+		"title": "竭诚为主-9月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160922.mp3",
+		"id": 6391000084,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(84)",
+		"title": "竭诚为主-9月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160923.mp3",
+		"id": 6391000085,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(85)",
+		"title": "竭诚为主-9月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160924.mp3",
+		"id": 6391000086,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(86)",
+		"title": "竭诚为主-9月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160925.mp3",
+		"id": 6391000087,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(87)",
+		"title": "竭诚为主-9月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160926.mp3",
+		"id": 6391000088,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(88)",
+		"title": "竭诚为主-9月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160927.mp3",
+		"id": 6391000089,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(89)",
+		"title": "竭诚为主-9月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160928.mp3",
+		"id": 6391000090,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(90)",
+		"title": "竭诚为主-9月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160929.mp3",
+		"id": 6391000091,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(91)",
+		"title": "竭诚为主-9月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/Utmost/Sep/Dvo160930.mp3",
+		"id": 6391000092,
+		"albumId": 6391,
+		"albumName": "《竭诚为主》秋季合集",
+		"albumtitle": "《竭诚为主》秋季合集(92)",
+		"title": "竭诚为主-9月30日"
+	}
+]

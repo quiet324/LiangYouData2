@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2500,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00801%20Bibles%20authority.m4a",
+		"id": 7005000001,
+		"albumId": 7005,
+		"albumName": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 ",
+		"albumtitle": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 (1)",
+		"title": "讲座1 - 00801 基要课程--圣经导论"
+	},
+	{
+		"duration": 2500,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00802%20the%20Bibles%20content.m4a",
+		"id": 7005000002,
+		"albumId": 7005,
+		"albumName": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 ",
+		"albumtitle": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 (2)",
+		"title": "讲座2 - 00802 基要课程--圣经导论"
+	},
+	{
+		"duration": 2500,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00803%20the%20bible%20practical%20application.m4a",
+		"id": 7005000003,
+		"albumId": 7005,
+		"albumName": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 ",
+		"albumtitle": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 (3)",
+		"title": "讲座3 - 00803 基要课程--圣经导论"
+	},
+	{
+		"duration": 2500,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00804%20Bibles%20completeness.m4a",
+		"id": 7005000004,
+		"albumId": 7005,
+		"albumName": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 ",
+		"albumtitle": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 (4)",
+		"title": "讲座4 - 00804 基要课程--圣经导论"
+	},
+	{
+		"duration": 2500,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00805%20%20Bibles%20power.m4a",
+		"id": 7005000005,
+		"albumId": 7005,
+		"albumName": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 ",
+		"albumtitle": "BBN 00800 基要课程--圣经导论 | 刘传章牧师 (5)",
+		"title": "讲座5 - 00805 基要课程--圣经导论"
+	}
+]

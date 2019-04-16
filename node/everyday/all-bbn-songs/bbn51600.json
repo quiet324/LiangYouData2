@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51601%20Difficult%20Passages%20in%20Revelati.m4a",
+		"id": 7110000001,
+		"albumId": 7110,
+		"albumName": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士",
+		"albumtitle": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士(1)",
+		"title": "讲座1 - 51601 选修课程--末世预言难题研究"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51602%20Difficult%20Passages%20in%20Revelati.m4a",
+		"id": 7110000002,
+		"albumId": 7110,
+		"albumName": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士",
+		"albumtitle": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士(2)",
+		"title": "讲座2 - 51602 选修课程--末世预言难题研究"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51603%20Difficult%20Passages%20in%20Revelati.m4a",
+		"id": 7110000003,
+		"albumId": 7110,
+		"albumName": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士",
+		"albumtitle": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士(3)",
+		"title": "讲座3 - 51603 选修课程--末世预言难题研究"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51604%20Difficult%20Passages%20in%20Revelati.m4a",
+		"id": 7110000004,
+		"albumId": 7110,
+		"albumName": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士",
+		"albumtitle": "BBN 51600 选修课程--末世预言难题研究 |  马有藻博士(4)",
+		"title": "讲座4 - 51604 选修课程--末世预言难题研究"
+	}
+]

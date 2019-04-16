@@ -1,0 +1,992 @@
+[
+	{
+		"duration": 763,
+		"size": "17.46 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/001.全书内容概要，略论圣徒安息之性质（一）.mp3",
+		"id": 6470000001,
+		"title": "001.全书内容概要，略论圣徒安息之性质（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(1)"
+	},
+	{
+		"duration": 777,
+		"size": "17.78 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/002.略论圣徒安息之性质（二）.mp3",
+		"id": 6470000002,
+		"title": "002.略论圣徒安息之性质（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(2)"
+	},
+	{
+		"duration": 848,
+		"size": "19.39 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/003.略论圣徒安息之性质（三）.mp3",
+		"id": 6470000003,
+		"title": "003.略论圣徒安息之性质（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(3)"
+	},
+	{
+		"duration": 611,
+		"size": "13.98 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/004.略论圣徒安息之性质（四）.mp3",
+		"id": 6470000004,
+		"title": "004.略论圣徒安息之性质（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(4)"
+	},
+	{
+		"duration": 520,
+		"size": "11.91 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/005.略论圣徒安息之性质（五）.mp3",
+		"id": 6470000005,
+		"title": "005.略论圣徒安息之性质（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(5)"
+	},
+	{
+		"duration": 747,
+		"size": "17.08 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/006.略论圣徒安息之性质（六）.mp3",
+		"id": 6470000006,
+		"title": "006.略论圣徒安息之性质（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(6)"
+	},
+	{
+		"duration": 681,
+		"size": "15.57 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/007.对圣徒安息的四项重要预备（一）.mp3",
+		"id": 6470000007,
+		"title": "007.对圣徒安息的四项重要预备（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(7)"
+	},
+	{
+		"duration": 672,
+		"size": "15.38 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/008.对圣徒安息的四项重要预备（二）.mp3",
+		"id": 6470000008,
+		"title": "008.对圣徒安息的四项重要预备（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(8)"
+	},
+	{
+		"duration": 723,
+		"size": "16.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/009.对圣徒安息的四项重要预备（三）.mp3",
+		"id": 6470000009,
+		"title": "009.对圣徒安息的四项重要预备（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(9)"
+	},
+	{
+		"duration": 780,
+		"size": "17.84 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/010.圣徒安息的无比荣美（一）.mp3",
+		"id": 6470000010,
+		"title": "010.圣徒安息的无比荣美（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(10)"
+	},
+	{
+		"duration": 769,
+		"size": "17.58 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/011.圣徒安息的无比荣美（二）.mp3",
+		"id": 6470000011,
+		"title": "011.圣徒安息的无比荣美（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(11)"
+	},
+	{
+		"duration": 572,
+		"size": "13.09 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/012.圣徒安息的无比荣美（三）.mp3",
+		"id": 6470000012,
+		"title": "012.圣徒安息的无比荣美（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(12)"
+	},
+	{
+		"duration": 551,
+		"size": "12.60 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/013.圣徒安息的无比荣美（四）.mp3",
+		"id": 6470000013,
+		"title": "013.圣徒安息的无比荣美（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(13)"
+	},
+	{
+		"duration": 649,
+		"size": "14.85 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/014.圣徒安息的无比荣美（五）.mp3",
+		"id": 6470000014,
+		"title": "014.圣徒安息的无比荣美（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(14)"
+	},
+	{
+		"duration": 873,
+		"size": "19.97 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/015.圣徒安息的无比荣美（六）.mp3",
+		"id": 6470000015,
+		"title": "015.圣徒安息的无比荣美（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(15)"
+	},
+	{
+		"duration": 622,
+		"size": "14.22 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/016.这安息是为何等人而设？（一）.mp3",
+		"id": 6470000016,
+		"title": "016.这安息是为何等人而设？（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(16)"
+	},
+	{
+		"duration": 628,
+		"size": "14.37 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/017.这安息是为何等人而设？（二）.mp3",
+		"id": 6470000017,
+		"title": "017.这安息是为何等人而设？（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(17)"
+	},
+	{
+		"duration": 901,
+		"size": "20.60 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/018.这安息是为何等人而设？（三）.mp3",
+		"id": 6470000018,
+		"title": "018.这安息是为何等人而设？（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(18)"
+	},
+	{
+		"duration": 675,
+		"size": "15.43 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/019.这安息是为何等人而设？（四）.mp3",
+		"id": 6470000019,
+		"title": "019.这安息是为何等人而设？（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(19)"
+	},
+	{
+		"duration": 616,
+		"size": "14.08 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/020.这安息是为何等人而设？（五）.mp3",
+		"id": 6470000020,
+		"title": "020.这安息是为何等人而设？（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(20)"
+	},
+	{
+		"duration": 700,
+		"size": "16.00 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/021.这安息是为何等人而设？（六）.mp3",
+		"id": 6470000021,
+		"title": "021.这安息是为何等人而设？（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(21)"
+	},
+	{
+		"duration": 698,
+		"size": "15.96 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/022.错失圣徒安息者的悲惨下场（一）.mp3",
+		"id": 6470000022,
+		"title": "022.错失圣徒安息者的悲惨下场（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(22)"
+	},
+	{
+		"duration": 619,
+		"size": "14.15 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/023.错失圣徒安息者的悲惨下场（二）.mp3",
+		"id": 6470000023,
+		"title": "023.错失圣徒安息者的悲惨下场（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(23)"
+	},
+	{
+		"duration": 707,
+		"size": "16.16 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/024.错失圣徒安息者的悲惨下场（三）.mp3",
+		"id": 6470000024,
+		"title": "024.错失圣徒安息者的悲惨下场（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(24)"
+	},
+	{
+		"duration": 529,
+		"size": "12.10 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/025.错失圣徒安息者的悲惨下场（四）.mp3",
+		"id": 6470000025,
+		"title": "025.错失圣徒安息者的悲惨下场（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(25)"
+	},
+	{
+		"duration": 575,
+		"size": "13.16 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/026.错失圣徒安息者的悲惨下场（五）.mp3",
+		"id": 6470000026,
+		"title": "026.错失圣徒安息者的悲惨下场（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(26)"
+	},
+	{
+		"duration": 675,
+		"size": "15.43 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/027.罪人的悲惨结局（一）.mp3",
+		"id": 6470000027,
+		"title": "027.罪人的悲惨结局（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(27)"
+	},
+	{
+		"duration": 556,
+		"size": "12.72 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/028.罪人的悲惨结局（二）.mp3",
+		"id": 6470000028,
+		"title": "028.罪人的悲惨结局（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(28)"
+	},
+	{
+		"duration": 586,
+		"size": "13.40 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/029.罪人的悲惨结局（三）.mp3",
+		"id": 6470000029,
+		"title": "029.罪人的悲惨结局（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(29)"
+	},
+	{
+		"duration": 585,
+		"size": "13.38 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/030.罪人的悲惨结局（四）.mp3",
+		"id": 6470000030,
+		"title": "030.罪人的悲惨结局（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(30)"
+	},
+	{
+		"duration": 748,
+		"size": "17.11 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/031.罪人的悲惨结局（五）.mp3",
+		"id": 6470000031,
+		"title": "031.罪人的悲惨结局（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(31)"
+	},
+	{
+		"duration": 672,
+		"size": "15.36 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/032.圣徒的安息须力求才能得到（一）.mp3",
+		"id": 6470000032,
+		"title": "032.圣徒的安息须力求才能得到（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(32)"
+	},
+	{
+		"duration": 714,
+		"size": "16.32 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/033.圣徒的安息须力求才能得到（二）.mp3",
+		"id": 6470000033,
+		"title": "033.圣徒的安息须力求才能得到（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(33)"
+	},
+	{
+		"duration": 698,
+		"size": "15.96 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/034.圣徒的安息须力求才能得到（三）.mp3",
+		"id": 6470000034,
+		"title": "034.圣徒的安息须力求才能得到（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(34)"
+	},
+	{
+		"duration": 651,
+		"size": "14.88 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/035.圣徒的安息须力求才能得到（四）.mp3",
+		"id": 6470000035,
+		"title": "035.圣徒的安息须力求才能得到（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(35)"
+	},
+	{
+		"duration": 650,
+		"size": "14.88 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/036.圣徒的安息须力求才能得到（五）.mp3",
+		"id": 6470000036,
+		"title": "036.圣徒的安息须力求才能得到（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(36)"
+	},
+	{
+		"duration": 650,
+		"size": "14.86 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/037.圣徒的安息须力求才能得到（六）.mp3",
+		"id": 6470000037,
+		"title": "037.圣徒的安息须力求才能得到（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(37)"
+	},
+	{
+		"duration": 645,
+		"size": "14.75 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/038.圣徒的安息须力求才能得到（七）.mp3",
+		"id": 6470000038,
+		"title": "038.圣徒的安息须力求才能得到（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(38)"
+	},
+	{
+		"duration": 669,
+		"size": "15.30 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/039.如何分辨自己是否享有圣徒的安息？（一）.mp3",
+		"id": 6470000039,
+		"title": "039.如何分辨自己是否享有圣徒的安息？（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(39)"
+	},
+	{
+		"duration": 652,
+		"size": "14.90 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/040.如何分辨自己是否享有圣徒的安息？（二）.mp3",
+		"id": 6470000040,
+		"title": "040.如何分辨自己是否享有圣徒的安息？（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(40)"
+	},
+	{
+		"duration": 586,
+		"size": "13.40 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/041.如何分辨自己是否享有圣徒的安息？（三）.mp3",
+		"id": 6470000041,
+		"title": "041.如何分辨自己是否享有圣徒的安息？（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(41)"
+	},
+	{
+		"duration": 580,
+		"size": "13.27 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/042.如何分辨自己是否享有圣徒的安息？（四）.mp3",
+		"id": 6470000042,
+		"title": "042.如何分辨自己是否享有圣徒的安息？（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(42)"
+	},
+	{
+		"duration": 640,
+		"size": "14.64 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/043.如何分辨自己是否享有圣徒的安息？（五）.mp3",
+		"id": 6470000043,
+		"title": "043.如何分辨自己是否享有圣徒的安息？（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(43)"
+	},
+	{
+		"duration": 801,
+		"size": "18.32 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/044.如何分辨自己是否享有圣徒的安息？（六）.mp3",
+		"id": 6470000044,
+		"title": "044.如何分辨自己是否享有圣徒的安息？（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(44)"
+	},
+	{
+		"duration": 572,
+		"size": "13.09 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/045.如何分辨自己是否享有圣徒的安息？（七）.mp3",
+		"id": 6470000045,
+		"title": "045.如何分辨自己是否享有圣徒的安息？（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(45)"
+	},
+	{
+		"duration": 713,
+		"size": "16.30 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/046.上帝子民有责任激发别人求此安息（一）.mp3",
+		"id": 6470000046,
+		"title": "046.上帝子民有责任激发别人求此安息（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(46)"
+	},
+	{
+		"duration": 673,
+		"size": "15.39 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/047.上帝子民有责任激发别人求此安息（二）.mp3",
+		"id": 6470000047,
+		"title": "047.上帝子民有责任激发别人求此安息（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(47)"
+	},
+	{
+		"duration": 714,
+		"size": "16.32 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/048.上帝子民有责任激发别人求此安息（三）.mp3",
+		"id": 6470000048,
+		"title": "048.上帝子民有责任激发别人求此安息（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(48)"
+	},
+	{
+		"duration": 536,
+		"size": "12.26 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/049.上帝子民有责任激发别人求此安息（四）.mp3",
+		"id": 6470000049,
+		"title": "049.上帝子民有责任激发别人求此安息（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(49)"
+	},
+	{
+		"duration": 606,
+		"size": "13.86 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/050.上帝子民有责任激发别人求此安息（五）.mp3",
+		"id": 6470000050,
+		"title": "050.上帝子民有责任激发别人求此安息（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(50)"
+	},
+	{
+		"duration": 583,
+		"size": "13.34 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/051.上帝子民有责任激发别人求此安息（六）.mp3",
+		"id": 6470000051,
+		"title": "051.上帝子民有责任激发别人求此安息（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(51)"
+	},
+	{
+		"duration": 547,
+		"size": "12.51 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/052.上帝子民有责任激发别人求此安息（七）.mp3",
+		"id": 6470000052,
+		"title": "052.上帝子民有责任激发别人求此安息（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(52)"
+	},
+	{
+		"duration": 643,
+		"size": "14.70 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/053.上帝子民有责任激发别人求此安息（八）.mp3",
+		"id": 6470000053,
+		"title": "053.上帝子民有责任激发别人求此安息（八）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(53)"
+	},
+	{
+		"duration": 564,
+		"size": "12.90 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/054.圣徒的安息不可指望在世上得到（一）.mp3",
+		"id": 6470000054,
+		"title": "054.圣徒的安息不可指望在世上得到（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(54)"
+	},
+	{
+		"duration": 531,
+		"size": "12.14 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/055.圣徒的安息不可指望在世上得到（二）.mp3",
+		"id": 6470000055,
+		"title": "055.圣徒的安息不可指望在世上得到（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(55)"
+	},
+	{
+		"duration": 568,
+		"size": "12.99 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/056.圣徒的安息不可指望在世上得到（三）.mp3",
+		"id": 6470000056,
+		"title": "056.圣徒的安息不可指望在世上得到（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(56)"
+	},
+	{
+		"duration": 615,
+		"size": "14.07 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/057.圣徒的安息不可指望在世上得到（四）.mp3",
+		"id": 6470000057,
+		"title": "057.圣徒的安息不可指望在世上得到（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(57)"
+	},
+	{
+		"duration": 599,
+		"size": "13.71 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/058.圣徒的安息不可指望在世上得到（五）.mp3",
+		"id": 6470000058,
+		"title": "058.圣徒的安息不可指望在世上得到（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(58)"
+	},
+	{
+		"duration": 541,
+		"size": "12.37 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/059.圣徒的安息不可指望在世上得到（六）.mp3",
+		"id": 6470000059,
+		"title": "059.圣徒的安息不可指望在世上得到（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(59)"
+	},
+	{
+		"duration": 591,
+		"size": "13.52 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/060.圣徒的安息不可指望在世上得到（七）.mp3",
+		"id": 6470000060,
+		"title": "060.圣徒的安息不可指望在世上得到（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(60)"
+	},
+	{
+		"duration": 788,
+		"size": "18.02 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/061.圣徒的安息不可指望在世上得到（八）.mp3",
+		"id": 6470000061,
+		"title": "061.圣徒的安息不可指望在世上得到（八）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(61)"
+	},
+	{
+		"duration": 570,
+		"size": "13.05 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/062.在地上过属天生活的必要性（一）.mp3",
+		"id": 6470000062,
+		"title": "062.在地上过属天生活的必要性（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(62)"
+	},
+	{
+		"duration": 669,
+		"size": "15.31 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/063.在地上过属天生活的必要性（二）.mp3",
+		"id": 6470000063,
+		"title": "063.在地上过属天生活的必要性（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(63)"
+	},
+	{
+		"duration": 597,
+		"size": "13.66 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/064.在地上过属天生活的必要性（三）.mp3",
+		"id": 6470000064,
+		"title": "064.在地上过属天生活的必要性（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(64)"
+	},
+	{
+		"duration": 548,
+		"size": "12.54 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/065.在地上过属天生活的必要性（四）.mp3",
+		"id": 6470000065,
+		"title": "065.在地上过属天生活的必要性（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(65)"
+	},
+	{
+		"duration": 591,
+		"size": "13.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/066.在地上过属天生活的必要性（五）.mp3",
+		"id": 6470000066,
+		"title": "066.在地上过属天生活的必要性（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(66)"
+	},
+	{
+		"duration": 688,
+		"size": "15.73 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/067.在地上过属天生活的必要性（六）.mp3",
+		"id": 6470000067,
+		"title": "067.在地上过属天生活的必要性（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(67)"
+	},
+	{
+		"duration": 991,
+		"size": "22.66 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/068.在地上过属天生活的必要性（七）.mp3",
+		"id": 6470000068,
+		"title": "068.在地上过属天生活的必要性（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(68)"
+	},
+	{
+		"duration": 555,
+		"size": "12.71 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/069.指导如何在地上过属天生活（一）.mp3",
+		"id": 6470000069,
+		"title": "069.指导如何在地上过属天生活（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(69)"
+	},
+	{
+		"duration": 696,
+		"size": "15.91 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/070.指导如何在地上过属天生活（二）.mp3",
+		"id": 6470000070,
+		"title": "070.指导如何在地上过属天生活（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(70)"
+	},
+	{
+		"duration": 893,
+		"size": "20.41 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/071.指导如何在地上过属天生活（三）.mp3",
+		"id": 6470000071,
+		"title": "071.指导如何在地上过属天生活（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(71)"
+	},
+	{
+		"duration": 667,
+		"size": "15.25 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/072.指导如何在地上过属天生活（四）.mp3",
+		"id": 6470000072,
+		"title": "072.指导如何在地上过属天生活（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(72)"
+	},
+	{
+		"duration": 689,
+		"size": "15.76 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/073.指导如何在地上过属天生活（五）.mp3",
+		"id": 6470000073,
+		"title": "073.指导如何在地上过属天生活（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(73)"
+	},
+	{
+		"duration": 778,
+		"size": "17.79 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/074.指导如何在地上过属天生活（六）.mp3",
+		"id": 6470000074,
+		"title": "074.指导如何在地上过属天生活（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(74)"
+	},
+	{
+		"duration": 769,
+		"size": "17.59 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/075.属天默想的性质、适合默想的时间、地点及心态（一）.mp3",
+		"id": 6470000075,
+		"title": "075.属天默想的性质、适合默想的时间、地点及心态（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(75)"
+	},
+	{
+		"duration": 729,
+		"size": "16.67 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/076.属天默想的性质、适合默想的时间、地点及心态（二）.mp3",
+		"id": 6470000076,
+		"title": "076.属天默想的性质、适合默想的时间、地点及心态（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(76)"
+	},
+	{
+		"duration": 593,
+		"size": "13.57 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/077.属天默想的性质、适合默想的时间、地点及心态（三）.mp3",
+		"id": 6470000077,
+		"title": "077.属天默想的性质、适合默想的时间、地点及心态（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(77)"
+	},
+	{
+		"duration": 871,
+		"size": "19.93 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/078.属天默想的性质、适合默想的时间、地点及心态（四）.mp3",
+		"id": 6470000078,
+		"title": "078.属天默想的性质、适合默想的时间、地点及心态（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(78)"
+	},
+	{
+		"duration": 642,
+		"size": "14.67 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/079.深思、情感、自语和祷告在属天默想知道功用（一）.mp3",
+		"id": 6470000079,
+		"title": "079.深思、情感、自语和祷告在属天默想知道功用（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(79)"
+	},
+	{
+		"duration": 679,
+		"size": "15.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/080.深思、情感、自语和祷告在属天默想知道功用（二）.mp3",
+		"id": 6470000080,
+		"title": "080.深思、情感、自语和祷告在属天默想知道功用（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(80)"
+	},
+	{
+		"duration": 687,
+		"size": "15.71 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/081.深思、情感、自语和祷告在属天默想知道功用（三）.mp3",
+		"id": 6470000081,
+		"title": "081.深思、情感、自语和祷告在属天默想知道功用（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(81)"
+	},
+	{
+		"duration": 759,
+		"size": "17.35 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/082.深思、情感、自语和祷告在属天默想知道功用（四）.mp3",
+		"id": 6470000082,
+		"title": "082.深思、情感、自语和祷告在属天默想知道功用（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(82)"
+	},
+	{
+		"duration": 766,
+		"size": "17.51 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/083.深思、情感、自语和祷告在属天默想知道功用（五）.mp3",
+		"id": 6470000083,
+		"title": "083.深思、情感、自语和祷告在属天默想知道功用（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(83)"
+	},
+	{
+		"duration": 473,
+		"size": "10.82 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/084.深思、情感、自语和祷告在属天默想知道功用（六）.mp3",
+		"id": 6470000084,
+		"title": "084.深思、情感、自语和祷告在属天默想知道功用（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(84)"
+	},
+	{
+		"duration": 802,
+		"size": "18.33 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/085.借助易察之事做属天默想，要防范自己 诡诈的心（一）.mp3",
+		"id": 6470000085,
+		"title": "085.借助易察之事做属天默想，要防范自己 诡诈的心（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(85)"
+	},
+	{
+		"duration": 691,
+		"size": "15.81 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/086.借助易察之事做属天默想，要防范自己 诡诈的心（二）.mp3",
+		"id": 6470000086,
+		"title": "086.借助易察之事做属天默想，要防范自己 诡诈的心（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(86)"
+	},
+	{
+		"duration": 685,
+		"size": "15.67 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/087.借助易察之事做属天默想，要防范自己 诡诈的心（三）.mp3",
+		"id": 6470000087,
+		"title": "087.借助易察之事做属天默想，要防范自己 诡诈的心（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(87)"
+	},
+	{
+		"duration": 578,
+		"size": "13.23 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/088.借助易察之事做属天默想，要防范自己 诡诈的心（四）.mp3",
+		"id": 6470000088,
+		"title": "088.借助易察之事做属天默想，要防范自己 诡诈的心（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(88)"
+	},
+	{
+		"duration": 468,
+		"size": "10.70 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/089.借助易察之事做属天默想，要防范自己 诡诈的心（五）.mp3",
+		"id": 6470000089,
+		"title": "089.借助易察之事做属天默想，要防范自己 诡诈的心（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(89)"
+	},
+	{
+		"duration": 902,
+		"size": "20.63 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/090.借助易察之事做属天默想，要防范自己 诡诈的心（六）.mp3",
+		"id": 6470000090,
+		"title": "090.借助易察之事做属天默想，要防范自己 诡诈的心（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(90)"
+	},
+	{
+		"duration": 717,
+		"size": "16.40 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/091.默想天国的示范，全书结束（一）.mp3",
+		"id": 6470000091,
+		"title": "091.默想天国的示范，全书结束（一）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(91)"
+	},
+	{
+		"duration": 699,
+		"size": "16.00 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/092.默想天国的示范，全书结束（二）.mp3",
+		"id": 6470000092,
+		"title": "092.默想天国的示范，全书结束（二）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(92)"
+	},
+	{
+		"duration": 619,
+		"size": "14.17 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/093.默想天国的示范，全书结束（三）.mp3",
+		"id": 6470000093,
+		"title": "093.默想天国的示范，全书结束（三）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(93)"
+	},
+	{
+		"duration": 675,
+		"size": "15.43 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/094.默想天国的示范，全书结束（四）.mp3",
+		"id": 6470000094,
+		"title": "094.默想天国的示范，全书结束（四）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(94)"
+	},
+	{
+		"duration": 778,
+		"size": "17.80 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/095.默想天国的示范，全书结束（五）.mp3",
+		"id": 6470000095,
+		"title": "095.默想天国的示范，全书结束（五）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(95)"
+	},
+	{
+		"duration": 707,
+		"size": "16.16 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/096.默想天国的示范，全书结束（六）.mp3",
+		"id": 6470000096,
+		"title": "096.默想天国的示范，全书结束（六）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(96)"
+	},
+	{
+		"duration": 691,
+		"size": "15.81 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/097.默想天国的示范，全书结束（七）.mp3",
+		"id": 6470000097,
+		"title": "097.默想天国的示范，全书结束（七）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(97)"
+	},
+	{
+		"duration": 855,
+		"size": "19.56 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/098.默想天国的示范，全书结束（八）.mp3",
+		"id": 6470000098,
+		"title": "098.默想天国的示范，全书结束（八）",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(98)"
+	},
+	{
+		"duration": 956,
+		"size": "21.87 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/SaintForeverPeace/099.结语.mp3",
+		"id": 6470000099,
+		"title": "099.结语",
+		"albumId": 6470,
+		"albumName": "圣徒永恒的安息",
+		"albumtitle": "圣徒永恒的安息(99)"
+	}
+]

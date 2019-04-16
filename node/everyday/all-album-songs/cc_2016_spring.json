@@ -1,0 +1,911 @@
+[{
+	"duration": 3560,
+	"size": "28.5M",
+	"path": "http://media.febcchinese.org/Streaming/cc/cc160101.mp3",
+	"id": 6321000001,
+	"albumId": 6321,
+	"albumName": "《空中辅导》2016年春季合集",
+	"albumtitle": "《空中辅导》2016年春季合集(1)",
+	"title": "空中辅导-20160101"
+},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160102.mp3",
+		"id": 6321000002,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(2)",
+		"title": "空中辅导-20160102"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160103.mp3",
+		"id": 6321000003,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(3)",
+		"title": "空中辅导-20160103"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160104.mp3",
+		"id": 6321000004,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(4)",
+		"title": "空中辅导-20160104"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160105.mp3",
+		"id": 6321000005,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(5)",
+		"title": "空中辅导-20160105"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160106.mp3",
+		"id": 6321000006,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(6)",
+		"title": "空中辅导-20160106"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160107.mp3",
+		"id": 6321000007,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(7)",
+		"title": "空中辅导-20160107"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160108.mp3",
+		"id": 6321000008,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(8)",
+		"title": "空中辅导-20160108"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160109.mp3",
+		"id": 6321000009,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(9)",
+		"title": "空中辅导-20160109"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160110.mp3",
+		"id": 6321000010,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(10)",
+		"title": "空中辅导-20160110"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160111.mp3",
+		"id": 6321000011,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(11)",
+		"title": "空中辅导-20160111"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160112.mp3",
+		"id": 6321000012,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(12)",
+		"title": "空中辅导-20160112"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160113.mp3",
+		"id": 6321000013,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(13)",
+		"title": "空中辅导-20160113"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160114.mp3",
+		"id": 6321000014,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(14)",
+		"title": "空中辅导-20160114"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160115.mp3",
+		"id": 6321000015,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(15)",
+		"title": "空中辅导-20160115"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160116.mp3",
+		"id": 6321000016,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(16)",
+		"title": "空中辅导-20160116"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160117.mp3",
+		"id": 6321000017,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(17)",
+		"title": "空中辅导-20160117"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160118.mp3",
+		"id": 6321000018,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(18)",
+		"title": "空中辅导-20160118"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160119.mp3",
+		"id": 6321000019,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(19)",
+		"title": "空中辅导-20160119"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160120.mp3",
+		"id": 6321000020,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(20)",
+		"title": "空中辅导-20160120"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160121.mp3",
+		"id": 6321000021,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(21)",
+		"title": "空中辅导-20160121"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160122.mp3",
+		"id": 6321000022,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(22)",
+		"title": "空中辅导-20160122"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160123.mp3",
+		"id": 6321000023,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(23)",
+		"title": "空中辅导-20160123"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160124.mp3",
+		"id": 6321000024,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(24)",
+		"title": "空中辅导-20160124"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160125.mp3",
+		"id": 6321000025,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(25)",
+		"title": "空中辅导-20160125"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160126.mp3",
+		"id": 6321000026,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(26)",
+		"title": "空中辅导-20160126"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160127.mp3",
+		"id": 6321000027,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(27)",
+		"title": "空中辅导-20160127"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160128.mp3",
+		"id": 6321000028,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(28)",
+		"title": "空中辅导-20160128"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160129.mp3",
+		"id": 6321000029,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(29)",
+		"title": "空中辅导-20160129"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160130.mp3",
+		"id": 6321000030,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(30)",
+		"title": "空中辅导-20160130"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160131.mp3",
+		"id": 6321000031,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(31)",
+		"title": "空中辅导-20160131"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160201.mp3",
+		"id": 6321000032,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(32)",
+		"title": "空中辅导-20160201"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160202.mp3",
+		"id": 6321000033,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(33)",
+		"title": "空中辅导-20160202"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160203.mp3",
+		"id": 6321000034,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(34)",
+		"title": "空中辅导-20160203"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160204.mp3",
+		"id": 6321000035,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(35)",
+		"title": "空中辅导-20160204"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160205.mp3",
+		"id": 6321000036,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(36)",
+		"title": "空中辅导-20160205"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160206.mp3",
+		"id": 6321000037,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(37)",
+		"title": "空中辅导-20160206"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160207.mp3",
+		"id": 6321000038,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(38)",
+		"title": "空中辅导-20160207"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160208.mp3",
+		"id": 6321000039,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(39)",
+		"title": "空中辅导-20160208"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160209.mp3",
+		"id": 6321000040,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(40)",
+		"title": "空中辅导-20160209"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160210.mp3",
+		"id": 6321000041,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(41)",
+		"title": "空中辅导-20160210"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160211.mp3",
+		"id": 6321000042,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(42)",
+		"title": "空中辅导-20160211"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160212.mp3",
+		"id": 6321000043,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(43)",
+		"title": "空中辅导-20160212"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160213.mp3",
+		"id": 6321000044,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(44)",
+		"title": "空中辅导-20160213"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160214.mp3",
+		"id": 6321000045,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(45)",
+		"title": "空中辅导-20160214"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160215.mp3",
+		"id": 6321000046,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(46)",
+		"title": "空中辅导-20160215"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160216.mp3",
+		"id": 6321000047,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(47)",
+		"title": "空中辅导-20160216"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160217.mp3",
+		"id": 6321000048,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(48)",
+		"title": "空中辅导-20160217"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160218.mp3",
+		"id": 6321000049,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(49)",
+		"title": "空中辅导-20160218"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160219.mp3",
+		"id": 6321000050,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(50)",
+		"title": "空中辅导-20160219"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160220.mp3",
+		"id": 6321000051,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(51)",
+		"title": "空中辅导-20160220"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160221.mp3",
+		"id": 6321000052,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(52)",
+		"title": "空中辅导-20160221"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160222.mp3",
+		"id": 6321000053,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(53)",
+		"title": "空中辅导-20160222"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160223.mp3",
+		"id": 6321000054,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(54)",
+		"title": "空中辅导-20160223"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160224.mp3",
+		"id": 6321000055,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(55)",
+		"title": "空中辅导-20160224"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160225.mp3",
+		"id": 6321000056,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(56)",
+		"title": "空中辅导-20160225"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160226.mp3",
+		"id": 6321000057,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(57)",
+		"title": "空中辅导-20160226"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160227.mp3",
+		"id": 6321000058,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(58)",
+		"title": "空中辅导-20160227"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160228.mp3",
+		"id": 6321000059,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(59)",
+		"title": "空中辅导-20160228"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160229.mp3",
+		"id": 6321000060,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(60)",
+		"title": "空中辅导-20160229"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160301.mp3",
+		"id": 6321000061,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(61)",
+		"title": "空中辅导-20160301"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160302.mp3",
+		"id": 6321000062,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(62)",
+		"title": "空中辅导-20160302"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160303.mp3",
+		"id": 6321000063,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(63)",
+		"title": "空中辅导-20160303"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160304.mp3",
+		"id": 6321000064,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(64)",
+		"title": "空中辅导-20160304"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160305.mp3",
+		"id": 6321000065,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(65)",
+		"title": "空中辅导-20160305"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160306.mp3",
+		"id": 6321000066,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(66)",
+		"title": "空中辅导-20160306"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160307.mp3",
+		"id": 6321000067,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(67)",
+		"title": "空中辅导-20160307"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160308.mp3",
+		"id": 6321000068,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(68)",
+		"title": "空中辅导-20160308"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160309.mp3",
+		"id": 6321000069,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(69)",
+		"title": "空中辅导-20160309"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160310.mp3",
+		"id": 6321000070,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(70)",
+		"title": "空中辅导-20160310"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160311.mp3",
+		"id": 6321000071,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(71)",
+		"title": "空中辅导-20160311"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160312.mp3",
+		"id": 6321000072,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(72)",
+		"title": "空中辅导-20160312"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160313.mp3",
+		"id": 6321000073,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(73)",
+		"title": "空中辅导-20160313"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160314.mp3",
+		"id": 6321000074,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(74)",
+		"title": "空中辅导-20160314"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160315.mp3",
+		"id": 6321000075,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(75)",
+		"title": "空中辅导-20160315"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160316.mp3",
+		"id": 6321000076,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(76)",
+		"title": "空中辅导-20160316"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160317.mp3",
+		"id": 6321000077,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(77)",
+		"title": "空中辅导-20160317"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160318.mp3",
+		"id": 6321000078,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(78)",
+		"title": "空中辅导-20160318"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160319.mp3",
+		"id": 6321000079,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(79)",
+		"title": "空中辅导-20160319"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160320.mp3",
+		"id": 6321000080,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(80)",
+		"title": "空中辅导-20160320"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160321.mp3",
+		"id": 6321000081,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(81)",
+		"title": "空中辅导-20160321"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160322.mp3",
+		"id": 6321000082,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(82)",
+		"title": "空中辅导-20160322"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160323.mp3",
+		"id": 6321000083,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(83)",
+		"title": "空中辅导-20160323"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160324.mp3",
+		"id": 6321000084,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(84)",
+		"title": "空中辅导-20160324"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160325.mp3",
+		"id": 6321000085,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(85)",
+		"title": "空中辅导-20160325"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160326.mp3",
+		"id": 6321000086,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(86)",
+		"title": "空中辅导-20160326"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160327.mp3",
+		"id": 6321000087,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(87)",
+		"title": "空中辅导-20160327"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160328.mp3",
+		"id": 6321000088,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(88)",
+		"title": "空中辅导-20160328"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160329.mp3",
+		"id": 6321000089,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(89)",
+		"title": "空中辅导-20160329"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160330.mp3",
+		"id": 6321000090,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(90)",
+		"title": "空中辅导-20160330"
+	},
+	{
+		"duration": 3560,
+		"size": "28.5M",
+		"path": "http://media.febcchinese.org/Streaming/cc/cc160331.mp3",
+		"id": 6321000091,
+		"albumId": 6321,
+		"albumName": "《空中辅导》2016年春季合集",
+		"albumtitle": "《空中辅导》2016年春季合集(91)",
+		"title": "空中辅导-20160331"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50801%20blue%20print%20for%20building%20the%20church.m4a",
+		"id": 7103000001,
+		"albumId": 7103,
+		"albumName": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师",
+		"albumtitle": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师(1)",
+		"title": "讲座1 - 50801 选修课程--建立教会的蓝图"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50802%20blue%20print%20for%20building%20the%20church.m4a",
+		"id": 7103000002,
+		"albumId": 7103,
+		"albumName": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师",
+		"albumtitle": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师(2)",
+		"title": "讲座2 - 50802 选修课程--建立教会的蓝图"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50803%20%20blue%20print%20for%20building%20the%20church.m4a",
+		"id": 7103000003,
+		"albumId": 7103,
+		"albumName": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师",
+		"albumtitle": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师(3)",
+		"title": "讲座3 - 50803 选修课程--建立教会的蓝图"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50804%20%20blue%20print%20for%20building%20the%20church%20ok.m4a",
+		"id": 7103000004,
+		"albumId": 7103,
+		"albumName": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师",
+		"albumtitle": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师(4)",
+		"title": "讲座4 - 50804 选修课程--建立教会的蓝图"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50805%20%20blue%20print%20for%20building%20the%20church.m4a",
+		"id": 7103000005,
+		"albumId": 7103,
+		"albumName": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师",
+		"albumtitle": "BBN 50800 选修课程--建立教会的蓝图 |  滕近辉牧师(5)",
+		"title": "讲座5 - 50805 选修课程--建立教会的蓝图"
+	}
+]

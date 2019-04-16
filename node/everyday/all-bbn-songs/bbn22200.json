@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22201%20serving%20and%20life.m4a",
+		"id": 7036000001,
+		"albumId": 7036,
+		"albumName": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  ",
+		"albumtitle": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  (1)",
+		"title": "讲座1 - 22201 基督徒生活讲座--基督徒事奉与生活"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22202%20serving%20and%20life.m4a",
+		"id": 7036000002,
+		"albumId": 7036,
+		"albumName": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  ",
+		"albumtitle": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  (2)",
+		"title": "讲座2 - 22202 基督徒生活讲座--基督徒事奉与生活"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22203%20serving%20and%20life.m4a",
+		"id": 7036000003,
+		"albumId": 7036,
+		"albumName": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  ",
+		"albumtitle": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  (3)",
+		"title": "讲座3 - 22203 基督徒生活讲座--基督徒事奉与生活"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22204%20serving%20and%20life.m4a",
+		"id": 7036000004,
+		"albumId": 7036,
+		"albumName": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  ",
+		"albumtitle": "BBN 22200 基督徒生活讲座--基督徒事奉与生活 | 焦源濂牧师  (4)",
+		"title": "讲座4 - 22204 基督徒生活讲座--基督徒事奉与生活"
+	}
+]

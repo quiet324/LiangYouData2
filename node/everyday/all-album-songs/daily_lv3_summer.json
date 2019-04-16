@@ -1,0 +1,912 @@
+[
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0401.mp3",
+		"id": 6366000001,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(1)",
+		"title": "活水（三）-4月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0402.mp3",
+		"id": 6366000002,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(2)",
+		"title": "活水（三）-4月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0403.mp3",
+		"id": 6366000003,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(3)",
+		"title": "活水（三）-4月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0404.mp3",
+		"id": 6366000004,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(4)",
+		"title": "活水（三）-4月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0405.mp3",
+		"id": 6366000005,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(5)",
+		"title": "活水（三）-4月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0406.mp3",
+		"id": 6366000006,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(6)",
+		"title": "活水（三）-4月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0407.mp3",
+		"id": 6366000007,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(7)",
+		"title": "活水（三）-4月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0408.mp3",
+		"id": 6366000008,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(8)",
+		"title": "活水（三）-4月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0409.mp3",
+		"id": 6366000009,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(9)",
+		"title": "活水（三）-4月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0410.mp3",
+		"id": 6366000010,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(10)",
+		"title": "活水（三）-4月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0411.mp3",
+		"id": 6366000011,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(11)",
+		"title": "活水（三）-4月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0412.mp3",
+		"id": 6366000012,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(12)",
+		"title": "活水（三）-4月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0413.mp3",
+		"id": 6366000013,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(13)",
+		"title": "活水（三）-4月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0414.mp3",
+		"id": 6366000014,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(14)",
+		"title": "活水（三）-4月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0415.mp3",
+		"id": 6366000015,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(15)",
+		"title": "活水（三）-4月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0416.mp3",
+		"id": 6366000016,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(16)",
+		"title": "活水（三）-4月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0417.mp3",
+		"id": 6366000017,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(17)",
+		"title": "活水（三）-4月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0418.mp3",
+		"id": 6366000018,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(18)",
+		"title": "活水（三）-4月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0419.mp3",
+		"id": 6366000019,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(19)",
+		"title": "活水（三）-4月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0420.mp3",
+		"id": 6366000020,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(20)",
+		"title": "活水（三）-4月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0421.mp3",
+		"id": 6366000021,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(21)",
+		"title": "活水（三）-4月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0422.mp3",
+		"id": 6366000022,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(22)",
+		"title": "活水（三）-4月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0423.mp3",
+		"id": 6366000023,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(23)",
+		"title": "活水（三）-4月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0424.mp3",
+		"id": 6366000024,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(24)",
+		"title": "活水（三）-4月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0425.mp3",
+		"id": 6366000025,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(25)",
+		"title": "活水（三）-4月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0426.mp3",
+		"id": 6366000026,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(26)",
+		"title": "活水（三）-4月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0427.mp3",
+		"id": 6366000027,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(27)",
+		"title": "活水（三）-4月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0428.mp3",
+		"id": 6366000028,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(28)",
+		"title": "活水（三）-4月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0429.mp3",
+		"id": 6366000029,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(29)",
+		"title": "活水（三）-4月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0430.mp3",
+		"id": 6366000030,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(30)",
+		"title": "活水（三）-4月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0501.mp3",
+		"id": 6366000031,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(31)",
+		"title": "活水（三）-5月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0502.mp3",
+		"id": 6366000032,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(32)",
+		"title": "活水（三）-5月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0503.mp3",
+		"id": 6366000033,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(33)",
+		"title": "活水（三）-5月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0504.mp3",
+		"id": 6366000034,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(34)",
+		"title": "活水（三）-5月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0505.mp3",
+		"id": 6366000035,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(35)",
+		"title": "活水（三）-5月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0506.mp3",
+		"id": 6366000036,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(36)",
+		"title": "活水（三）-5月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0507.mp3",
+		"id": 6366000037,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(37)",
+		"title": "活水（三）-5月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0508.mp3",
+		"id": 6366000038,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(38)",
+		"title": "活水（三）-5月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0509.mp3",
+		"id": 6366000039,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(39)",
+		"title": "活水（三）-5月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0510.mp3",
+		"id": 6366000040,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(40)",
+		"title": "活水（三）-5月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0511.mp3",
+		"id": 6366000041,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(41)",
+		"title": "活水（三）-5月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0512.mp3",
+		"id": 6366000042,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(42)",
+		"title": "活水（三）-5月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0513.mp3",
+		"id": 6366000043,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(43)",
+		"title": "活水（三）-5月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0514.mp3",
+		"id": 6366000044,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(44)",
+		"title": "活水（三）-5月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0515.mp3",
+		"id": 6366000045,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(45)",
+		"title": "活水（三）-5月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0516.mp3",
+		"id": 6366000046,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(46)",
+		"title": "活水（三）-5月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0517.mp3",
+		"id": 6366000047,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(47)",
+		"title": "活水（三）-5月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0518.mp3",
+		"id": 6366000048,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(48)",
+		"title": "活水（三）-5月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0519.mp3",
+		"id": 6366000049,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(49)",
+		"title": "活水（三）-5月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0520.mp3",
+		"id": 6366000050,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(50)",
+		"title": "活水（三）-5月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0521.mp3",
+		"id": 6366000051,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(51)",
+		"title": "活水（三）-5月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0522.mp3",
+		"id": 6366000052,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(52)",
+		"title": "活水（三）-5月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0523.mp3",
+		"id": 6366000053,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(53)",
+		"title": "活水（三）-5月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0524.mp3",
+		"id": 6366000054,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(54)",
+		"title": "活水（三）-5月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0525.mp3",
+		"id": 6366000055,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(55)",
+		"title": "活水（三）-5月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0526.mp3",
+		"id": 6366000056,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(56)",
+		"title": "活水（三）-5月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0527.mp3",
+		"id": 6366000057,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(57)",
+		"title": "活水（三）-5月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0528.mp3",
+		"id": 6366000058,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(58)",
+		"title": "活水（三）-5月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0529.mp3",
+		"id": 6366000059,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(59)",
+		"title": "活水（三）-5月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0530.mp3",
+		"id": 6366000060,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(60)",
+		"title": "活水（三）-5月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0531.mp3",
+		"id": 6366000061,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(61)",
+		"title": "活水（三）-5月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0601.mp3",
+		"id": 6366000062,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(62)",
+		"title": "活水（三）-6月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0602.mp3",
+		"id": 6366000063,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(63)",
+		"title": "活水（三）-6月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0603.mp3",
+		"id": 6366000064,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(64)",
+		"title": "活水（三）-6月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0604.mp3",
+		"id": 6366000065,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(65)",
+		"title": "活水（三）-6月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0605.mp3",
+		"id": 6366000066,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(66)",
+		"title": "活水（三）-6月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0606.mp3",
+		"id": 6366000067,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(67)",
+		"title": "活水（三）-6月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0607.mp3",
+		"id": 6366000068,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(68)",
+		"title": "活水（三）-6月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0608.mp3",
+		"id": 6366000069,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(69)",
+		"title": "活水（三）-6月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0609.mp3",
+		"id": 6366000070,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(70)",
+		"title": "活水（三）-6月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0610.mp3",
+		"id": 6366000071,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(71)",
+		"title": "活水（三）-6月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0611.mp3",
+		"id": 6366000072,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(72)",
+		"title": "活水（三）-6月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0612.mp3",
+		"id": 6366000073,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(73)",
+		"title": "活水（三）-6月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0613.mp3",
+		"id": 6366000074,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(74)",
+		"title": "活水（三）-6月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0614.mp3",
+		"id": 6366000075,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(75)",
+		"title": "活水（三）-6月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0615.mp3",
+		"id": 6366000076,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(76)",
+		"title": "活水（三）-6月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0616.mp3",
+		"id": 6366000077,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(77)",
+		"title": "活水（三）-6月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0617.mp3",
+		"id": 6366000078,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(78)",
+		"title": "活水（三）-6月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0618.mp3",
+		"id": 6366000079,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(79)",
+		"title": "活水（三）-6月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0619.mp3",
+		"id": 6366000080,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(80)",
+		"title": "活水（三）-6月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0620.mp3",
+		"id": 6366000081,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(81)",
+		"title": "活水（三）-6月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0621.mp3",
+		"id": 6366000082,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(82)",
+		"title": "活水（三）-6月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0622.mp3",
+		"id": 6366000083,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(83)",
+		"title": "活水（三）-6月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0623.mp3",
+		"id": 6366000084,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(84)",
+		"title": "活水（三）-6月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0624.mp3",
+		"id": 6366000085,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(85)",
+		"title": "活水（三）-6月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0625.mp3",
+		"id": 6366000086,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(86)",
+		"title": "活水（三）-6月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0626.mp3",
+		"id": 6366000087,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(87)",
+		"title": "活水（三）-6月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0627.mp3",
+		"id": 6366000088,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(88)",
+		"title": "活水（三）-6月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0628.mp3",
+		"id": 6366000089,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(89)",
+		"title": "活水（三）-6月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0629.mp3",
+		"id": 6366000090,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(90)",
+		"title": "活水（三）-6月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/dev/lv3/lviii0630.mp3",
+		"id": 6366000091,
+		"albumId": 6366,
+		"albumName": "《活水（三）》夏季合集",
+		"albumtitle": "《活水（三）》夏季合集(91)",
+		"title": "活水（三）-6月30日"
+	}
+]

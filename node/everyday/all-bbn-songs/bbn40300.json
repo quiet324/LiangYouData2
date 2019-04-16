@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/40301%20People%20in%20NT%20Barnabas%20a%20comforter%20in%20Gods%20kingdom.m4a",
+		"id": 7085000001,
+		"albumId": 7085,
+		"albumName": "BBN 40300 圣经人物--新约人物 |  李定武博士",
+		"albumtitle": "BBN 40300 圣经人物--新约人物 |  李定武博士(1)",
+		"title": "讲座1 - 40301 圣经人物--新约人物"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/40302%20People%20in%20NT%20Peter%20a%20victorious%20Gods%20servant%20from%20failure.m4a",
+		"id": 7085000002,
+		"albumId": 7085,
+		"albumName": "BBN 40300 圣经人物--新约人物 |  李定武博士",
+		"albumtitle": "BBN 40300 圣经人物--新约人物 |  李定武博士(2)",
+		"title": "讲座2 - 40302 圣经人物--新约人物"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/40303%20People%20in%20NT%20Stephen%20a%20martyr.m4a",
+		"id": 7085000003,
+		"albumId": 7085,
+		"albumName": "BBN 40300 圣经人物--新约人物 |  李定武博士",
+		"albumtitle": "BBN 40300 圣经人物--新约人物 |  李定武博士(3)",
+		"title": "讲座3 - 40303 圣经人物--新约人物"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/40304%20People%20in%20NT%20Paul%20a%20loyal%20Gods%20servant.m4a",
+		"id": 7085000004,
+		"albumId": 7085,
+		"albumName": "BBN 40300 圣经人物--新约人物 |  李定武博士",
+		"albumtitle": "BBN 40300 圣经人物--新约人物 |  李定武博士(4)",
+		"title": "讲座4 - 40304 圣经人物--新约人物"
+	}
+]

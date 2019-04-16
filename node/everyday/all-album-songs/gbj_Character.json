@@ -1,0 +1,522 @@
+[
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/01.mp3",
+    "title": "第一集：更新",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000001,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(1)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/02.mp3",
+    "title": "第二集：順服",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000002,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(2)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/03.mp3",
+    "title": "第三集：仁愛",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000003,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(3)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/04.mp3",
+    "title": "第四集：接納",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000004,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(4)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/05.mp3",
+    "title": "第五集：盡責",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000005,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(5)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/06.mp3",
+    "title": "第六集：誠實",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000006,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(6)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/07.mp3",
+    "title": "第七集：堅韌",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000007,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(7)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/08.mp3",
+    "title": "第八集：公正",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000008,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(8)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/09.mp3",
+    "title": "第九集：謙卑",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000009,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(9)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/10.mp3",
+    "title": "第十集：節制",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000010,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(10)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/11.mp3",
+    "title": "第十一集：感恩",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000011,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(11)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/12.mp3",
+    "title": "第十二集：信心",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000012,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(12)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/13.mp3",
+    "title": "第十三集：超越",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000013,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(13)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/14.mp3",
+    "title": "第十四集：忠誠",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000014,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(14)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/15.mp3",
+    "title": "第十五集：服務",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000015,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(15)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/16.mp3",
+    "title": "第十六集：尊重",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000016,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(16)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/17.mp3",
+    "title": "第十七集：專注",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000017,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(17)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/18.mp3",
+    "title": "第十八集：正直",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000018,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(18)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/19.mp3",
+    "title": "第十九集：勇敢",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000019,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(19)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/20.mp3",
+    "title": "第二十集：敏銳",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000020,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(20)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/21.mp3",
+    "title": "第二十一集：受教",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000021,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(21)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/22.mp3",
+    "title": "第二十二集：有序",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000022,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(22)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/23.mp3",
+    "title": "第二十三集：知足",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000023,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(23)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/24.mp3",
+    "title": "第二十四集：主動",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000024,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(24)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/25.mp3",
+    "title": "第二十五集：創新",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000025,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(25)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/26.mp3",
+    "title": "第二十六集：溫柔",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000026,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(26)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/27.mp3",
+    "title": "第二十七集：分享",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000027,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(27)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/28.mp3",
+    "title": "第二十八集：善良",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000028,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(28)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/29.mp3",
+    "title": "第二十九集：勤奮",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000029,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(29)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/30.mp3",
+    "title": "第三十集：可靠",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000030,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(30)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/31.mp3",
+    "title": "第三十一集：毅力",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000031,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(31)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/32.mp3",
+    "title": "第三十二集：明辨",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000032,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(32)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/33.mp3",
+    "title": "第三十三集：和平",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000033,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(33)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/34.mp3",
+    "title": "第三十四集：節儉",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000034,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(34)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/35.mp3",
+    "title": "第三十五集：孝敬",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000035,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(35)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/36.mp3",
+    "title": "第三十六集：信任",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000036,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(36)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/37.mp3",
+    "title": "第三十七集：自省",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000037,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(37)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/38.mp3",
+    "title": "第三十八集：莊重",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000038,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(38)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/39.mp3",
+    "title": "第三十九集：憐憫",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000039,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(39)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/40.mp3",
+    "title": "第四十集：寬恕",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000040,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(40)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/41.mp3",
+    "title": "第四十一集：認真",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000041,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(41)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/42.mp3",
+    "title": "第四十二集：單純",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000042,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(42)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/43.mp3",
+    "title": "第四十三集：忍耐",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000043,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(43)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/44.mp3",
+    "title": "第四十四集：謹慎",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000044,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(44)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/45.mp3",
+    "title": "第四十五集：淡薄",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000045,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(45)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/46.mp3",
+    "title": "第四十六集：整潔",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000046,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(46)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/47.mp3",
+    "title": "第四十七集：喜樂",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000047,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(47)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/48.mp3",
+    "title": "第四十八集：積極",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000048,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(48)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/49.mp3",
+    "title": "第四十九集：守時",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000049,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(49)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/50.mp3",
+    "title": "第五十集：果斷",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000050,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(50)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/51.mp3",
+    "title": "第五十一集：合作",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000051,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(51)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Febc/Character/52.mp3",
+    "title": "第五十二集：熱情",
+    "duration": 500,
+    "size": "4M",
+    "albumName": "儿童品格广播剧",
+    "id": 6024000052,
+    "albumId": 6024,
+    "albumtitle": "儿童品格广播剧(52)"
+  }
+]

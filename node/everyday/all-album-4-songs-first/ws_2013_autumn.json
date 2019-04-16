@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130701.mp3",
+		"id": 6446000001,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(1)",
+		"title": "长夜的牵引-20130701"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130702.mp3",
+		"id": 6446000002,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(2)",
+		"title": "长夜的牵引-20130702"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130703.mp3",
+		"id": 6446000003,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(3)",
+		"title": "长夜的牵引-20130703"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130704.mp3",
+		"id": 6446000004,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(4)",
+		"title": "长夜的牵引-20130704"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130705.mp3",
+		"id": 6446000005,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(5)",
+		"title": "长夜的牵引-20130705"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130706.mp3",
+		"id": 6446000006,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(6)",
+		"title": "长夜的牵引-20130706"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130707.mp3",
+		"id": 6446000007,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(7)",
+		"title": "长夜的牵引-20130707"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130708.mp3",
+		"id": 6446000008,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(8)",
+		"title": "长夜的牵引-20130708"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130709.mp3",
+		"id": 6446000009,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(9)",
+		"title": "长夜的牵引-20130709"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130710.mp3",
+		"id": 6446000010,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(10)",
+		"title": "长夜的牵引-20130710"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130711.mp3",
+		"id": 6446000011,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(11)",
+		"title": "长夜的牵引-20130711"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130712.mp3",
+		"id": 6446000012,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(12)",
+		"title": "长夜的牵引-20130712"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130713.mp3",
+		"id": 6446000013,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(13)",
+		"title": "长夜的牵引-20130713"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130714.mp3",
+		"id": 6446000014,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(14)",
+		"title": "长夜的牵引-20130714"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130715.mp3",
+		"id": 6446000015,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(15)",
+		"title": "长夜的牵引-20130715"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130716.mp3",
+		"id": 6446000016,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(16)",
+		"title": "长夜的牵引-20130716"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130717.mp3",
+		"id": 6446000017,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(17)",
+		"title": "长夜的牵引-20130717"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130718.mp3",
+		"id": 6446000018,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(18)",
+		"title": "长夜的牵引-20130718"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130719.mp3",
+		"id": 6446000019,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(19)",
+		"title": "长夜的牵引-20130719"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130720.mp3",
+		"id": 6446000020,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(20)",
+		"title": "长夜的牵引-20130720"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130721.mp3",
+		"id": 6446000021,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(21)",
+		"title": "长夜的牵引-20130721"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130722.mp3",
+		"id": 6446000022,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(22)",
+		"title": "长夜的牵引-20130722"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130723.mp3",
+		"id": 6446000023,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(23)",
+		"title": "长夜的牵引-20130723"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130724.mp3",
+		"id": 6446000024,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(24)",
+		"title": "长夜的牵引-20130724"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130725.mp3",
+		"id": 6446000025,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(25)",
+		"title": "长夜的牵引-20130725"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130726.mp3",
+		"id": 6446000026,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(26)",
+		"title": "长夜的牵引-20130726"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130727.mp3",
+		"id": 6446000027,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(27)",
+		"title": "长夜的牵引-20130727"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130728.mp3",
+		"id": 6446000028,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(28)",
+		"title": "长夜的牵引-20130728"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130729.mp3",
+		"id": 6446000029,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(29)",
+		"title": "长夜的牵引-20130729"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130730.mp3",
+		"id": 6446000030,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(30)",
+		"title": "长夜的牵引-20130730"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130731.mp3",
+		"id": 6446000031,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(31)",
+		"title": "长夜的牵引-20130731"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130801.mp3",
+		"id": 6446000032,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(32)",
+		"title": "长夜的牵引-20130801"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130802.mp3",
+		"id": 6446000033,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(33)",
+		"title": "长夜的牵引-20130802"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130803.mp3",
+		"id": 6446000034,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(34)",
+		"title": "长夜的牵引-20130803"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130804.mp3",
+		"id": 6446000035,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(35)",
+		"title": "长夜的牵引-20130804"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130805.mp3",
+		"id": 6446000036,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(36)",
+		"title": "长夜的牵引-20130805"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130806.mp3",
+		"id": 6446000037,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(37)",
+		"title": "长夜的牵引-20130806"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130807.mp3",
+		"id": 6446000038,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(38)",
+		"title": "长夜的牵引-20130807"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130808.mp3",
+		"id": 6446000039,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(39)",
+		"title": "长夜的牵引-20130808"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130809.mp3",
+		"id": 6446000040,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(40)",
+		"title": "长夜的牵引-20130809"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130810.mp3",
+		"id": 6446000041,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(41)",
+		"title": "长夜的牵引-20130810"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130811.mp3",
+		"id": 6446000042,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(42)",
+		"title": "长夜的牵引-20130811"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130812.mp3",
+		"id": 6446000043,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(43)",
+		"title": "长夜的牵引-20130812"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130813.mp3",
+		"id": 6446000044,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(44)",
+		"title": "长夜的牵引-20130813"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130814.mp3",
+		"id": 6446000045,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(45)",
+		"title": "长夜的牵引-20130814"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130815.mp3",
+		"id": 6446000046,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(46)",
+		"title": "长夜的牵引-20130815"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130816.mp3",
+		"id": 6446000047,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(47)",
+		"title": "长夜的牵引-20130816"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130817.mp3",
+		"id": 6446000048,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(48)",
+		"title": "长夜的牵引-20130817"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130818.mp3",
+		"id": 6446000049,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(49)",
+		"title": "长夜的牵引-20130818"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130819.mp3",
+		"id": 6446000050,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(50)",
+		"title": "长夜的牵引-20130819"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130820.mp3",
+		"id": 6446000051,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(51)",
+		"title": "长夜的牵引-20130820"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130821.mp3",
+		"id": 6446000052,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(52)",
+		"title": "长夜的牵引-20130821"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130822.mp3",
+		"id": 6446000053,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(53)",
+		"title": "长夜的牵引-20130822"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130823.mp3",
+		"id": 6446000054,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(54)",
+		"title": "长夜的牵引-20130823"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130824.mp3",
+		"id": 6446000055,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(55)",
+		"title": "长夜的牵引-20130824"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130825.mp3",
+		"id": 6446000056,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(56)",
+		"title": "长夜的牵引-20130825"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130826.mp3",
+		"id": 6446000057,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(57)",
+		"title": "长夜的牵引-20130826"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130827.mp3",
+		"id": 6446000058,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(58)",
+		"title": "长夜的牵引-20130827"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130828.mp3",
+		"id": 6446000059,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(59)",
+		"title": "长夜的牵引-20130828"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130829.mp3",
+		"id": 6446000060,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(60)",
+		"title": "长夜的牵引-20130829"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130830.mp3",
+		"id": 6446000061,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(61)",
+		"title": "长夜的牵引-20130830"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130831.mp3",
+		"id": 6446000062,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(62)",
+		"title": "长夜的牵引-20130831"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130901.mp3",
+		"id": 6446000063,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(63)",
+		"title": "长夜的牵引-20130901"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130902.mp3",
+		"id": 6446000064,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(64)",
+		"title": "长夜的牵引-20130902"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130903.mp3",
+		"id": 6446000065,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(65)",
+		"title": "长夜的牵引-20130903"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130904.mp3",
+		"id": 6446000066,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(66)",
+		"title": "长夜的牵引-20130904"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130905.mp3",
+		"id": 6446000067,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(67)",
+		"title": "长夜的牵引-20130905"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130906.mp3",
+		"id": 6446000068,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(68)",
+		"title": "长夜的牵引-20130906"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130907.mp3",
+		"id": 6446000069,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(69)",
+		"title": "长夜的牵引-20130907"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130908.mp3",
+		"id": 6446000070,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(70)",
+		"title": "长夜的牵引-20130908"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130909.mp3",
+		"id": 6446000071,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(71)",
+		"title": "长夜的牵引-20130909"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130910.mp3",
+		"id": 6446000072,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(72)",
+		"title": "长夜的牵引-20130910"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130911.mp3",
+		"id": 6446000073,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(73)",
+		"title": "长夜的牵引-20130911"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130912.mp3",
+		"id": 6446000074,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(74)",
+		"title": "长夜的牵引-20130912"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130913.mp3",
+		"id": 6446000075,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(75)",
+		"title": "长夜的牵引-20130913"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130914.mp3",
+		"id": 6446000076,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(76)",
+		"title": "长夜的牵引-20130914"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130915.mp3",
+		"id": 6446000077,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(77)",
+		"title": "长夜的牵引-20130915"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130916.mp3",
+		"id": 6446000078,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(78)",
+		"title": "长夜的牵引-20130916"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130917.mp3",
+		"id": 6446000079,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(79)",
+		"title": "长夜的牵引-20130917"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130918.mp3",
+		"id": 6446000080,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(80)",
+		"title": "长夜的牵引-20130918"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130919.mp3",
+		"id": 6446000081,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(81)",
+		"title": "长夜的牵引-20130919"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130920.mp3",
+		"id": 6446000082,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(82)",
+		"title": "长夜的牵引-20130920"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130921.mp3",
+		"id": 6446000083,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(83)",
+		"title": "长夜的牵引-20130921"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130922.mp3",
+		"id": 6446000084,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(84)",
+		"title": "长夜的牵引-20130922"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130923.mp3",
+		"id": 6446000085,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(85)",
+		"title": "长夜的牵引-20130923"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130924.mp3",
+		"id": 6446000086,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(86)",
+		"title": "长夜的牵引-20130924"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130925.mp3",
+		"id": 6446000087,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(87)",
+		"title": "长夜的牵引-20130925"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130926.mp3",
+		"id": 6446000088,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(88)",
+		"title": "长夜的牵引-20130926"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130927.mp3",
+		"id": 6446000089,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(89)",
+		"title": "长夜的牵引-20130927"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130928.mp3",
+		"id": 6446000090,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(90)",
+		"title": "长夜的牵引-20130928"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130929.mp3",
+		"id": 6446000091,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(91)",
+		"title": "长夜的牵引-20130929"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/ws/ws130930.mp3",
+		"id": 6446000092,
+		"albumId": 6446,
+		"albumName": "《长夜的牵引》2013年秋季合集",
+		"albumtitle": "《长夜的牵引》2013年秋季合集(92)",
+		"title": "长夜的牵引-20130930"
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32301%20James%2001%2001-11.m4a",
+		"id": 7060000001,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (1)",
+		"title": "讲座1 - 32301 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32302%20James%2001%2012-25.m4a",
+		"id": 7060000002,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (2)",
+		"title": "讲座2 - 32302 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32303%20James%2001%2026%20-%2002%2008.m4a",
+		"id": 7060000003,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (3)",
+		"title": "讲座3 - 32303 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32304%20James%2002%2009-26.m4a",
+		"id": 7060000004,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (4)",
+		"title": "讲座4 - 32304 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32305%20James%2003%2001-18.m4a",
+		"id": 7060000005,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (5)",
+		"title": "讲座5 - 32305 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32306%20James%2004%2001-10.m4a",
+		"id": 7060000006,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (6)",
+		"title": "讲座6 - 32306 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32307%20James%2004%2011-17.m4a",
+		"id": 7060000007,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (7)",
+		"title": "讲座7 - 32307 圣经书卷--雅各书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/32308%20James%2005end.m4a",
+		"id": 7060000008,
+		"albumId": 7060,
+		"albumName": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 ",
+		"albumtitle": "BBN 32300 圣经书卷--雅各书 |  于力工牧师 (8)",
+		"title": "讲座8 - 32308 圣经书卷--雅各书"
+	}
+]

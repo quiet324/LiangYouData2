@@ -1,0 +1,922 @@
+[
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160701.mp3",
+    "id": 6345000001,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(1)",
+    "title": "拥抱每一天-20160701"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160702.mp3",
+    "id": 6345000002,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(2)",
+    "title": "拥抱每一天-20160702"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160703.mp3",
+    "id": 6345000003,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(3)",
+    "title": "拥抱每一天-20160703"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160704.mp3",
+    "id": 6345000004,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(4)",
+    "title": "拥抱每一天-20160704"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160705.mp3",
+    "id": 6345000005,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(5)",
+    "title": "拥抱每一天-20160705"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160706.mp3",
+    "id": 6345000006,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(6)",
+    "title": "拥抱每一天-20160706"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160707.mp3",
+    "id": 6345000007,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(7)",
+    "title": "拥抱每一天-20160707"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160708.mp3",
+    "id": 6345000008,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(8)",
+    "title": "拥抱每一天-20160708"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160709.mp3",
+    "id": 6345000009,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(9)",
+    "title": "拥抱每一天-20160709"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160710.mp3",
+    "id": 6345000010,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(10)",
+    "title": "拥抱每一天-20160710"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160711.mp3",
+    "id": 6345000011,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(11)",
+    "title": "拥抱每一天-20160711"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160712.mp3",
+    "id": 6345000012,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(12)",
+    "title": "拥抱每一天-20160712"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160713.mp3",
+    "id": 6345000013,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(13)",
+    "title": "拥抱每一天-20160713"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160714.mp3",
+    "id": 6345000014,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(14)",
+    "title": "拥抱每一天-20160714"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160715.mp3",
+    "id": 6345000015,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(15)",
+    "title": "拥抱每一天-20160715"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160716.mp3",
+    "id": 6345000016,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(16)",
+    "title": "拥抱每一天-20160716"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160717.mp3",
+    "id": 6345000017,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(17)",
+    "title": "拥抱每一天-20160717"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160718.mp3",
+    "id": 6345000018,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(18)",
+    "title": "拥抱每一天-20160718"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160719.mp3",
+    "id": 6345000019,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(19)",
+    "title": "拥抱每一天-20160719"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160720.mp3",
+    "id": 6345000020,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(20)",
+    "title": "拥抱每一天-20160720"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160721.mp3",
+    "id": 6345000021,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(21)",
+    "title": "拥抱每一天-20160721"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160722.mp3",
+    "id": 6345000022,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(22)",
+    "title": "拥抱每一天-20160722"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160723.mp3",
+    "id": 6345000023,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(23)",
+    "title": "拥抱每一天-20160723"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160724.mp3",
+    "id": 6345000024,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(24)",
+    "title": "拥抱每一天-20160724"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160725.mp3",
+    "id": 6345000025,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(25)",
+    "title": "拥抱每一天-20160725"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160726.mp3",
+    "id": 6345000026,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(26)",
+    "title": "拥抱每一天-20160726"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160727.mp3",
+    "id": 6345000027,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(27)",
+    "title": "拥抱每一天-20160727"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160728.mp3",
+    "id": 6345000028,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(28)",
+    "title": "拥抱每一天-20160728"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160729.mp3",
+    "id": 6345000029,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(29)",
+    "title": "拥抱每一天-20160729"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160730.mp3",
+    "id": 6345000030,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(30)",
+    "title": "拥抱每一天-20160730"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160731.mp3",
+    "id": 6345000031,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(31)",
+    "title": "拥抱每一天-20160731"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160801.mp3",
+    "id": 6345000032,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(32)",
+    "title": "拥抱每一天-20160801"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160802.mp3",
+    "id": 6345000033,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(33)",
+    "title": "拥抱每一天-20160802"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160803.mp3",
+    "id": 6345000034,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(34)",
+    "title": "拥抱每一天-20160803"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160804.mp3",
+    "id": 6345000035,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(35)",
+    "title": "拥抱每一天-20160804"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160805.mp3",
+    "id": 6345000036,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(36)",
+    "title": "拥抱每一天-20160805"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160806.mp3",
+    "id": 6345000037,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(37)",
+    "title": "拥抱每一天-20160806"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160807.mp3",
+    "id": 6345000038,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(38)",
+    "title": "拥抱每一天-20160807"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160808.mp3",
+    "id": 6345000039,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(39)",
+    "title": "拥抱每一天-20160808"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160809.mp3",
+    "id": 6345000040,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(40)",
+    "title": "拥抱每一天-20160809"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160810.mp3",
+    "id": 6345000041,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(41)",
+    "title": "拥抱每一天-20160810"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160811.mp3",
+    "id": 6345000042,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(42)",
+    "title": "拥抱每一天-20160811"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160812.mp3",
+    "id": 6345000043,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(43)",
+    "title": "拥抱每一天-20160812"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160813.mp3",
+    "id": 6345000044,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(44)",
+    "title": "拥抱每一天-20160813"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160814.mp3",
+    "id": 6345000045,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(45)",
+    "title": "拥抱每一天-20160814"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160815.mp3",
+    "id": 6345000046,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(46)",
+    "title": "拥抱每一天-20160815"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160816.mp3",
+    "id": 6345000047,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(47)",
+    "title": "拥抱每一天-20160816"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160817.mp3",
+    "id": 6345000048,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(48)",
+    "title": "拥抱每一天-20160817"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160818.mp3",
+    "id": 6345000049,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(49)",
+    "title": "拥抱每一天-20160818"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160819.mp3",
+    "id": 6345000050,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(50)",
+    "title": "拥抱每一天-20160819"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160820.mp3",
+    "id": 6345000051,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(51)",
+    "title": "拥抱每一天-20160820"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160821.mp3",
+    "id": 6345000052,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(52)",
+    "title": "拥抱每一天-20160821"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160822.mp3",
+    "id": 6345000053,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(53)",
+    "title": "拥抱每一天-20160822"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160823.mp3",
+    "id": 6345000054,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(54)",
+    "title": "拥抱每一天-20160823"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160824.mp3",
+    "id": 6345000055,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(55)",
+    "title": "拥抱每一天-20160824"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160825.mp3",
+    "id": 6345000056,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(56)",
+    "title": "拥抱每一天-20160825"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160826.mp3",
+    "id": 6345000057,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(57)",
+    "title": "拥抱每一天-20160826"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160827.mp3",
+    "id": 6345000058,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(58)",
+    "title": "拥抱每一天-20160827"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160828.mp3",
+    "id": 6345000059,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(59)",
+    "title": "拥抱每一天-20160828"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160829.mp3",
+    "id": 6345000060,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(60)",
+    "title": "拥抱每一天-20160829"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160830.mp3",
+    "id": 6345000061,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(61)",
+    "title": "拥抱每一天-20160830"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160831.mp3",
+    "id": 6345000062,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(62)",
+    "title": "拥抱每一天-20160831"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160901.mp3",
+    "id": 6345000063,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(63)",
+    "title": "拥抱每一天-20160901"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160902.mp3",
+    "id": 6345000064,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(64)",
+    "title": "拥抱每一天-20160902"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160903.mp3",
+    "id": 6345000065,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(65)",
+    "title": "拥抱每一天-20160903"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160904.mp3",
+    "id": 6345000066,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(66)",
+    "title": "拥抱每一天-20160904"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160905.mp3",
+    "id": 6345000067,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(67)",
+    "title": "拥抱每一天-20160905"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160906.mp3",
+    "id": 6345000068,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(68)",
+    "title": "拥抱每一天-20160906"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160907.mp3",
+    "id": 6345000069,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(69)",
+    "title": "拥抱每一天-20160907"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160908.mp3",
+    "id": 6345000070,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(70)",
+    "title": "拥抱每一天-20160908"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160909.mp3",
+    "id": 6345000071,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(71)",
+    "title": "拥抱每一天-20160909"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160910.mp3",
+    "id": 6345000072,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(72)",
+    "title": "拥抱每一天-20160910"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160911.mp3",
+    "id": 6345000073,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(73)",
+    "title": "拥抱每一天-20160911"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160912.mp3",
+    "id": 6345000074,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(74)",
+    "title": "拥抱每一天-20160912"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160913.mp3",
+    "id": 6345000075,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(75)",
+    "title": "拥抱每一天-20160913"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160914.mp3",
+    "id": 6345000076,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(76)",
+    "title": "拥抱每一天-20160914"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160915.mp3",
+    "id": 6345000077,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(77)",
+    "title": "拥抱每一天-20160915"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160916.mp3",
+    "id": 6345000078,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(78)",
+    "title": "拥抱每一天-20160916"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160917.mp3",
+    "id": 6345000079,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(79)",
+    "title": "拥抱每一天-20160917"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160918.mp3",
+    "id": 6345000080,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(80)",
+    "title": "拥抱每一天-20160918"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160919.mp3",
+    "id": 6345000081,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(81)",
+    "title": "拥抱每一天-20160919"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160920.mp3",
+    "id": 6345000082,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(82)",
+    "title": "拥抱每一天-20160920"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160921.mp3",
+    "id": 6345000083,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(83)",
+    "title": "拥抱每一天-20160921"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160922.mp3",
+    "id": 6345000084,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(84)",
+    "title": "拥抱每一天-20160922"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160923.mp3",
+    "id": 6345000085,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(85)",
+    "title": "拥抱每一天-20160923"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160924.mp3",
+    "id": 6345000086,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(86)",
+    "title": "拥抱每一天-20160924"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160925.mp3",
+    "id": 6345000087,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(87)",
+    "title": "拥抱每一天-20160925"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160926.mp3",
+    "id": 6345000088,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(88)",
+    "title": "拥抱每一天-20160926"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160927.mp3",
+    "id": 6345000089,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(89)",
+    "title": "拥抱每一天-20160927"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160928.mp3",
+    "id": 6345000090,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(90)",
+    "title": "拥抱每一天-20160928"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160929.mp3",
+    "id": 6345000091,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(91)",
+    "title": "拥抱每一天-20160929"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/ee/ee160930.mp3",
+    "id": 6345000092,
+    "albumId": 6345,
+    "albumName": "《拥抱每一天》2016年秋季合集",
+    "albumtitle": "《拥抱每一天》2016年秋季合集(92)",
+    "title": "拥抱每一天-20160930"
+  }
+]

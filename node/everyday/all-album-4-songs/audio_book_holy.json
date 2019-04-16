@@ -1,0 +1,692 @@
+[
+	{
+		"duration": 1104,
+		"size": "16.85 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/001.《圣洁》——序言（1）.mp3",
+		"id": 6467000001,
+		"title": "001.《圣洁》——序言（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(1)"
+	},
+	{
+		"duration": 1099,
+		"size": "16.78 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/002.《圣洁》——序言（2）.mp3",
+		"id": 6467000002,
+		"title": "002.《圣洁》——序言（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(2)"
+	},
+	{
+		"duration": 1412,
+		"size": "21.55 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/003.《圣洁》——罪（1）.mp3",
+		"id": 6467000003,
+		"title": "003.《圣洁》——罪（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(3)"
+	},
+	{
+		"duration": 1431,
+		"size": "21.84 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/004.《圣洁》——罪（2）.mp3",
+		"id": 6467000004,
+		"title": "004.《圣洁》——罪（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(4)"
+	},
+	{
+		"duration": 1235,
+		"size": "18.86 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/005.《圣洁》——成圣（1）.mp3",
+		"id": 6467000005,
+		"title": "005.《圣洁》——成圣（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(5)"
+	},
+	{
+		"duration": 1300,
+		"size": "19.84 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/006.《圣洁》——成圣（2）.mp3",
+		"id": 6467000006,
+		"title": "006.《圣洁》——成圣（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(6)"
+	},
+	{
+		"duration": 1423,
+		"size": "21.72 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/007.《圣洁》——圣洁（1）.mp3",
+		"id": 6467000007,
+		"title": "007.《圣洁》——圣洁（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(7)"
+	},
+	{
+		"duration": 1459,
+		"size": "22.27 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/007.《圣洁》——成圣（3）.mp3",
+		"id": 6467000008,
+		"title": "007.《圣洁》——成圣（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(8)"
+	},
+	{
+		"duration": 1274,
+		"size": "19.45 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/008.《圣洁》——圣洁（2）.mp3",
+		"id": 6467000009,
+		"title": "008.《圣洁》——圣洁（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(9)"
+	},
+	{
+		"duration": 1307,
+		"size": "19.96 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/009.《圣洁》——圣洁（3）.mp3",
+		"id": 6467000010,
+		"title": "009.《圣洁》——圣洁（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(10)"
+	},
+	{
+		"duration": 1338,
+		"size": "20.42 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/010.《圣洁》——争战（1）.mp3",
+		"id": 6467000011,
+		"title": "010.《圣洁》——争战（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(11)"
+	},
+	{
+		"duration": 1300,
+		"size": "19.84 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/011.《圣洁》——争战（2）.mp3",
+		"id": 6467000012,
+		"title": "011.《圣洁》——争战（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(12)"
+	},
+	{
+		"duration": 975,
+		"size": "14.89 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/012.《圣洁》——争战（3）.mp3",
+		"id": 6467000013,
+		"title": "012.《圣洁》——争战（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(13)"
+	},
+	{
+		"duration": 1547,
+		"size": "23.61 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/013.《圣洁》——代价（1）.mp3",
+		"id": 6467000014,
+		"title": "013.《圣洁》——代价（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(14)"
+	},
+	{
+		"duration": 1344,
+		"size": "20.52 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/014.《圣洁》——代价（2）.mp3",
+		"id": 6467000015,
+		"title": "014.《圣洁》——代价（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(15)"
+	},
+	{
+		"duration": 1289,
+		"size": "19.68 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/015.《圣洁》——长进（1）.mp3",
+		"id": 6467000016,
+		"title": "015.《圣洁》——长进（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(16)"
+	},
+	{
+		"duration": 1348,
+		"size": "20.58 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/016.《圣洁》——长进（2）.mp3",
+		"id": 6467000017,
+		"title": "016.《圣洁》——长进（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(17)"
+	},
+	{
+		"duration": 917,
+		"size": "14.00 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/017.《圣洁》——长进（3）.mp3",
+		"id": 6467000018,
+		"title": "017.《圣洁》——长进（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(18)"
+	},
+	{
+		"duration": 1222,
+		"size": "18.66 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/018.《圣洁》——得救的确据（1）.mp3",
+		"id": 6467000019,
+		"title": "018.《圣洁》——得救的确据（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(19)"
+	},
+	{
+		"duration": 1615,
+		"size": "24.65 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/019.《圣洁》——得救的确据（2）.mp3",
+		"id": 6467000020,
+		"title": "019.《圣洁》——得救的确据（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(20)"
+	},
+	{
+		"duration": 1300,
+		"size": "19.85 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/020.《圣洁》——得救的确据（3）.mp3",
+		"id": 6467000021,
+		"title": "020.《圣洁》——得救的确据（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(21)"
+	},
+	{
+		"duration": 1060,
+		"size": "16.18 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/021.《圣洁》——得救的确据（4）.mp3",
+		"id": 6467000022,
+		"title": "021.《圣洁》——得救的确据（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(22)"
+	},
+	{
+		"duration": 1446,
+		"size": "22.07 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/022.《圣洁》——摩西 一个榜样（1）.mp3",
+		"id": 6467000023,
+		"title": "022.《圣洁》——摩西 一个榜样（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(23)"
+	},
+	{
+		"duration": 1287,
+		"size": "19.64 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/023.《圣洁》——摩西 一个榜样（2）.mp3",
+		"id": 6467000024,
+		"title": "023.《圣洁》——摩西 一个榜样（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(24)"
+	},
+	{
+		"duration": 829,
+		"size": "12.65 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/024.《圣洁》——摩西 一个榜样（3）.mp3",
+		"id": 6467000025,
+		"title": "024.《圣洁》——摩西 一个榜样（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(25)"
+	},
+	{
+		"duration": 1108,
+		"size": "16.92 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/025.《圣洁》——罗得 一个警示（1）.mp3",
+		"id": 6467000026,
+		"title": "025.《圣洁》——罗得 一个警示（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(26)"
+	},
+	{
+		"duration": 927,
+		"size": "14.16 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/026.《圣洁》——罗得 一个警示（2）.mp3",
+		"id": 6467000027,
+		"title": "026.《圣洁》——罗得 一个警示（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(27)"
+	},
+	{
+		"duration": 1261,
+		"size": "19.25 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/027.《圣洁》——罗得 一个警示（3）.mp3",
+		"id": 6467000028,
+		"title": "027.《圣洁》——罗得 一个警示（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(28)"
+	},
+	{
+		"duration": 946,
+		"size": "14.44 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/028.《圣洁》——一个要回想的女子：罗得的妻子（1）.mp3",
+		"id": 6467000029,
+		"title": "028.《圣洁》——一个要回想的女子：罗得的妻子（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(29)"
+	},
+	{
+		"duration": 1171,
+		"size": "17.88 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/029.《圣洁》——一个要回想的女子：罗得的妻子（2）.mp3",
+		"id": 6467000030,
+		"title": "029.《圣洁》——一个要回想的女子：罗得的妻子（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(30)"
+	},
+	{
+		"duration": 777,
+		"size": "11.86 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/030.《圣洁》——一个要回想的女子：罗得的妻子（3）.mp3",
+		"id": 6467000031,
+		"title": "030.《圣洁》——一个要回想的女子：罗得的妻子（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(31)"
+	},
+	{
+		"duration": 1144,
+		"size": "17.46 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/031.《圣洁》——一个要回想的女子：罗得的妻子（4）.mp3",
+		"id": 6467000032,
+		"title": "031.《圣洁》——一个要回想的女子：罗得的妻子（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(32)"
+	},
+	{
+		"duration": 773,
+		"size": "11.80 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/032.《圣洁》——基督最大的战利品（1）.mp3",
+		"id": 6467000033,
+		"title": "032.《圣洁》——基督最大的战利品（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(33)"
+	},
+	{
+		"duration": 576,
+		"size": "8.79 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/033.《圣洁》——基督最大的战利品（2）.mp3",
+		"id": 6467000034,
+		"title": "033.《圣洁》——基督最大的战利品（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(34)"
+	},
+	{
+		"duration": 837,
+		"size": "12.78 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/034.《圣洁》——基督最大的战利品（3）.mp3",
+		"id": 6467000035,
+		"title": "034.《圣洁》——基督最大的战利品（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(35)"
+	},
+	{
+		"duration": 879,
+		"size": "13.42 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/035.《圣洁》——基督最大的战利品（4）.mp3",
+		"id": 6467000036,
+		"title": "035.《圣洁》——基督最大的战利品（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(36)"
+	},
+	{
+		"duration": 1630,
+		"size": "37.25 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/036.《圣洁》——风浪的主宰（1）.mp3",
+		"id": 6467000037,
+		"title": "036.《圣洁》——风浪的主宰（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(37)"
+	},
+	{
+		"duration": 1581,
+		"size": "24.13 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/037.《圣洁》——风浪的主宰（2）.mp3",
+		"id": 6467000038,
+		"title": "037.《圣洁》——风浪的主宰（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(38)"
+	},
+	{
+		"duration": 1244,
+		"size": "18.99 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/038.《圣洁》——风浪的主宰（3）.mp3",
+		"id": 6467000039,
+		"title": "038.《圣洁》——风浪的主宰（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(39)"
+	},
+	{
+		"duration": 1123,
+		"size": "17.15 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/039.《圣洁》——基督所建造的教会（1）.mp3",
+		"id": 6467000040,
+		"title": "039.《圣洁》——基督所建造的教会（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(40)"
+	},
+	{
+		"duration": 1329,
+		"size": "20.29 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/040.《圣洁》——基督所建造的教会（2）.mp3",
+		"id": 6467000041,
+		"title": "040.《圣洁》——基督所建造的教会（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(41)"
+	},
+	{
+		"duration": 622,
+		"size": "9.49 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/041.《圣洁》——基督所建造的教会（3）.mp3",
+		"id": 6467000042,
+		"title": "041.《圣洁》——基督所建造的教会（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(42)"
+	},
+	{
+		"duration": 1556,
+		"size": "23.75 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/042.《圣洁》——对有形教会的警告（1）.mp3",
+		"id": 6467000043,
+		"title": "042.《圣洁》——对有形教会的警告（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(43)"
+	},
+	{
+		"duration": 1048,
+		"size": "15.99 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/043.《圣洁》——对有形教会的警告（2）.mp3",
+		"id": 6467000044,
+		"title": "043.《圣洁》——对有形教会的警告（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(44)"
+	},
+	{
+		"duration": 1331,
+		"size": "20.31 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/044.《圣洁》——你爱我吗？（1）.mp3",
+		"id": 6467000045,
+		"title": "044.《圣洁》——你爱我吗？（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(45)"
+	},
+	{
+		"duration": 1360,
+		"size": "20.76 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/045.《圣洁》——你爱我吗？（2）.mp3",
+		"id": 6467000046,
+		"title": "045.《圣洁》——你爱我吗？（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(46)"
+	},
+	{
+		"duration": 910,
+		"size": "13.89 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/046.《圣洁》——与基督无关（1）.mp3",
+		"id": 6467000047,
+		"title": "046.《圣洁》——与基督无关（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(47)"
+	},
+	{
+		"duration": 1020,
+		"size": "15.57 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/047.《圣洁》——与基督无关（2）.mp3",
+		"id": 6467000048,
+		"title": "047.《圣洁》——与基督无关（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(48)"
+	},
+	{
+		"duration": 914,
+		"size": "13.96 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/048.《圣洁》——永不再渴（1）.mp3",
+		"id": 6467000049,
+		"title": "048.《圣洁》——永不再渴（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(49)"
+	},
+	{
+		"duration": 933,
+		"size": "14.25 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/049.《圣洁》——永不再渴（2）.mp3",
+		"id": 6467000050,
+		"title": "049.《圣洁》——永不再渴（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(50)"
+	},
+	{
+		"duration": 758,
+		"size": "11.57 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/050.《圣洁》——永不再渴（3）.mp3",
+		"id": 6467000051,
+		"title": "050.《圣洁》——永不再渴（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(51)"
+	},
+	{
+		"duration": 1017,
+		"size": "15.52 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/051.《圣洁》——永不再渴（4）.mp3",
+		"id": 6467000052,
+		"title": "051.《圣洁》——永不再渴（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(52)"
+	},
+	{
+		"duration": 556,
+		"size": "8.49 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/052.《圣洁》——永不再渴（附录）.mp3",
+		"id": 6467000053,
+		"title": "052.《圣洁》——永不再渴（附录）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(53)"
+	},
+	{
+		"duration": 819,
+		"size": "12.50 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/053.《圣洁》——测不透的丰富（1）.mp3",
+		"id": 6467000054,
+		"title": "053.《圣洁》——测不透的丰富（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(54)"
+	},
+	{
+		"duration": 658,
+		"size": "10.05 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/054.《圣洁》——测不透的丰富（2）.mp3",
+		"id": 6467000055,
+		"title": "054.《圣洁》——测不透的丰富（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(55)"
+	},
+	{
+		"duration": 1433,
+		"size": "21.88 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/055.《圣洁》——测不透的丰富（3）.mp3",
+		"id": 6467000056,
+		"title": "055.《圣洁》——测不透的丰富（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(56)"
+	},
+	{
+		"duration": 886,
+		"size": "13.52 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/056.《圣洁》——时代的需要（1）.mp3",
+		"id": 6467000057,
+		"title": "056.《圣洁》——时代的需要（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(57)"
+	},
+	{
+		"duration": 631,
+		"size": "9.64 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/057.《圣洁》——时代的需要（2）.mp3",
+		"id": 6467000058,
+		"title": "057.《圣洁》——时代的需要（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(58)"
+	},
+	{
+		"duration": 1301,
+		"size": "19.86 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/058.《圣洁》——时代的需要（3）.mp3",
+		"id": 6467000059,
+		"title": "058.《圣洁》——时代的需要（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(59)"
+	},
+	{
+		"duration": 1249,
+		"size": "19.07 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/059.《圣洁》——时代的需要（4）.mp3",
+		"id": 6467000060,
+		"title": "059.《圣洁》——时代的需要（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(60)"
+	},
+	{
+		"duration": 755,
+		"size": "11.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/060.《圣洁》——基督是一切（1）.mp3",
+		"id": 6467000061,
+		"title": "060.《圣洁》——基督是一切（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(61)"
+	},
+	{
+		"duration": 522,
+		"size": "7.98 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/061.《圣洁》——基督是一切（2）.mp3",
+		"id": 6467000062,
+		"title": "061.《圣洁》——基督是一切（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(62)"
+	},
+	{
+		"duration": 1197,
+		"size": "18.27 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/063.《圣洁》——基督是一切（3）.mp3",
+		"id": 6467000063,
+		"title": "063.《圣洁》——基督是一切（3）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(63)"
+	},
+	{
+		"duration": 735,
+		"size": "11.22 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/064.《圣洁》——基督是一切（4）.mp3",
+		"id": 6467000064,
+		"title": "064.《圣洁》——基督是一切（4）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(64)"
+	},
+	{
+		"duration": 1050,
+		"size": "16.03 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/065.《圣洁》——基督是一切（5）.mp3",
+		"id": 6467000065,
+		"title": "065.《圣洁》——基督是一切（5）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(65)"
+	},
+	{
+		"duration": 1079,
+		"size": "16.47 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/066.《圣洁》——先贤作品摘抄（1）.mp3",
+		"id": 6467000066,
+		"title": "066.《圣洁》——先贤作品摘抄（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(66)"
+	},
+	{
+		"duration": 852,
+		"size": "13.01 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/067.《圣洁》——先贤作品摘抄（2）.mp3",
+		"id": 6467000067,
+		"title": "067.《圣洁》——先贤作品摘抄（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(67)"
+	},
+	{
+		"duration": 1055,
+		"size": "16.10 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/068.《圣洁》——《得救确据》中注释的补注（1）.mp3",
+		"id": 6467000068,
+		"title": "068.《圣洁》——《得救确据》中注释的补注（1）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(68)"
+	},
+	{
+		"duration": 1085,
+		"size": "16.57 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/Holy/069.《圣洁》——《得救确据》中注释的补注（2）.mp3",
+		"id": 6467000069,
+		"title": "069.《圣洁》——《得救确据》中注释的补注（2）",
+		"albumId": 6467,
+		"albumName": "圣洁",
+		"albumtitle": "圣洁(69)"
+	}
+]

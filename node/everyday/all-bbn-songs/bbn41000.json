@@ -1,0 +1,92 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41001%20Chinese-David-1%20ok%20.m4a",
+		"id": 7090000001,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(1)",
+		"title": "讲座1 - 41001 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41002%20Chinese-David-2%20ok%20.m4a",
+		"id": 7090000002,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(2)",
+		"title": "讲座2 - 41002 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41003%20Chinese-David-3%20ok%20.m4a",
+		"id": 7090000003,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(3)",
+		"title": "讲座3 - 41003 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41004%20Chinese-David-4%20ok%20.m4a",
+		"id": 7090000004,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(4)",
+		"title": "讲座4 - 41004 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41005%20Chinese-David-5%20ok%20.m4a",
+		"id": 7090000005,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(5)",
+		"title": "讲座5 - 41005 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41006%20Chinese-David-6%20ok%20.m4a",
+		"id": 7090000006,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(6)",
+		"title": "讲座6 - 41006 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41007%20Chinese-David-7%20ok%20.m4a",
+		"id": 7090000007,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(7)",
+		"title": "讲座7 - 41007 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41008%20Chinese-David-8.m4a",
+		"id": 7090000008,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(8)",
+		"title": "讲座8 - 41008 圣经人物--大卫"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/41009%20Chinese-David-9%20ok%20.m4a",
+		"id": 7090000009,
+		"albumId": 7090,
+		"albumName": "BBN 41000 圣经人物--大卫 |  迈尔博士",
+		"albumtitle": "BBN 41000 圣经人物--大卫 |  迈尔博士(9)",
+		"title": "讲座9 - 41009 圣经人物--大卫"
+	}
+]

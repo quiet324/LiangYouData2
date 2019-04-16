@@ -1,0 +1,642 @@
+[
+	{
+		"duration": 862,
+		"size": "19.71 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/001.序：重拾福音.mp3",
+		"id": 6469000001,
+		"title": "001.序：重拾福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(1)"
+	},
+	{
+		"duration": 655,
+		"size": "14.97 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/002.认识和传讲福音：认识福音.mp3",
+		"id": 6469000002,
+		"title": "002.认识和传讲福音：认识福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(2)"
+	},
+	{
+		"duration": 639,
+		"size": "14.62 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/003.认识和传讲福音：传扬福音.mp3",
+		"id": 6469000003,
+		"title": "003.认识和传讲福音：传扬福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(3)"
+	},
+	{
+		"duration": 884,
+		"size": "20.21 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/004.领受福音.mp3",
+		"id": 6469000004,
+		"title": "004.领受福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(4)"
+	},
+	{
+		"duration": 656,
+		"size": "15.00 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/005.靠福音站立.mp3",
+		"id": 6469000005,
+		"title": "005.靠福音站立",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(5)"
+	},
+	{
+		"duration": 666,
+		"size": "15.23 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/006.使我们得救的福音：使人得救的福音.mp3",
+		"id": 6469000006,
+		"title": "006.使我们得救的福音：使人得救的福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(6)"
+	},
+	{
+		"duration": 498,
+		"size": "11.40 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/007.使我们得救的福音：持守福音.mp3",
+		"id": 6469000007,
+		"title": "007.使我们得救的福音：持守福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(7)"
+	},
+	{
+		"duration": 970,
+		"size": "22.18 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/008.最要紧的福音.mp3",
+		"id": 6469000008,
+		"title": "008.最要紧的福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(8)"
+	},
+	{
+		"duration": 700,
+		"size": "16.02 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/009.传承福音（一）.mp3",
+		"id": 6469000009,
+		"title": "009.传承福音（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(9)"
+	},
+	{
+		"duration": 613,
+		"size": "14.03 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/010.传承福音（二）.mp3",
+		"id": 6469000010,
+		"title": "010.传承福音（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(10)"
+	},
+	{
+		"duration": 942,
+		"size": "21.55 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/011.只有一个福音.mp3",
+		"id": 6469000011,
+		"title": "011.只有一个福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(11)"
+	},
+	{
+		"duration": 765,
+		"size": "17.50 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/012.招人讨厌的福音.mp3",
+		"id": 6469000012,
+		"title": "012.招人讨厌的福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(12)"
+	},
+	{
+		"duration": 451,
+		"size": "10.31 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/013.不可信的福音.mp3",
+		"id": 6469000013,
+		"title": "013.不可信的福音",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(13)"
+	},
+	{
+		"duration": 893,
+		"size": "20.43 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/014.大有能力的福音（一）.mp3",
+		"id": 6469000014,
+		"title": "014.大有能力的福音（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(14)"
+	},
+	{
+		"duration": 738,
+		"size": "16.89 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/015.大有能力的福音（二）.mp3",
+		"id": 6469000015,
+		"title": "015.大有能力的福音（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(15)"
+	},
+	{
+		"duration": 615,
+		"size": "14.06 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/016.众人相信的福音（一）.mp3",
+		"id": 6469000016,
+		"title": "016.众人相信的福音（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(16)"
+	},
+	{
+		"duration": 656,
+		"size": "14.99 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/017.众人相信的福音（二）.mp3",
+		"id": 6469000017,
+		"title": "017.众人相信的福音（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(17)"
+	},
+	{
+		"duration": 1103,
+		"size": "25.23 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/018.基督徒信仰的山上之城：多讲罪.mp3",
+		"id": 6469000018,
+		"title": "018.基督徒信仰的山上之城：多讲罪",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(18)"
+	},
+	{
+		"duration": 759,
+		"size": "17.35 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/019.基督徒信仰的山上之城：多讲上帝（一）.mp3",
+		"id": 6469000019,
+		"title": "019.基督徒信仰的山上之城：多讲上帝（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(19)"
+	},
+	{
+		"duration": 723,
+		"size": "16.54 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/020.基督徒信仰的山上之城：多讲上帝（二）.mp3",
+		"id": 6469000020,
+		"title": "020.基督徒信仰的山上之城：多讲上帝（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(20)"
+	},
+	{
+		"duration": 939,
+		"size": "21.46 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/021.基督徒信仰的山上之城：多讲上帝（三）.mp3",
+		"id": 6469000021,
+		"title": "021.基督徒信仰的山上之城：多讲上帝（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(21)"
+	},
+	{
+		"duration": 764,
+		"size": "17.47 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/022.都是罪人（一）.mp3",
+		"id": 6469000022,
+		"title": "022.都是罪人（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(22)"
+	},
+	{
+		"duration": 753,
+		"size": "17.22 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/023.都是罪人（二）.mp3",
+		"id": 6469000023,
+		"title": "023.都是罪人（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(23)"
+	},
+	{
+		"duration": 500,
+		"size": "11.44 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/024.都是罪人（三）.mp3",
+		"id": 6469000024,
+		"title": "024.都是罪人（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(24)"
+	},
+	{
+		"duration": 677,
+		"size": "15.48 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/025.罪人的亏缺（一）.mp3",
+		"id": 6469000025,
+		"title": "025.罪人的亏缺（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(25)"
+	},
+	{
+		"duration": 578,
+		"size": "13.22 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/026.罪人的亏缺（二）.mp3",
+		"id": 6469000026,
+		"title": "026.罪人的亏缺（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(26)"
+	},
+	{
+		"duration": 721,
+		"size": "16.49 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/027.彻头彻尾的罪人（一）.mp3",
+		"id": 6469000027,
+		"title": "027.彻头彻尾的罪人（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(27)"
+	},
+	{
+		"duration": 995,
+		"size": "22.75 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/028.彻头彻尾的罪人（二）.mp3",
+		"id": 6469000028,
+		"title": "028.彻头彻尾的罪人（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(28)"
+	},
+	{
+		"duration": 690,
+		"size": "15.77 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/029.彻头彻尾的罪人（三）.mp3",
+		"id": 6469000029,
+		"title": "029.彻头彻尾的罪人（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(29)"
+	},
+	{
+		"duration": 836,
+		"size": "19.12 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/030.上帝的义怒（一）.mp3",
+		"id": 6469000030,
+		"title": "030.上帝的义怒（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(30)"
+	},
+	{
+		"duration": 733,
+		"size": "16.77 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/031.上帝的义怒（二）.mp3",
+		"id": 6469000031,
+		"title": "031.上帝的义怒（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(31)"
+	},
+	{
+		"duration": 627,
+		"size": "14.34 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/032.圣洁之战（一）.mp3",
+		"id": 6469000032,
+		"title": "032.圣洁之战（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(32)"
+	},
+	{
+		"duration": 580,
+		"size": "13.28 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/033.圣洁之战（二）.mp3",
+		"id": 6469000033,
+		"title": "033.圣洁之战（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(33)"
+	},
+	{
+		"duration": 985,
+		"size": "22.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/034.极贵重的礼物（一）.mp3",
+		"id": 6469000034,
+		"title": "034.极贵重的礼物（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(34)"
+	},
+	{
+		"duration": 1152,
+		"size": "26.34 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/035.极贵重的礼物（二）.mp3",
+		"id": 6469000035,
+		"title": "035.极贵重的礼物（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(35)"
+	},
+	{
+		"duration": 516,
+		"size": "11.79 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/036.上帝的两难处境（一）.mp3",
+		"id": 6469000036,
+		"title": "036.上帝的两难处境（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(36)"
+	},
+	{
+		"duration": 732,
+		"size": "16.74 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/037.上帝的两难处境（二）.mp3",
+		"id": 6469000037,
+		"title": "037.上帝的两难处境（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(37)"
+	},
+	{
+		"duration": 603,
+		"size": "13.79 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/038.合格的救赎者（一）.mp3",
+		"id": 6469000038,
+		"title": "038.合格的救赎者（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(38)"
+	},
+	{
+		"duration": 579,
+		"size": "13.25 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/039.合格的救赎者（二）.mp3",
+		"id": 6469000039,
+		"title": "039.合格的救赎者（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(39)"
+	},
+	{
+		"duration": 620,
+		"size": "14.19 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/040.合格的救赎者（三）.mp3",
+		"id": 6469000040,
+		"title": "040.合格的救赎者（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(40)"
+	},
+	{
+		"duration": 952,
+		"size": "21.77 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/041.耶稣基督的十字架（一）.mp3",
+		"id": 6469000041,
+		"title": "041.耶稣基督的十字架（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(41)"
+	},
+	{
+		"duration": 782,
+		"size": "17.88 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/042.耶稣基督的十字架（二）.mp3",
+		"id": 6469000042,
+		"title": "042.耶稣基督的十字架（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(42)"
+	},
+	{
+		"duration": 753,
+		"size": "17.21 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/043.耶稣基督的十字架（三）.mp3",
+		"id": 6469000043,
+		"title": "043.耶稣基督的十字架（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(43)"
+	},
+	{
+		"duration": 591,
+		"size": "13.52 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/044.耶稣基督的十字架（四）.mp3",
+		"id": 6469000044,
+		"title": "044.耶稣基督的十字架（四）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(44)"
+	},
+	{
+		"duration": 643,
+		"size": "14.72 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/045.耶稣基督的十字架（五）.mp3",
+		"id": 6469000045,
+		"title": "045.耶稣基督的十字架（五）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(45)"
+	},
+	{
+		"duration": 818,
+		"size": "18.70 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/046.上帝显明自己为义（一）.mp3",
+		"id": 6469000046,
+		"title": "046.上帝显明自己为义（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(46)"
+	},
+	{
+		"duration": 685,
+		"size": "15.66 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/047.上帝显明自己为义（二）.mp3",
+		"id": 6469000047,
+		"title": "047.上帝显明自己为义（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(47)"
+	},
+	{
+		"duration": 884,
+		"size": "20.21 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/048.耶稣基督复活（一）.mp3",
+		"id": 6469000048,
+		"title": "048.耶稣基督复活（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(48)"
+	},
+	{
+		"duration": 728,
+		"size": "16.64 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/049.耶稣基督的复活（二）.mp3",
+		"id": 6469000049,
+		"title": "049.耶稣基督的复活（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(49)"
+	},
+	{
+		"duration": 705,
+		"size": "16.12 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/050.凭什么相信复活？（一）.mp3",
+		"id": 6469000050,
+		"title": "050.凭什么相信复活？（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(50)"
+	},
+	{
+		"duration": 814,
+		"size": "18.60 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/051.凭什么相信复活？（二）.mp3",
+		"id": 6469000051,
+		"title": "051.凭什么相信复活？（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(51)"
+	},
+	{
+		"duration": 888,
+		"size": "20.30 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/052.凭什么相信复活？（三）.mp3",
+		"id": 6469000052,
+		"title": "052.凭什么相信复活？（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(52)"
+	},
+	{
+		"duration": 586,
+		"size": "13.41 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/053.凭什么相信复活？（四）.mp3",
+		"id": 6469000053,
+		"title": "053.凭什么相信复活？（四）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(53)"
+	},
+	{
+		"duration": 904,
+		"size": "20.67 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/054.基督升天作百姓的大祭司（一）.mp3",
+		"id": 6469000054,
+		"title": "054.基督升天作百姓的大祭司（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(54)"
+	},
+	{
+		"duration": 591,
+		"size": "13.53 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/055.基督升天作百姓的大祭司（二）.mp3",
+		"id": 6469000055,
+		"title": "055.基督升天作百姓的大祭司（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(55)"
+	},
+	{
+		"duration": 628,
+		"size": "14.37 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/056.基督升天作百姓的大祭司（三）.mp3",
+		"id": 6469000056,
+		"title": "056.基督升天作百姓的大祭司（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(56)"
+	},
+	{
+		"duration": 571,
+		"size": "13.06 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/057.基督升天作百姓的大祭司（四）.mp3",
+		"id": 6469000057,
+		"title": "057.基督升天作百姓的大祭司（四）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(57)"
+	},
+	{
+		"duration": 832,
+		"size": "19.03 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/058.基督升天作万有的主（一）.mp3",
+		"id": 6469000058,
+		"title": "058.基督升天作万有的主（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(58)"
+	},
+	{
+		"duration": 742,
+		"size": "16.97 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/059.基督升天作万有的主（二）.mp3",
+		"id": 6469000059,
+		"title": "059.基督升天作万有的主（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(59)"
+	},
+	{
+		"duration": 697,
+		"size": "15.95 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/060.基督升天作万有的主（三）.mp3",
+		"id": 6469000060,
+		"title": "060.基督升天作万有的主（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(60)"
+	},
+	{
+		"duration": 630,
+		"size": "14.41 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/061.基督升天作万有的主（四）.mp3",
+		"id": 6469000061,
+		"title": "061.基督升天作万有的主（四）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(61)"
+	},
+	{
+		"duration": 633,
+		"size": "14.49 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/062.基督升天作审判的主（一）.mp3",
+		"id": 6469000062,
+		"title": "062.基督升天作审判的主（一）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(62)"
+	},
+	{
+		"duration": 641,
+		"size": "14.67 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/063.基督升天作审判的主（二）.mp3",
+		"id": 6469000063,
+		"title": "063.基督升天作审判的主（二）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(63)"
+	},
+	{
+		"duration": 695,
+		"size": "15.89 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/GospelPowerMessage/064.基督升天作审判的主（三）.mp3",
+		"id": 6469000064,
+		"title": "064.基督升天作审判的主（三）",
+		"albumId": 6469,
+		"albumName": "福音的大能和信息",
+		"albumtitle": "福音的大能和信息(64)"
+	}
+]

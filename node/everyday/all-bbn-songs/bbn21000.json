@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21001%20church%20is%20my%20home%20ww.m4a",
+		"id": 7025000001,
+		"albumId": 7025,
+		"albumName": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 ",
+		"albumtitle": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 (1)",
+		"title": "讲座1 - 21001 基督徒生活讲座--婚姻与家庭--教会是我的家"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21002%20before%20and%20after%20marriage%20ok.m4a",
+		"id": 7025000002,
+		"albumId": 7025,
+		"albumName": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 ",
+		"albumtitle": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 (2)",
+		"title": "讲座2 - 21002 基督徒生活讲座--婚姻与家庭--婚前与婚后一样情"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21003%20buidling%20a%20happy%20family%20together.m4a",
+		"id": 7025000003,
+		"albumId": 7025,
+		"albumName": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 ",
+		"albumtitle": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 (3)",
+		"title": "讲座3 - 21003 基督徒生活讲座--婚姻与家庭--和乐的家庭"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21004Have%20your%20heart%20back%20to%20your%20family%20ok.m4a",
+		"id": 7025000004,
+		"albumId": 7025,
+		"albumName": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 ",
+		"albumtitle": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 (4)",
+		"title": "讲座4 - 21004 基督徒生活讲座--婚姻与家庭--将心归家"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21005%20love%20forever%20ok.m4a",
+		"id": 7025000005,
+		"albumId": 7025,
+		"albumName": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 ",
+		"albumtitle": "BBN 21000 基督徒生活讲座--婚姻与家庭 | 叶高芳博士 (5)",
+		"title": "讲座5 - 21005 基督徒生活讲座--婚姻与家庭--天长地久"
+	}
+]

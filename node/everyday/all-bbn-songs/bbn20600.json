@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 3300,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20601%20%20how%20to%20face%20crisis%20and%20challenge%201-1okm.m4a",
+		"id": 7021000001,
+		"albumId": 7021,
+		"albumName": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师",
+		"albumtitle": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师(1)",
+		"title": "讲座1 - 20601 基督徒生活讲座--如何面对危机和挑战"
+	},
+	{
+		"duration": 3300,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20602%20how%20to%20face%20crisis%20and%20challenge%201-2okm.m4a",
+		"id": 7021000002,
+		"albumId": 7021,
+		"albumName": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师",
+		"albumtitle": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师(2)",
+		"title": "讲座2 - 20602 基督徒生活讲座--如何面对危机和挑战"
+	},
+	{
+		"duration": 3300,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20603%20%20how%20to%20face%20crisis%20and%20challenge%202.m4a",
+		"id": 7021000003,
+		"albumId": 7021,
+		"albumName": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师",
+		"albumtitle": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师(3)",
+		"title": "讲座3 - 20603 基督徒生活讲座--如何面对危机和挑战"
+	},
+	{
+		"duration": 3300,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20604%20%20how%20to%20face%20crisis%20and%20challenge%203.m4a",
+		"id": 7021000004,
+		"albumId": 7021,
+		"albumName": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师",
+		"albumtitle": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师(4)",
+		"title": "讲座4 - 20604 基督徒生活讲座--如何面对危机和挑战"
+	},
+	{
+		"duration": 3300,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20605%20%20how%20to%20face%20crisis%20and%20challenge%204.m4a",
+		"id": 7021000005,
+		"albumId": 7021,
+		"albumName": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师",
+		"albumtitle": "BBN 20600 基督徒生活讲座--如何面对危机和挑战 | 张路加牧师(5)",
+		"title": "讲座5 - 20605 基督徒生活讲座--如何面对危机和挑战"
+	}
+]

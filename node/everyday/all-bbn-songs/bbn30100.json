@@ -1,0 +1,82 @@
+[
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30101%20Philippians%2001.m4a",
+		"id": 7041000001,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (1)",
+		"title": "讲座1 - 30101 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30102%20Philippians%2002.m4a",
+		"id": 7041000002,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (2)",
+		"title": "讲座2 - 30102 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30103%20Philippians%2003.m4a",
+		"id": 7041000003,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (3)",
+		"title": "讲座3 - 30103 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30104%20Philippians.m4a",
+		"id": 7041000004,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (4)",
+		"title": "讲座4 - 30104 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30105%20Philippians%20ok.m4a",
+		"id": 7041000005,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (5)",
+		"title": "讲座5 - 30105 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30106%20Philippians%2006.m4a",
+		"id": 7041000006,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (6)",
+		"title": "讲座6 - 30106 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30107%20Philippians%2007.m4a",
+		"id": 7041000007,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (7)",
+		"title": "讲座7 - 30107 圣经书卷--腓立比书"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30108%20Philippians%2008.m4a",
+		"id": 7041000008,
+		"albumId": 7041,
+		"albumName": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 ",
+		"albumtitle": "BBN 30100 圣经书卷--腓立比书 |  刘传章牧师 (8)",
+		"title": "讲座8 - 30108 圣经书卷--腓立比书"
+	}
+]

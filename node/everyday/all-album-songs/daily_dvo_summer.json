@@ -1,0 +1,912 @@
+[
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130401.mp3",
+		"id": 6378000001,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(1)",
+		"title": "荒漠甘泉乐侶-4月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130402.mp3",
+		"id": 6378000002,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(2)",
+		"title": "荒漠甘泉乐侶-4月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130403.mp3",
+		"id": 6378000003,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(3)",
+		"title": "荒漠甘泉乐侶-4月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130404.mp3",
+		"id": 6378000004,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(4)",
+		"title": "荒漠甘泉乐侶-4月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130405.mp3",
+		"id": 6378000005,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(5)",
+		"title": "荒漠甘泉乐侶-4月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130406.mp3",
+		"id": 6378000006,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(6)",
+		"title": "荒漠甘泉乐侶-4月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130407.mp3",
+		"id": 6378000007,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(7)",
+		"title": "荒漠甘泉乐侶-4月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130408.mp3",
+		"id": 6378000008,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(8)",
+		"title": "荒漠甘泉乐侶-4月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130409.mp3",
+		"id": 6378000009,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(9)",
+		"title": "荒漠甘泉乐侶-4月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130410.mp3",
+		"id": 6378000010,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(10)",
+		"title": "荒漠甘泉乐侶-4月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130411.mp3",
+		"id": 6378000011,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(11)",
+		"title": "荒漠甘泉乐侶-4月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130412.mp3",
+		"id": 6378000012,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(12)",
+		"title": "荒漠甘泉乐侶-4月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130413.mp3",
+		"id": 6378000013,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(13)",
+		"title": "荒漠甘泉乐侶-4月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130414.mp3",
+		"id": 6378000014,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(14)",
+		"title": "荒漠甘泉乐侶-4月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130415.mp3",
+		"id": 6378000015,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(15)",
+		"title": "荒漠甘泉乐侶-4月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130416.mp3",
+		"id": 6378000016,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(16)",
+		"title": "荒漠甘泉乐侶-4月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130417.mp3",
+		"id": 6378000017,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(17)",
+		"title": "荒漠甘泉乐侶-4月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130418.mp3",
+		"id": 6378000018,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(18)",
+		"title": "荒漠甘泉乐侶-4月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130419.mp3",
+		"id": 6378000019,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(19)",
+		"title": "荒漠甘泉乐侶-4月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130420.mp3",
+		"id": 6378000020,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(20)",
+		"title": "荒漠甘泉乐侶-4月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130421.mp3",
+		"id": 6378000021,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(21)",
+		"title": "荒漠甘泉乐侶-4月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130422.mp3",
+		"id": 6378000022,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(22)",
+		"title": "荒漠甘泉乐侶-4月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130423.mp3",
+		"id": 6378000023,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(23)",
+		"title": "荒漠甘泉乐侶-4月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130424.mp3",
+		"id": 6378000024,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(24)",
+		"title": "荒漠甘泉乐侶-4月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130425.mp3",
+		"id": 6378000025,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(25)",
+		"title": "荒漠甘泉乐侶-4月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130426.mp3",
+		"id": 6378000026,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(26)",
+		"title": "荒漠甘泉乐侶-4月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130427.mp3",
+		"id": 6378000027,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(27)",
+		"title": "荒漠甘泉乐侶-4月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130428.mp3",
+		"id": 6378000028,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(28)",
+		"title": "荒漠甘泉乐侶-4月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130429.mp3",
+		"id": 6378000029,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(29)",
+		"title": "荒漠甘泉乐侶-4月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Apr/dvo130430.mp3",
+		"id": 6378000030,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(30)",
+		"title": "荒漠甘泉乐侶-4月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130501.mp3",
+		"id": 6378000031,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(31)",
+		"title": "荒漠甘泉乐侶-5月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130502.mp3",
+		"id": 6378000032,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(32)",
+		"title": "荒漠甘泉乐侶-5月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130503.mp3",
+		"id": 6378000033,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(33)",
+		"title": "荒漠甘泉乐侶-5月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130504.mp3",
+		"id": 6378000034,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(34)",
+		"title": "荒漠甘泉乐侶-5月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130505.mp3",
+		"id": 6378000035,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(35)",
+		"title": "荒漠甘泉乐侶-5月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130506.mp3",
+		"id": 6378000036,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(36)",
+		"title": "荒漠甘泉乐侶-5月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130507.mp3",
+		"id": 6378000037,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(37)",
+		"title": "荒漠甘泉乐侶-5月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130508.mp3",
+		"id": 6378000038,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(38)",
+		"title": "荒漠甘泉乐侶-5月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130509.mp3",
+		"id": 6378000039,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(39)",
+		"title": "荒漠甘泉乐侶-5月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130510.mp3",
+		"id": 6378000040,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(40)",
+		"title": "荒漠甘泉乐侶-5月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130511.mp3",
+		"id": 6378000041,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(41)",
+		"title": "荒漠甘泉乐侶-5月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130512.mp3",
+		"id": 6378000042,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(42)",
+		"title": "荒漠甘泉乐侶-5月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130513.mp3",
+		"id": 6378000043,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(43)",
+		"title": "荒漠甘泉乐侶-5月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130514.mp3",
+		"id": 6378000044,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(44)",
+		"title": "荒漠甘泉乐侶-5月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130515.mp3",
+		"id": 6378000045,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(45)",
+		"title": "荒漠甘泉乐侶-5月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130516.mp3",
+		"id": 6378000046,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(46)",
+		"title": "荒漠甘泉乐侶-5月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130517.mp3",
+		"id": 6378000047,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(47)",
+		"title": "荒漠甘泉乐侶-5月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130518.mp3",
+		"id": 6378000048,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(48)",
+		"title": "荒漠甘泉乐侶-5月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130519.mp3",
+		"id": 6378000049,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(49)",
+		"title": "荒漠甘泉乐侶-5月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130520.mp3",
+		"id": 6378000050,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(50)",
+		"title": "荒漠甘泉乐侶-5月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130521.mp3",
+		"id": 6378000051,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(51)",
+		"title": "荒漠甘泉乐侶-5月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130522.mp3",
+		"id": 6378000052,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(52)",
+		"title": "荒漠甘泉乐侶-5月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130523.mp3",
+		"id": 6378000053,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(53)",
+		"title": "荒漠甘泉乐侶-5月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130524.mp3",
+		"id": 6378000054,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(54)",
+		"title": "荒漠甘泉乐侶-5月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130525.mp3",
+		"id": 6378000055,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(55)",
+		"title": "荒漠甘泉乐侶-5月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130526.mp3",
+		"id": 6378000056,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(56)",
+		"title": "荒漠甘泉乐侶-5月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130527.mp3",
+		"id": 6378000057,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(57)",
+		"title": "荒漠甘泉乐侶-5月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130528.mp3",
+		"id": 6378000058,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(58)",
+		"title": "荒漠甘泉乐侶-5月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130529.mp3",
+		"id": 6378000059,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(59)",
+		"title": "荒漠甘泉乐侶-5月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130530.mp3",
+		"id": 6378000060,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(60)",
+		"title": "荒漠甘泉乐侶-5月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/May/dvo130531.mp3",
+		"id": 6378000061,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(61)",
+		"title": "荒漠甘泉乐侶-5月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130601.mp3",
+		"id": 6378000062,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(62)",
+		"title": "荒漠甘泉乐侶-6月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130602.mp3",
+		"id": 6378000063,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(63)",
+		"title": "荒漠甘泉乐侶-6月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130603.mp3",
+		"id": 6378000064,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(64)",
+		"title": "荒漠甘泉乐侶-6月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130604.mp3",
+		"id": 6378000065,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(65)",
+		"title": "荒漠甘泉乐侶-6月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130605.mp3",
+		"id": 6378000066,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(66)",
+		"title": "荒漠甘泉乐侶-6月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130606.mp3",
+		"id": 6378000067,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(67)",
+		"title": "荒漠甘泉乐侶-6月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130607.mp3",
+		"id": 6378000068,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(68)",
+		"title": "荒漠甘泉乐侶-6月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130608.mp3",
+		"id": 6378000069,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(69)",
+		"title": "荒漠甘泉乐侶-6月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130609.mp3",
+		"id": 6378000070,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(70)",
+		"title": "荒漠甘泉乐侶-6月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130610.mp3",
+		"id": 6378000071,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(71)",
+		"title": "荒漠甘泉乐侶-6月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130611.mp3",
+		"id": 6378000072,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(72)",
+		"title": "荒漠甘泉乐侶-6月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130612.mp3",
+		"id": 6378000073,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(73)",
+		"title": "荒漠甘泉乐侶-6月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130613.mp3",
+		"id": 6378000074,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(74)",
+		"title": "荒漠甘泉乐侶-6月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130614.mp3",
+		"id": 6378000075,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(75)",
+		"title": "荒漠甘泉乐侶-6月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130615.mp3",
+		"id": 6378000076,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(76)",
+		"title": "荒漠甘泉乐侶-6月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130616.mp3",
+		"id": 6378000077,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(77)",
+		"title": "荒漠甘泉乐侶-6月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130617.mp3",
+		"id": 6378000078,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(78)",
+		"title": "荒漠甘泉乐侶-6月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130618.mp3",
+		"id": 6378000079,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(79)",
+		"title": "荒漠甘泉乐侶-6月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130619.mp3",
+		"id": 6378000080,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(80)",
+		"title": "荒漠甘泉乐侶-6月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130620.mp3",
+		"id": 6378000081,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(81)",
+		"title": "荒漠甘泉乐侶-6月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130621.mp3",
+		"id": 6378000082,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(82)",
+		"title": "荒漠甘泉乐侶-6月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130622.mp3",
+		"id": 6378000083,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(83)",
+		"title": "荒漠甘泉乐侶-6月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130623.mp3",
+		"id": 6378000084,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(84)",
+		"title": "荒漠甘泉乐侶-6月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130624.mp3",
+		"id": 6378000085,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(85)",
+		"title": "荒漠甘泉乐侶-6月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130625.mp3",
+		"id": 6378000086,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(86)",
+		"title": "荒漠甘泉乐侶-6月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130626.mp3",
+		"id": 6378000087,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(87)",
+		"title": "荒漠甘泉乐侶-6月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130627.mp3",
+		"id": 6378000088,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(88)",
+		"title": "荒漠甘泉乐侶-6月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130628.mp3",
+		"id": 6378000089,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(89)",
+		"title": "荒漠甘泉乐侶-6月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130629.mp3",
+		"id": 6378000090,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(90)",
+		"title": "荒漠甘泉乐侶-6月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Jun/dvo130630.mp3",
+		"id": 6378000091,
+		"albumId": 6378,
+		"albumName": "《荒漠甘泉乐侶》夏季合集",
+		"albumtitle": "《荒漠甘泉乐侶》夏季合集(91)",
+		"title": "荒漠甘泉乐侶-6月30日"
+	}
+]

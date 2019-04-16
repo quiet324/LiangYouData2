@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34601%20Judges.m4a",
+		"id": 7082000001,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(1)",
+		"title": "讲座1 - 34601 圣经书卷--士师记"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34602%20Judges.m4a",
+		"id": 7082000002,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(2)",
+		"title": "讲座2 - 34602 圣经书卷--士师记"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34603%20Judges.m4a",
+		"id": 7082000003,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(3)",
+		"title": "讲座3 - 34603 圣经书卷--士师记"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34604%20Judges.m4a",
+		"id": 7082000004,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(4)",
+		"title": "讲座4 - 34604 圣经书卷--士师记"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34605%20Judges.m4a",
+		"id": 7082000005,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(5)",
+		"title": "讲座5 - 34605 圣经书卷--士师记"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/34606%20Judges.m4a",
+		"id": 7082000006,
+		"albumId": 7082,
+		"albumName": "BBN 34600 圣经书卷--士师记 |  康来昌博士",
+		"albumtitle": "BBN 34600 圣经书卷--士师记 |  康来昌博士(6)",
+		"title": "讲座6 - 34606 圣经书卷--士师记"
+	}
+]

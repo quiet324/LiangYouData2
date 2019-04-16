@@ -1,0 +1,72 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20101%20Christian%20Family%201.m4a",
+		"id": 7016000001,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(1)",
+		"title": "讲座1 - 20101 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20102%20Christian%20Family%202.m4a",
+		"id": 7016000002,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(2)",
+		"title": "讲座2 - 20102 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20103%20Christian%20Family%203.m4a",
+		"id": 7016000003,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(3)",
+		"title": "讲座3 - 20103 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20104%20Christian%20Family%204.m4a",
+		"id": 7016000004,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(4)",
+		"title": "讲座4 - 20104 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20105%20Christian%20Family%205.m4a",
+		"id": 7016000005,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(5)",
+		"title": "讲座5 - 20105 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20106%20Christian%20Family%20006.m4a",
+		"id": 7016000006,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(6)",
+		"title": "讲座6 - 20106 基督徒生活讲座--夫妻关系"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20107%20Christian%20Family.m4a",
+		"id": 7016000007,
+		"albumId": 7016,
+		"albumName": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士",
+		"albumtitle": "BBN 20100 基督徒生活讲座--夫妻关系 | 庄祖鲲博士(7)",
+		"title": "讲座7 - 20107 基督徒生活讲座--夫妻关系"
+	}
+]

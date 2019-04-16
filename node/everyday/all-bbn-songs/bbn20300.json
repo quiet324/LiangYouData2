@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20301%20Love%20God%20%20Others%201a%20Live%20for%20Christ.m4a",
+		"id": 7018000001,
+		"albumId": 7018,
+		"albumName": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士",
+		"albumtitle": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士(1)",
+		"title": "讲座1 - 20301 基督徒生活讲座--如何为主而活--爱神爱人"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20302%20Love%20God%20%20Others%202%20Serve%20the%20Lord%20in%20unity.m4a",
+		"id": 7018000002,
+		"albumId": 7018,
+		"albumName": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士",
+		"albumtitle": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士(2)",
+		"title": "讲座2 - 20302 基督徒生活讲座--如何为主而活--同心事奉"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20303%20Love%20God%20%20Others%203%20To%20connect%20with%20love.m4a",
+		"id": 7018000003,
+		"albumId": 7018,
+		"albumName": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士",
+		"albumtitle": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士(3)",
+		"title": "讲座3 - 20303 基督徒生活讲座--如何为主而活--以爱相系"
+	},
+	{
+		"duration": 3000,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20304%20Love%20God%20%20Others%204%20Live%20together%20harmanously.m4a",
+		"id": 7018000004,
+		"albumId": 7018,
+		"albumName": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士",
+		"albumtitle": "BBN 20300 基督徒生活讲座--如何为主而活 | 李定武博士(4)",
+		"title": "讲座4 - 20304 基督徒生活讲座--如何为主而活--和睦同居"
+	}
+]

@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141001.mp3",
+		"id": 6411000001,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(1)",
+		"title": "彩虹桥-20141001"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141002.mp3",
+		"id": 6411000002,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(2)",
+		"title": "彩虹桥-20141002"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141003.mp3",
+		"id": 6411000003,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(3)",
+		"title": "彩虹桥-20141003"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141004.mp3",
+		"id": 6411000004,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(4)",
+		"title": "彩虹桥-20141004"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141005.mp3",
+		"id": 6411000005,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(5)",
+		"title": "彩虹桥-20141005"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141006.mp3",
+		"id": 6411000006,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(6)",
+		"title": "彩虹桥-20141006"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141007.mp3",
+		"id": 6411000007,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(7)",
+		"title": "彩虹桥-20141007"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141008.mp3",
+		"id": 6411000008,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(8)",
+		"title": "彩虹桥-20141008"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141009.mp3",
+		"id": 6411000009,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(9)",
+		"title": "彩虹桥-20141009"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141010.mp3",
+		"id": 6411000010,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(10)",
+		"title": "彩虹桥-20141010"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141011.mp3",
+		"id": 6411000011,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(11)",
+		"title": "彩虹桥-20141011"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141012.mp3",
+		"id": 6411000012,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(12)",
+		"title": "彩虹桥-20141012"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141013.mp3",
+		"id": 6411000013,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(13)",
+		"title": "彩虹桥-20141013"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141014.mp3",
+		"id": 6411000014,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(14)",
+		"title": "彩虹桥-20141014"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141015.mp3",
+		"id": 6411000015,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(15)",
+		"title": "彩虹桥-20141015"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141016.mp3",
+		"id": 6411000016,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(16)",
+		"title": "彩虹桥-20141016"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141017.mp3",
+		"id": 6411000017,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(17)",
+		"title": "彩虹桥-20141017"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141018.mp3",
+		"id": 6411000018,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(18)",
+		"title": "彩虹桥-20141018"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141019.mp3",
+		"id": 6411000019,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(19)",
+		"title": "彩虹桥-20141019"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141020.mp3",
+		"id": 6411000020,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(20)",
+		"title": "彩虹桥-20141020"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141021.mp3",
+		"id": 6411000021,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(21)",
+		"title": "彩虹桥-20141021"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141022.mp3",
+		"id": 6411000022,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(22)",
+		"title": "彩虹桥-20141022"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141023.mp3",
+		"id": 6411000023,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(23)",
+		"title": "彩虹桥-20141023"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141024.mp3",
+		"id": 6411000024,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(24)",
+		"title": "彩虹桥-20141024"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141025.mp3",
+		"id": 6411000025,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(25)",
+		"title": "彩虹桥-20141025"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141026.mp3",
+		"id": 6411000026,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(26)",
+		"title": "彩虹桥-20141026"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141027.mp3",
+		"id": 6411000027,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(27)",
+		"title": "彩虹桥-20141027"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141028.mp3",
+		"id": 6411000028,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(28)",
+		"title": "彩虹桥-20141028"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141029.mp3",
+		"id": 6411000029,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(29)",
+		"title": "彩虹桥-20141029"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141030.mp3",
+		"id": 6411000030,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(30)",
+		"title": "彩虹桥-20141030"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141031.mp3",
+		"id": 6411000031,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(31)",
+		"title": "彩虹桥-20141031"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141101.mp3",
+		"id": 6411000032,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(32)",
+		"title": "彩虹桥-20141101"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141102.mp3",
+		"id": 6411000033,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(33)",
+		"title": "彩虹桥-20141102"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141103.mp3",
+		"id": 6411000034,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(34)",
+		"title": "彩虹桥-20141103"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141104.mp3",
+		"id": 6411000035,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(35)",
+		"title": "彩虹桥-20141104"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141105.mp3",
+		"id": 6411000036,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(36)",
+		"title": "彩虹桥-20141105"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141106.mp3",
+		"id": 6411000037,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(37)",
+		"title": "彩虹桥-20141106"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141107.mp3",
+		"id": 6411000038,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(38)",
+		"title": "彩虹桥-20141107"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141108.mp3",
+		"id": 6411000039,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(39)",
+		"title": "彩虹桥-20141108"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141109.mp3",
+		"id": 6411000040,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(40)",
+		"title": "彩虹桥-20141109"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141110.mp3",
+		"id": 6411000041,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(41)",
+		"title": "彩虹桥-20141110"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141111.mp3",
+		"id": 6411000042,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(42)",
+		"title": "彩虹桥-20141111"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141112.mp3",
+		"id": 6411000043,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(43)",
+		"title": "彩虹桥-20141112"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141113.mp3",
+		"id": 6411000044,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(44)",
+		"title": "彩虹桥-20141113"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141114.mp3",
+		"id": 6411000045,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(45)",
+		"title": "彩虹桥-20141114"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141115.mp3",
+		"id": 6411000046,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(46)",
+		"title": "彩虹桥-20141115"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141116.mp3",
+		"id": 6411000047,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(47)",
+		"title": "彩虹桥-20141116"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141117.mp3",
+		"id": 6411000048,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(48)",
+		"title": "彩虹桥-20141117"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141118.mp3",
+		"id": 6411000049,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(49)",
+		"title": "彩虹桥-20141118"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141119.mp3",
+		"id": 6411000050,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(50)",
+		"title": "彩虹桥-20141119"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141120.mp3",
+		"id": 6411000051,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(51)",
+		"title": "彩虹桥-20141120"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141121.mp3",
+		"id": 6411000052,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(52)",
+		"title": "彩虹桥-20141121"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141122.mp3",
+		"id": 6411000053,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(53)",
+		"title": "彩虹桥-20141122"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141123.mp3",
+		"id": 6411000054,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(54)",
+		"title": "彩虹桥-20141123"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141124.mp3",
+		"id": 6411000055,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(55)",
+		"title": "彩虹桥-20141124"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141125.mp3",
+		"id": 6411000056,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(56)",
+		"title": "彩虹桥-20141125"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141126.mp3",
+		"id": 6411000057,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(57)",
+		"title": "彩虹桥-20141126"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141127.mp3",
+		"id": 6411000058,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(58)",
+		"title": "彩虹桥-20141127"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141128.mp3",
+		"id": 6411000059,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(59)",
+		"title": "彩虹桥-20141128"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141129.mp3",
+		"id": 6411000060,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(60)",
+		"title": "彩虹桥-20141129"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141130.mp3",
+		"id": 6411000061,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(61)",
+		"title": "彩虹桥-20141130"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141201.mp3",
+		"id": 6411000062,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(62)",
+		"title": "彩虹桥-20141201"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141202.mp3",
+		"id": 6411000063,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(63)",
+		"title": "彩虹桥-20141202"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141203.mp3",
+		"id": 6411000064,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(64)",
+		"title": "彩虹桥-20141203"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141204.mp3",
+		"id": 6411000065,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(65)",
+		"title": "彩虹桥-20141204"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141205.mp3",
+		"id": 6411000066,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(66)",
+		"title": "彩虹桥-20141205"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141206.mp3",
+		"id": 6411000067,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(67)",
+		"title": "彩虹桥-20141206"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141207.mp3",
+		"id": 6411000068,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(68)",
+		"title": "彩虹桥-20141207"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141208.mp3",
+		"id": 6411000069,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(69)",
+		"title": "彩虹桥-20141208"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141209.mp3",
+		"id": 6411000070,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(70)",
+		"title": "彩虹桥-20141209"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141210.mp3",
+		"id": 6411000071,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(71)",
+		"title": "彩虹桥-20141210"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141211.mp3",
+		"id": 6411000072,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(72)",
+		"title": "彩虹桥-20141211"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141212.mp3",
+		"id": 6411000073,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(73)",
+		"title": "彩虹桥-20141212"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141213.mp3",
+		"id": 6411000074,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(74)",
+		"title": "彩虹桥-20141213"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141214.mp3",
+		"id": 6411000075,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(75)",
+		"title": "彩虹桥-20141214"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141215.mp3",
+		"id": 6411000076,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(76)",
+		"title": "彩虹桥-20141215"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141216.mp3",
+		"id": 6411000077,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(77)",
+		"title": "彩虹桥-20141216"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141217.mp3",
+		"id": 6411000078,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(78)",
+		"title": "彩虹桥-20141217"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141218.mp3",
+		"id": 6411000079,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(79)",
+		"title": "彩虹桥-20141218"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141219.mp3",
+		"id": 6411000080,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(80)",
+		"title": "彩虹桥-20141219"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141220.mp3",
+		"id": 6411000081,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(81)",
+		"title": "彩虹桥-20141220"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141221.mp3",
+		"id": 6411000082,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(82)",
+		"title": "彩虹桥-20141221"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141222.mp3",
+		"id": 6411000083,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(83)",
+		"title": "彩虹桥-20141222"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141223.mp3",
+		"id": 6411000084,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(84)",
+		"title": "彩虹桥-20141223"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141224.mp3",
+		"id": 6411000085,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(85)",
+		"title": "彩虹桥-20141224"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141225.mp3",
+		"id": 6411000086,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(86)",
+		"title": "彩虹桥-20141225"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141226.mp3",
+		"id": 6411000087,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(87)",
+		"title": "彩虹桥-20141226"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141227.mp3",
+		"id": 6411000088,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(88)",
+		"title": "彩虹桥-20141227"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141228.mp3",
+		"id": 6411000089,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(89)",
+		"title": "彩虹桥-20141228"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141229.mp3",
+		"id": 6411000090,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(90)",
+		"title": "彩虹桥-20141229"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141230.mp3",
+		"id": 6411000091,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(91)",
+		"title": "彩虹桥-20141230"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr141231.mp3",
+		"id": 6411000092,
+		"albumId": 6411,
+		"albumName": "《彩虹桥》2014年冬季合集",
+		"albumtitle": "《彩虹桥》2014年冬季合集(92)",
+		"title": "彩虹桥-20141231"
+	}
+]

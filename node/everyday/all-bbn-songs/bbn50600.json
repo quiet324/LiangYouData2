@@ -1,0 +1,32 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50601%20ZCK%2011%20Christianity%20and%20science.1-1okm.m4a",
+		"id": 7101000001,
+		"albumId": 7101,
+		"albumName": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士",
+		"albumtitle": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士(1)",
+		"title": "讲座1 - 50601 选修课程--基督教与科学"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50602%20ZCK%2012%20Christianity%20and%20science.1-2okm.m4a",
+		"id": 7101000002,
+		"albumId": 7101,
+		"albumName": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士",
+		"albumtitle": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士(2)",
+		"title": "讲座2 - 50602 选修课程--基督教与科学"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50603%20ZCK%2013%20Christianity%20and%20science.1-3okm.m4a",
+		"id": 7101000003,
+		"albumId": 7101,
+		"albumName": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士",
+		"albumtitle": "BBN 50600 选修课程--基督教与科学 |  庄祖鲲博士(3)",
+		"title": "讲座3 - 50603 选修课程--基督教与科学"
+	}
+]

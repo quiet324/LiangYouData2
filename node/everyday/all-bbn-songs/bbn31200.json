@@ -1,0 +1,82 @@
+[
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31201%20Goepel%20of%20MarkII%209%202-41.m4a",
+		"id": 7051000001,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (1)",
+		"title": "讲座1 - 31201 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31202%20Gospel%20of%20MarkII%209%2042-1031.m4a",
+		"id": 7051000002,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (2)",
+		"title": "讲座2 - 31202 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31203%20Gospel%20of%20MarkII%2010%2032-11026.m4a",
+		"id": 7051000003,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (3)",
+		"title": "讲座3 - 31203 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31204%20Gospel%20of%20MarkII%2011%2027-12027.m4a",
+		"id": 7051000004,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (4)",
+		"title": "讲座4 - 31204 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31205%20Gospel%20of%20MarkII%2012%2028-13013.m4a",
+		"id": 7051000005,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (5)",
+		"title": "讲座5 - 31205 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31206%20Gospel%20of%20MarkII%2013%2014-14026.m4a",
+		"id": 7051000006,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (6)",
+		"title": "讲座6 - 31206 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31207%20Gospel%20of%20MarkII%2014%2027-72.m4a",
+		"id": 7051000007,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (7)",
+		"title": "讲座7 - 31207 圣经书卷-马可福音（下）"
+	},
+	{
+		"duration": 3200,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/31208%20Gospel%20of%20MarkII%2015%2001-16020.m4a",
+		"id": 7051000008,
+		"albumId": 7051,
+		"albumName": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 ",
+		"albumtitle": "BBN 31200 圣经书卷--马可福音 (下) |  刘传章牧师 (8)",
+		"title": "讲座8 - 31208 圣经书卷-马可福音（下）"
+	}
+]

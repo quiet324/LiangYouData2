@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20201%20Christian%20Living%201%20YKP%20do%20in%20the%20mercy.m4a",
+		"id": 7017000001,
+		"albumId": 7017,
+		"albumName": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师",
+		"albumtitle": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师(1)",
+		"title": "讲座1 - 20201 基督徒生活讲座--行在恩典中"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20202%20Christian%20Living%202.m4a",
+		"id": 7017000002,
+		"albumId": 7017,
+		"albumName": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师",
+		"albumtitle": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师(2)",
+		"title": "讲座2 - 20202 基督徒生活讲座--行在恩典中"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20203%20Christian%20Living%203%20YKP%20do%20in%20the%20truth.m4a",
+		"id": 7017000003,
+		"albumId": 7017,
+		"albumName": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师",
+		"albumtitle": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师(3)",
+		"title": "讲座3 - 20203 基督徒生活讲座--行在恩典中"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20204%20Christian%20Living%204%20YKP%20do%20in%20the%20peace.m4a",
+		"id": 7017000004,
+		"albumId": 7017,
+		"albumName": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师",
+		"albumtitle": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师(4)",
+		"title": "讲座4 - 20204 基督徒生活讲座--行在恩典中"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20205%20Christian%20Living%205%20YKP%20do%20in%20the%20faith.m4a",
+		"id": 7017000005,
+		"albumId": 7017,
+		"albumName": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师",
+		"albumtitle": "BBN 20200 基督徒生活讲座--行在恩典中 | 杨光甫牧师(5)",
+		"title": "讲座5 - 20205 基督徒生活讲座--行在恩典中"
+	}
+]

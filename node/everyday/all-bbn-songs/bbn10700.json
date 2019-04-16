@@ -1,0 +1,82 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10701%20%20holy%20spirit.m4a",
+		"id": 7015000001,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (1)",
+		"title": "讲座1 - 10701 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10702%20holy%20spririt.m4a",
+		"id": 7015000002,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (2)",
+		"title": "讲座2 - 10702 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10703%20holy%20spirit.m4a",
+		"id": 7015000003,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (3)",
+		"title": "讲座3 - 10703 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10704%20holy%20spirit.m4a",
+		"id": 7015000004,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (4)",
+		"title": "讲座4 - 10704 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10705%20holy%20spirit.m4a",
+		"id": 7015000005,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (5)",
+		"title": "讲座5 - 10705 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10706%20holy%20spirit.m4a",
+		"id": 7015000006,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (6)",
+		"title": "讲座6 - 10706 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10707%20holy%20spirit.m4a",
+		"id": 7015000007,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (7)",
+		"title": "讲座7 - 10707 教义课程--圣灵概论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10708%20holy%20spirit.m4a",
+		"id": 7015000008,
+		"albumId": 7015,
+		"albumName": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 ",
+		"albumtitle": "BBN 10700 教义课程--圣灵概论 | 唐崇荣博士 (8)",
+		"title": "讲座8 - 10708 教义课程--圣灵概论"
+	}
+]

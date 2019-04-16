@@ -42,7 +42,7 @@ var _getAllFilesFromFolder = function(dir) {
 
 };
 
-var artistName = 'zz';
+var artistName = 'it';
 const files = _getAllFilesFromFolder("../" + artistName);
 console.log(files);
 fs.writeFile("./" + artistName + "_songs_names.json", JSON.stringify(files, null, '\t'));

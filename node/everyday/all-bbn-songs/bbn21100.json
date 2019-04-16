@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21101%20Christian%20Home%201%20ok%20.m4a",
+		"id": 7026000001,
+		"albumId": 7026,
+		"albumName": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 (1)",
+		"title": "讲座1 - 21100 基督徒生活讲座--基督化家庭--婚姻—神的旨意"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21102%20Christian%20Home%202%20ok%20.m4a",
+		"id": 7026000002,
+		"albumId": 7026,
+		"albumName": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 (2)",
+		"title": "讲座2 - 21102 基督徒生活讲座--基督化家庭--丈夫"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21103%20Christian%20Home%203%20.m4a",
+		"id": 7026000003,
+		"albumId": 7026,
+		"albumName": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 (3)",
+		"title": "讲座3 - 21103 基督徒生活讲座--基督化家庭--妻子"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21104%20Christian%20Home%204%20ok%20.m4a",
+		"id": 7026000004,
+		"albumId": 7026,
+		"albumName": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 21100 基督徒生活讲座--基督化家庭 | 圣经广播网圣经学院 (4)",
+		"title": "讲座4 - 21104 基督徒生活讲座--基督化家庭--孩子"
+	}
+]

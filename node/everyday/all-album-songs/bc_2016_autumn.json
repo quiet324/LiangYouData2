@@ -1,0 +1,662 @@
+[
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160701.mp3",
+    "id": 6288000001,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(1)",
+    "title": "书香园地-20160701"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160704.mp3",
+    "id": 6288000002,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(2)",
+    "title": "书香园地-20160704"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160705.mp3",
+    "id": 6288000003,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(3)",
+    "title": "书香园地-20160705"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160706.mp3",
+    "id": 6288000004,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(4)",
+    "title": "书香园地-20160706"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160707.mp3",
+    "id": 6288000005,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(5)",
+    "title": "书香园地-20160707"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160708.mp3",
+    "id": 6288000006,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(6)",
+    "title": "书香园地-20160708"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160711.mp3",
+    "id": 6288000007,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(7)",
+    "title": "书香园地-20160711"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160712.mp3",
+    "id": 6288000008,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(8)",
+    "title": "书香园地-20160712"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160713.mp3",
+    "id": 6288000009,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(9)",
+    "title": "书香园地-20160713"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160714.mp3",
+    "id": 6288000010,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(10)",
+    "title": "书香园地-20160714"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160715.mp3",
+    "id": 6288000011,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(11)",
+    "title": "书香园地-20160715"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160718.mp3",
+    "id": 6288000012,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(12)",
+    "title": "书香园地-20160718"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160719.mp3",
+    "id": 6288000013,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(13)",
+    "title": "书香园地-20160719"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160720.mp3",
+    "id": 6288000014,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(14)",
+    "title": "书香园地-20160720"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160721.mp3",
+    "id": 6288000015,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(15)",
+    "title": "书香园地-20160721"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160722.mp3",
+    "id": 6288000016,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(16)",
+    "title": "书香园地-20160722"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160725.mp3",
+    "id": 6288000017,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(17)",
+    "title": "书香园地-20160725"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160726.mp3",
+    "id": 6288000018,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(18)",
+    "title": "书香园地-20160726"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160727.mp3",
+    "id": 6288000019,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(19)",
+    "title": "书香园地-20160727"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160728.mp3",
+    "id": 6288000020,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(20)",
+    "title": "书香园地-20160728"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160729.mp3",
+    "id": 6288000021,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(21)",
+    "title": "书香园地-20160729"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160801.mp3",
+    "id": 6288000022,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(22)",
+    "title": "书香园地-20160801"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160802.mp3",
+    "id": 6288000023,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(23)",
+    "title": "书香园地-20160802"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160803.mp3",
+    "id": 6288000024,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(24)",
+    "title": "书香园地-20160803"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160804.mp3",
+    "id": 6288000025,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(25)",
+    "title": "书香园地-20160804"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160805.mp3",
+    "id": 6288000026,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(26)",
+    "title": "书香园地-20160805"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160808.mp3",
+    "id": 6288000027,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(27)",
+    "title": "书香园地-20160808"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160809.mp3",
+    "id": 6288000028,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(28)",
+    "title": "书香园地-20160809"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160810.mp3",
+    "id": 6288000029,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(29)",
+    "title": "书香园地-20160810"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160811.mp3",
+    "id": 6288000030,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(30)",
+    "title": "书香园地-20160811"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160812.mp3",
+    "id": 6288000031,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(31)",
+    "title": "书香园地-20160812"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160815.mp3",
+    "id": 6288000032,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(32)",
+    "title": "书香园地-20160815"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160816.mp3",
+    "id": 6288000033,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(33)",
+    "title": "书香园地-20160816"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160817.mp3",
+    "id": 6288000034,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(34)",
+    "title": "书香园地-20160817"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160818.mp3",
+    "id": 6288000035,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(35)",
+    "title": "书香园地-20160818"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160819.mp3",
+    "id": 6288000036,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(36)",
+    "title": "书香园地-20160819"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160822.mp3",
+    "id": 6288000037,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(37)",
+    "title": "书香园地-20160822"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160823.mp3",
+    "id": 6288000038,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(38)",
+    "title": "书香园地-20160823"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160824.mp3",
+    "id": 6288000039,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(39)",
+    "title": "书香园地-20160824"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160825.mp3",
+    "id": 6288000040,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(40)",
+    "title": "书香园地-20160825"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160826.mp3",
+    "id": 6288000041,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(41)",
+    "title": "书香园地-20160826"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160829.mp3",
+    "id": 6288000042,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(42)",
+    "title": "书香园地-20160829"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160830.mp3",
+    "id": 6288000043,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(43)",
+    "title": "书香园地-20160830"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160831.mp3",
+    "id": 6288000044,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(44)",
+    "title": "书香园地-20160831"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160901.mp3",
+    "id": 6288000045,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(45)",
+    "title": "书香园地-20160901"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160902.mp3",
+    "id": 6288000046,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(46)",
+    "title": "书香园地-20160902"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160905.mp3",
+    "id": 6288000047,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(47)",
+    "title": "书香园地-20160905"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160906.mp3",
+    "id": 6288000048,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(48)",
+    "title": "书香园地-20160906"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160907.mp3",
+    "id": 6288000049,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(49)",
+    "title": "书香园地-20160907"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160908.mp3",
+    "id": 6288000050,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(50)",
+    "title": "书香园地-20160908"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160909.mp3",
+    "id": 6288000051,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(51)",
+    "title": "书香园地-20160909"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160912.mp3",
+    "id": 6288000052,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(52)",
+    "title": "书香园地-20160912"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160913.mp3",
+    "id": 6288000053,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(53)",
+    "title": "书香园地-20160913"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160914.mp3",
+    "id": 6288000054,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(54)",
+    "title": "书香园地-20160914"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160915.mp3",
+    "id": 6288000055,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(55)",
+    "title": "书香园地-20160915"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160916.mp3",
+    "id": 6288000056,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(56)",
+    "title": "书香园地-20160916"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160919.mp3",
+    "id": 6288000057,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(57)",
+    "title": "书香园地-20160919"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160920.mp3",
+    "id": 6288000058,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(58)",
+    "title": "书香园地-20160920"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160921.mp3",
+    "id": 6288000059,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(59)",
+    "title": "书香园地-20160921"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160922.mp3",
+    "id": 6288000060,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(60)",
+    "title": "书香园地-20160922"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160923.mp3",
+    "id": 6288000061,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(61)",
+    "title": "书香园地-20160923"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160926.mp3",
+    "id": 6288000062,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(62)",
+    "title": "书香园地-20160926"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160927.mp3",
+    "id": 6288000063,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(63)",
+    "title": "书香园地-20160927"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160928.mp3",
+    "id": 6288000064,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(64)",
+    "title": "书香园地-20160928"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160929.mp3",
+    "id": 6288000065,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(65)",
+    "title": "书香园地-20160929"
+  },
+  {
+    "duration": 1760,
+    "size": "14.1M",
+    "path": "http://media.febcchinese.org/Streaming/book/bc160930.mp3",
+    "id": 6288000066,
+    "albumId": 6288,
+    "albumName": "《书香园地》2016年秋季合集",
+    "albumtitle": "《书香园地》2016年秋季合集(66)",
+    "title": "书香园地-20160930"
+  }
+]

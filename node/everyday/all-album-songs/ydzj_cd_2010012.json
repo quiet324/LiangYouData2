@@ -1,0 +1,22 @@
+[
+	{
+		"path": "http://media.feearadio.net/downloads/others/CD/2010/12/01.mp3",
+		"title": "1.齊來頌揚",
+		"duration": 1800,
+		"size": "15M",
+		"albumName": "【節目精選CD】2010年12月份 - 愛的稱頌。同行在愛中",
+		"id": 6081000001,
+		"albumId": 6081,
+		"albumtitle": "【節目精選CD】2010年12月份 - 愛的稱頌。同行在愛中(1)"
+	},
+	{
+		"path": "http://media.feearadio.net/downloads/others/CD/2010/12/02.mp3",
+		"title": "2.現代人的希望",
+		"duration": 1800,
+		"size": "15M",
+		"albumName": "【節目精選CD】2010年12月份 - 愛的稱頌。同行在愛中",
+		"id": 6081000002,
+		"albumId": 6081,
+		"albumtitle": "【節目精選CD】2010年12月份 - 愛的稱頌。同行在愛中(2)"
+	}
+]

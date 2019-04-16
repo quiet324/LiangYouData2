@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30401%20Jonah%201%20Jonah-running%20prophet.m4a",
+		"id": 7044000001,
+		"albumId": 7044,
+		"albumName": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 (1)",
+		"title": "讲座1 - 30401圣经书卷--约拿书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30402%20Jonah%202%20prayer%20inside%20the%20fish.m4a",
+		"id": 7044000002,
+		"albumId": 7044,
+		"albumName": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 (2)",
+		"title": "讲座2 - 30402圣经书卷--约拿书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30403%20Jonah%203%20mans%20repentance%20and%20regret.m4a",
+		"id": 7044000003,
+		"albumId": 7044,
+		"albumName": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 (3)",
+		"title": "讲座3 - 30403圣经书卷--约拿书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30404%20Jonah%204%20mans%20selffish%20and%20Gods%20mercy.m4a",
+		"id": 7044000004,
+		"albumId": 7044,
+		"albumName": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30400 圣经书卷--约拿书 |  庄祖鲲博士 (4)",
+		"title": "讲座4 - 30404圣经书卷--约拿书"
+	}
+]

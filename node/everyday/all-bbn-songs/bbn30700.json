@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30701%20RUTh%2001%2001-15.m4a",
+		"id": 7047000001,
+		"albumId": 7047,
+		"albumName": "BBN 30700 圣经书卷--路得记 |  康来昌博士 ",
+		"albumtitle": "BBN 30700 圣经书卷--路得记 |  康来昌博士 (1)",
+		"title": "讲座1 - 30701 圣经书卷--路得记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30702%20%20RUTH%20Ruth%20%2001%2014-2-8.m4a",
+		"id": 7047000002,
+		"albumId": 7047,
+		"albumName": "BBN 30700 圣经书卷--路得记 |  康来昌博士 ",
+		"albumtitle": "BBN 30700 圣经书卷--路得记 |  康来昌博士 (2)",
+		"title": "讲座2 - 30702 圣经书卷--路得记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30703%20%20RUTh%20%2002%2009-03%2007.m4a",
+		"id": 7047000003,
+		"albumId": 7047,
+		"albumName": "BBN 30700 圣经书卷--路得记 |  康来昌博士 ",
+		"albumtitle": "BBN 30700 圣经书卷--路得记 |  康来昌博士 (3)",
+		"title": "讲座3 - 30703 圣经书卷--路得记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30704%20%20Ruth%2003%2007-%20end%20mp3.m4a",
+		"id": 7047000004,
+		"albumId": 7047,
+		"albumName": "BBN 30700 圣经书卷--路得记 |  康来昌博士 ",
+		"albumtitle": "BBN 30700 圣经书卷--路得记 |  康来昌博士 (4)",
+		"title": "讲座4 - 30704 圣经书卷--路得记"
+	}
+]

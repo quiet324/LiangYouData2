@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22101%20How%20to%20be%20a%20good%20parent.m4a",
+		"id": 7035000001,
+		"albumId": 7035,
+		"albumName": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 ",
+		"albumtitle": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 (1)",
+		"title": "讲座1 - 22101 基督徒生活讲座--父母与子女关系"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22102%20What%20should%20the%20father%20give%20to%20children.m4a",
+		"id": 7035000002,
+		"albumId": 7035,
+		"albumName": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 ",
+		"albumtitle": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 (2)",
+		"title": "讲座2 - 22102 基督徒生活讲座--父母与子女关系"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22103%20Be%20a%20faithful%20father1.m4a",
+		"id": 7035000003,
+		"albumId": 7035,
+		"albumName": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 ",
+		"albumtitle": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 (3)",
+		"title": "讲座3 - 22103 基督徒生活讲座--父母与子女关系"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22104%20%20Mothers%20faith.m4a",
+		"id": 7035000004,
+		"albumId": 7035,
+		"albumName": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 ",
+		"albumtitle": "BBN 22100 基督徒生活讲座--父母与子女关系 | 李定武博士 (4)",
+		"title": "讲座4 - 22104 基督徒生活讲座--父母与子女关系"
+	}
+]

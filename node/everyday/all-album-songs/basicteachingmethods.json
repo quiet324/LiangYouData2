@@ -1,0 +1,43 @@
+[
+	{
+		"albumtitle": "基本教學法(01)",
+		"title": "",
+		"duration": 1760,
+        "size": "3.5M",
+		"albumId": 204,
+		"albumName": "基本教學法",
+		"path": "https://rawcdn.githack.com/quiet324/Media4JAlbum/1706094/basicteachingmethods/basicteachingmethods01.mp3",
+		"id": 204888180
+	},
+	{
+		"albumtitle": "基本教學法(02)",
+		"title": "",
+		"duration": 1760,
+        "size": "3.5M",
+		"albumId": 204,
+		"albumName": "基本教學法",
+		"path": "https://rawcdn.githack.com/quiet324/Media4JAlbum/1706094/basicteachingmethods/basicteachingmethods02.mp3",
+		"id": 204888181
+	},
+	{
+		"albumtitle": "基本教學法(03)",
+		"title": "",
+		"duration": 1760,
+        "size": "3.5M",
+		"albumId": 204,
+		"albumName": "基本教學法",
+		"path": "https://rawcdn.githack.com/quiet324/Media4JAlbum/1706094/basicteachingmethods/basicteachingmethods03.mp3",
+		"id": 204888182
+	},
+	{
+		"albumtitle": "基本教學法(04)",
+		"title": "",
+		"duration": 1760,
+        "size": "3.5M",
+		"albumId": 204,
+		"albumName": "基本教學法",
+		"path": "https://rawcdn.githack.com/quiet324/Media4JAlbum/1706094/basicteachingmethods/basicteachingmethods04.mp3",
+		"id": 204888183
+	}
+
+]

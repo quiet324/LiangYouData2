@@ -1,0 +1,38 @@
+[
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/Message/BibleTeaching/2017eph03-01.mp3",
+		"id": 4135000001,
+		"albumId": 4135,
+		"albumName": "以弗所书系列三",
+		"albumtitle": "以弗所书系列三(1)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/Message/BibleTeaching/2017eph03-02.mp3",
+		"id": 4135000002,
+		"albumId": 4135,
+		"albumName": "以弗所书系列三",
+		"albumtitle": "以弗所书系列三(2)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/Message/BibleTeaching/2017eph03-03.mp3",
+		"id": 4135000003,
+		"albumId": 4135,
+		"albumName": "以弗所书系列三",
+		"albumtitle": "以弗所书系列三(3)"
+	},
+	{
+		"duration": 1650,
+		"size": "5M",
+		"path": "http://media.haomuren.org/Message/BibleTeaching/2017eph03-04.mp3",
+		"id": 4135000004,
+		"albumId": 4135,
+		"albumName": "以弗所书系列三",
+		"albumtitle": "以弗所书系列三(4)"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51501%20Difficult%20Passages%20in%20the%20Bible.m4a",
+		"id": 7109000001,
+		"albumId": 7109,
+		"albumName": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士",
+		"albumtitle": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士(1)",
+		"title": "讲座1 - 51501 选修课程--圣经难题讲座"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51502%20Difficult%20Passages%20in%20the%20Bible.m4a",
+		"id": 7109000002,
+		"albumId": 7109,
+		"albumName": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士",
+		"albumtitle": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士(2)",
+		"title": "讲座2 - 51502 选修课程--圣经难题讲座"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51503%20Difficult%20Passages%20in%20the%20Bible.m4a",
+		"id": 7109000003,
+		"albumId": 7109,
+		"albumName": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士",
+		"albumtitle": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士(3)",
+		"title": "讲座3 - 51503 选修课程--圣经难题讲座"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51504%20Difficult%20Passages%20in%20the%20Bible.m4a",
+		"id": 7109000004,
+		"albumId": 7109,
+		"albumName": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士",
+		"albumtitle": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士(4)",
+		"title": "讲座4 - 51504 选修课程--圣经难题讲座"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51505%20Difficult%20Passages%20in%20the%20Bible.m4a",
+		"id": 7109000005,
+		"albumId": 7109,
+		"albumName": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士",
+		"albumtitle": "BBN 51500 选修课程--圣经难题讲座 |  马有藻博士(5)",
+		"title": "讲座5 - 51505 选修课程--圣经难题讲座"
+	}
+]

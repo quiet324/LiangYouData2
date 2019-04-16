@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50701%20ZCK%2040%20Mormonism.m4a",
+		"id": 7102000001,
+		"albumId": 7102,
+		"albumName": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士",
+		"albumtitle": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士(1)",
+		"title": "讲座1 - 50701 选修课程--异端的识别--摩门教（1）"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50702%20ZCK%2041%20Mormonism.m4a",
+		"id": 7102000002,
+		"albumId": 7102,
+		"albumName": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士",
+		"albumtitle": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士(2)",
+		"title": "讲座2 - 50702 选修课程--异端的识别--摩门教（2）"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50703%20ZCK%2043%20Jehovah%20witness.m4a",
+		"id": 7102000003,
+		"albumId": 7102,
+		"albumName": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士",
+		"albumtitle": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士(3)",
+		"title": "讲座3 - 50703 选修课程--异端的识别--耶和华见证人会"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50704%20ZCK%2044%20Unification%20of%20world%20Christianity.m4a",
+		"id": 7102000004,
+		"albumId": 7102,
+		"albumName": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士",
+		"albumtitle": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士(4)",
+		"title": "讲座4 - 50704 选修课程--异端的识别--统一教"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50705%20%20ZCK%2045%20Eastern%20lightning.m4a",
+		"id": 7102000005,
+		"albumId": 7102,
+		"albumName": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士",
+		"albumtitle": "BBN 50700 选修课程--异端的识别 |  庄祖鲲博士(5)",
+		"title": "讲座5 - 50705 选修课程--异端的识别--东方闪电"
+	}
+]

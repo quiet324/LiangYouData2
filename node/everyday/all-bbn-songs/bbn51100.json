@@ -1,0 +1,72 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51101%20Lords%20Prayer.m4a",
+		"id": 7106000001,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(1)",
+		"title": "讲座1 - 51101 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51102%20Lords%20Prayer.m4a",
+		"id": 7106000002,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(2)",
+		"title": "讲座2 - 51102 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51103%20Lords%20Prayer.m4a",
+		"id": 7106000003,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(3)",
+		"title": "讲座3 - 51103 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51104%20Lords%20Prayer.m4a",
+		"id": 7106000004,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(4)",
+		"title": "讲座4 - 51104 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51105%20Lords%20Prayer.m4a",
+		"id": 7106000005,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(5)",
+		"title": "讲座5 - 51105 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51106%20Lords%20Prayer.m4a",
+		"id": 7106000006,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(6)",
+		"title": "讲座6 - 51106 选修课程--主祷文"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/51107%20Lords%20Prayer.m4a",
+		"id": 7106000007,
+		"albumId": 7106,
+		"albumName": "BBN 51100 选修课程--主祷文 |  锺世豪牧师",
+		"albumtitle": "BBN 51100 选修课程--主祷文 |  锺世豪牧师(7)",
+		"title": "讲座7 - 51107 选修课程--主祷文"
+	}
+]

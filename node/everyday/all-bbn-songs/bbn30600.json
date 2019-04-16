@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30601%20Malachi%201%20calling%20painstakingly.m4a",
+		"id": 7046000001,
+		"albumId": 7046,
+		"albumName": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 (1)",
+		"title": "讲座1 - 30601 圣经书卷--玛拉基书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30602%20Malachi%202%20warning%20sincerity.m4a",
+		"id": 7046000002,
+		"albumId": 7046,
+		"albumName": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 (2)",
+		"title": "讲座2 - 30602 圣经书卷--玛拉基书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30603%20Malachi%203%20calling%20earnestly.m4a",
+		"id": 7046000003,
+		"albumId": 7046,
+		"albumName": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 (3)",
+		"title": "讲座3 - 30603 圣经书卷--玛拉基书"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30604%20Malachi%204%20definite%20promise.m4a",
+		"id": 7046000004,
+		"albumId": 7046,
+		"albumName": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 ",
+		"albumtitle": "BBN 30600 圣经书卷--玛拉基书 |  庄祖鲲博士 (4)",
+		"title": "讲座4 - 30604 圣经书卷--玛拉基书"
+	}
+]

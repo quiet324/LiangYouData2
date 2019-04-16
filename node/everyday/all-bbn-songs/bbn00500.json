@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00501%20Basic%20Doctrines%201%20b%20.m4a",
+		"id": 7002000001,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (1)",
+		"title": "讲座1 - 00501 基要课程--圣经教导些什么？"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00502%20Basic%20Doctrines%202%20edited.m4a",
+		"id": 7002000002,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (2)",
+		"title": "讲座2 - 00502 基要课程--圣经教导些什么？"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00503%20Basic%20Doctrines%203%20b%20.m4a",
+		"id": 7002000003,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (3)",
+		"title": "讲座3 - 00503 基要课程--圣经教导些什么？"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00504%20Basic%20Doctrines%204.m4a",
+		"id": 7002000004,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (4)",
+		"title": "讲座4 - 00504 基要课程--圣经教导些什么？"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00505%20Basic%20Doctrines%205%20b%20.m4a",
+		"id": 7002000005,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (5)",
+		"title": "讲座5 - 00505 基要课程--圣经教导些什么？"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00506%20Basic%20Doctrines%206%20b%20.m4a",
+		"id": 7002000006,
+		"albumId": 7002,
+		"albumName": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院 ",
+		"albumtitle": "BBN 00500 基要课程--圣经教导些什么？ | 圣经广播网圣经学院  (6)",
+		"title": "讲座6 - 00506 基要课程--圣经教导些什么？"
+	}
+]

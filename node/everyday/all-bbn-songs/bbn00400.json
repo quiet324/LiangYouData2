@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00401%20Sincere%20worship%20the%20Lord.m4a",
+		"id": 7001000001,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (1)",
+		"title": "讲座1 - 00401 基督徒灵命进深--敬拜"
+	},
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00402%20Reading%20the%20Word%20with%20widsom.m4a",
+		"id": 7001000002,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (2)",
+		"title": "讲座2 - 00402 基督徒灵命进深--有智慧的读经"
+	},
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00403%20prayer%20life.m4a",
+		"id": 7001000003,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (3)",
+		"title": "讲座3 - 00403 基督徒灵命进深--恒久的祈求"
+	},
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00404%20%20Faithful%20servant%20.m4a",
+		"id": 7001000004,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (4)",
+		"title": "讲座4 - 00404 基督徒灵命进深--作神国的好管家"
+	},
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00405%20%20Be%20a%20wise%20investor%20for%20His%20kingdom%20ok.m4a",
+		"id": 7001000005,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (5)",
+		"title": "讲座5 - 00405 基督徒灵命进深--聪明的投资者"
+	},
+	{
+		"duration": 3000,
+		"size": "13M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00406%20Serving%20with%20same%20mind.m4a",
+		"id": 7001000006,
+		"albumId": 7001,
+		"albumName": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 ",
+		"albumtitle": "BBN 00400 基要课程--基督徒灵命进深 | 李定武博士 (6)",
+		"title": "讲座6 - 00406 基督徒灵命进深--事奉的必要条件"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20501%20live%20with%20your%20faith%20in%20your%20daily%20life%201okm%20mp3.m4a",
+		"id": 7020000001,
+		"albumId": 7020,
+		"albumName": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 ",
+		"albumtitle": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 (1)",
+		"title": "讲座1 - 20501 基督徒生活讲座--活出信心"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20502%20live%20with%20your%20faith%20in%20your%20daily%20life%202%20okm.m4a",
+		"id": 7020000002,
+		"albumId": 7020,
+		"albumName": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 ",
+		"albumtitle": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 (2)",
+		"title": "讲座2 - 20502 基督徒生活讲座--活出信心"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/20503%20%20live%20out%20your%20faith%20in%20your%20daily%20life%203okm.m4a",
+		"id": 7020000003,
+		"albumId": 7020,
+		"albumName": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 ",
+		"albumtitle": "BBN 20500 基督徒生活讲座--活出信心 | 赵约翰博士 (3)",
+		"title": "讲座3 - 20503 基督徒生活讲座--活出信心"
+	}
+]

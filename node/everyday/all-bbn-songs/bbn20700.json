@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/LTW101%20Principles%20of%20reward%20and%20punishment.m4a",
+		"id": 7022000001,
+		"albumId": 7022,
+		"albumName": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士",
+		"albumtitle": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士(1)",
+		"title": "讲座1 - 20701 基督徒生活讲座--基督徒生活原则"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/LTW102%20Principles%20of%20narrow%20door.m4a",
+		"id": 7022000002,
+		"albumId": 7022,
+		"albumName": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士",
+		"albumtitle": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士(2)",
+		"title": "讲座2 - 20702 基督徒生活讲座--基督徒生活原则"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/LTW103%20The%20Lose%20will%20find%20.m4a",
+		"id": 7022000003,
+		"albumId": 7022,
+		"albumName": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士",
+		"albumtitle": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士(3)",
+		"title": "讲座3 - 20703 基督徒生活讲座--基督徒生活原则"
+	},
+	{
+		"duration": 2700,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/LTW104%20%20He%20who%20has%20will%20be%20given%20more.m4a",
+		"id": 7022000004,
+		"albumId": 7022,
+		"albumName": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士",
+		"albumtitle": "BBN 20700 基督徒生活讲座--基督徒生活原则 | 李定武博士(4)",
+		"title": "讲座4 - 20704 基督徒生活讲座--基督徒生活原则"
+	}
+]

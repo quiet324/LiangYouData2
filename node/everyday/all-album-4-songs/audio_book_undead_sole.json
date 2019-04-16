@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 862,
+		"size": "19.72 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/UndeadSole/1.每一个人都拥有不死的灵魂.mp3",
+		"id": 6479000001,
+		"title": "1.每一个人都拥有不死的灵魂",
+		"albumId": 6479,
+		"albumName": "每个人都拥有不死的灵魂",
+		"albumtitle": "每个人都拥有不死的灵魂(1)"
+	},
+	{
+		"duration": 892,
+		"size": "20.40 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/UndeadSole/2.任何人都有可能失丧自己的灵魂.mp3",
+		"id": 6479000002,
+		"title": "2.任何人都有可能失丧自己的灵魂",
+		"albumId": 6479,
+		"albumName": "每个人都拥有不死的灵魂",
+		"albumtitle": "每个人都拥有不死的灵魂(2)"
+	},
+	{
+		"duration": 858,
+		"size": "19.62 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/UndeadSole/3.最沉重的损失，要数灵魂的失丧.mp3",
+		"id": 6479000003,
+		"title": "3.最沉重的损失，要数灵魂的失丧",
+		"albumId": 6479,
+		"albumName": "每个人都拥有不死的灵魂",
+		"albumtitle": "每个人都拥有不死的灵魂(3)"
+	},
+	{
+		"duration": 922,
+		"size": "21.07 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/UndeadSole/4.任何人的灵魂都有可能得救（莱尔）.mp3",
+		"id": 6479000004,
+		"title": "4.任何人的灵魂都有可能得救（莱尔）",
+		"albumId": 6479,
+		"albumName": "每个人都拥有不死的灵魂",
+		"albumtitle": "每个人都拥有不死的灵魂(4)"
+	},
+	{
+		"duration": 951,
+		"size": "21.74 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/UndeadSole/5.关于灵魂得救的三个应用.mp3",
+		"id": 6479000005,
+		"title": "5.关于灵魂得救的三个应用",
+		"albumId": 6479,
+		"albumName": "每个人都拥有不死的灵魂",
+		"albumtitle": "每个人都拥有不死的灵魂(5)"
+	}
+]

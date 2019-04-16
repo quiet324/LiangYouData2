@@ -1,0 +1,912 @@
+[
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140401.mp3",
+		"id": 6382000001,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(1)",
+		"title": "每日经历神-4月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140402.mp3",
+		"id": 6382000002,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(2)",
+		"title": "每日经历神-4月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140403.mp3",
+		"id": 6382000003,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(3)",
+		"title": "每日经历神-4月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140404.mp3",
+		"id": 6382000004,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(4)",
+		"title": "每日经历神-4月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140405.mp3",
+		"id": 6382000005,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(5)",
+		"title": "每日经历神-4月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140406.mp3",
+		"id": 6382000006,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(6)",
+		"title": "每日经历神-4月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140407.mp3",
+		"id": 6382000007,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(7)",
+		"title": "每日经历神-4月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140408.mp3",
+		"id": 6382000008,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(8)",
+		"title": "每日经历神-4月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140409.mp3",
+		"id": 6382000009,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(9)",
+		"title": "每日经历神-4月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140410.mp3",
+		"id": 6382000010,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(10)",
+		"title": "每日经历神-4月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140411.mp3",
+		"id": 6382000011,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(11)",
+		"title": "每日经历神-4月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140412.mp3",
+		"id": 6382000012,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(12)",
+		"title": "每日经历神-4月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140413.mp3",
+		"id": 6382000013,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(13)",
+		"title": "每日经历神-4月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140414.mp3",
+		"id": 6382000014,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(14)",
+		"title": "每日经历神-4月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140415.mp3",
+		"id": 6382000015,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(15)",
+		"title": "每日经历神-4月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140416.mp3",
+		"id": 6382000016,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(16)",
+		"title": "每日经历神-4月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140417.mp3",
+		"id": 6382000017,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(17)",
+		"title": "每日经历神-4月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140418.mp3",
+		"id": 6382000018,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(18)",
+		"title": "每日经历神-4月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140419.mp3",
+		"id": 6382000019,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(19)",
+		"title": "每日经历神-4月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140420.mp3",
+		"id": 6382000020,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(20)",
+		"title": "每日经历神-4月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140421.mp3",
+		"id": 6382000021,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(21)",
+		"title": "每日经历神-4月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140422.mp3",
+		"id": 6382000022,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(22)",
+		"title": "每日经历神-4月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140423.mp3",
+		"id": 6382000023,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(23)",
+		"title": "每日经历神-4月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140424.mp3",
+		"id": 6382000024,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(24)",
+		"title": "每日经历神-4月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140425.mp3",
+		"id": 6382000025,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(25)",
+		"title": "每日经历神-4月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140426.mp3",
+		"id": 6382000026,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(26)",
+		"title": "每日经历神-4月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140427.mp3",
+		"id": 6382000027,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(27)",
+		"title": "每日经历神-4月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140428.mp3",
+		"id": 6382000028,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(28)",
+		"title": "每日经历神-4月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140429.mp3",
+		"id": 6382000029,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(29)",
+		"title": "每日经历神-4月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Apr/Dvo140430.mp3",
+		"id": 6382000030,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(30)",
+		"title": "每日经历神-4月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140501.mp3",
+		"id": 6382000031,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(31)",
+		"title": "每日经历神-5月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140502.mp3",
+		"id": 6382000032,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(32)",
+		"title": "每日经历神-5月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140503.mp3",
+		"id": 6382000033,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(33)",
+		"title": "每日经历神-5月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140504.mp3",
+		"id": 6382000034,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(34)",
+		"title": "每日经历神-5月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140505.mp3",
+		"id": 6382000035,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(35)",
+		"title": "每日经历神-5月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140506.mp3",
+		"id": 6382000036,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(36)",
+		"title": "每日经历神-5月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140507.mp3",
+		"id": 6382000037,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(37)",
+		"title": "每日经历神-5月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140508.mp3",
+		"id": 6382000038,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(38)",
+		"title": "每日经历神-5月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140509.mp3",
+		"id": 6382000039,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(39)",
+		"title": "每日经历神-5月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140510.mp3",
+		"id": 6382000040,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(40)",
+		"title": "每日经历神-5月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140511.mp3",
+		"id": 6382000041,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(41)",
+		"title": "每日经历神-5月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140512.mp3",
+		"id": 6382000042,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(42)",
+		"title": "每日经历神-5月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140513.mp3",
+		"id": 6382000043,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(43)",
+		"title": "每日经历神-5月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140514.mp3",
+		"id": 6382000044,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(44)",
+		"title": "每日经历神-5月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140515.mp3",
+		"id": 6382000045,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(45)",
+		"title": "每日经历神-5月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140516.mp3",
+		"id": 6382000046,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(46)",
+		"title": "每日经历神-5月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140517.mp3",
+		"id": 6382000047,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(47)",
+		"title": "每日经历神-5月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140518.mp3",
+		"id": 6382000048,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(48)",
+		"title": "每日经历神-5月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140519.mp3",
+		"id": 6382000049,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(49)",
+		"title": "每日经历神-5月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140520.mp3",
+		"id": 6382000050,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(50)",
+		"title": "每日经历神-5月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140521.mp3",
+		"id": 6382000051,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(51)",
+		"title": "每日经历神-5月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140522.mp3",
+		"id": 6382000052,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(52)",
+		"title": "每日经历神-5月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140523.mp3",
+		"id": 6382000053,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(53)",
+		"title": "每日经历神-5月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140524.mp3",
+		"id": 6382000054,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(54)",
+		"title": "每日经历神-5月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140525.mp3",
+		"id": 6382000055,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(55)",
+		"title": "每日经历神-5月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140526.mp3",
+		"id": 6382000056,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(56)",
+		"title": "每日经历神-5月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140527.mp3",
+		"id": 6382000057,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(57)",
+		"title": "每日经历神-5月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140528.mp3",
+		"id": 6382000058,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(58)",
+		"title": "每日经历神-5月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140529.mp3",
+		"id": 6382000059,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(59)",
+		"title": "每日经历神-5月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140530.mp3",
+		"id": 6382000060,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(60)",
+		"title": "每日经历神-5月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/May/Dvo140531.mp3",
+		"id": 6382000061,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(61)",
+		"title": "每日经历神-5月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140601.mp3",
+		"id": 6382000062,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(62)",
+		"title": "每日经历神-6月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140602.mp3",
+		"id": 6382000063,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(63)",
+		"title": "每日经历神-6月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140603.mp3",
+		"id": 6382000064,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(64)",
+		"title": "每日经历神-6月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140604.mp3",
+		"id": 6382000065,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(65)",
+		"title": "每日经历神-6月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140605.mp3",
+		"id": 6382000066,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(66)",
+		"title": "每日经历神-6月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140606.mp3",
+		"id": 6382000067,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(67)",
+		"title": "每日经历神-6月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140607.mp3",
+		"id": 6382000068,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(68)",
+		"title": "每日经历神-6月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140608.mp3",
+		"id": 6382000069,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(69)",
+		"title": "每日经历神-6月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140609.mp3",
+		"id": 6382000070,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(70)",
+		"title": "每日经历神-6月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140610.mp3",
+		"id": 6382000071,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(71)",
+		"title": "每日经历神-6月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140611.mp3",
+		"id": 6382000072,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(72)",
+		"title": "每日经历神-6月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140612.mp3",
+		"id": 6382000073,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(73)",
+		"title": "每日经历神-6月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140613.mp3",
+		"id": 6382000074,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(74)",
+		"title": "每日经历神-6月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140614.mp3",
+		"id": 6382000075,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(75)",
+		"title": "每日经历神-6月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140615.mp3",
+		"id": 6382000076,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(76)",
+		"title": "每日经历神-6月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140616.mp3",
+		"id": 6382000077,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(77)",
+		"title": "每日经历神-6月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140617.mp3",
+		"id": 6382000078,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(78)",
+		"title": "每日经历神-6月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140618.mp3",
+		"id": 6382000079,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(79)",
+		"title": "每日经历神-6月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140619.mp3",
+		"id": 6382000080,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(80)",
+		"title": "每日经历神-6月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140620.mp3",
+		"id": 6382000081,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(81)",
+		"title": "每日经历神-6月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140621.mp3",
+		"id": 6382000082,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(82)",
+		"title": "每日经历神-6月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140622.mp3",
+		"id": 6382000083,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(83)",
+		"title": "每日经历神-6月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140623.mp3",
+		"id": 6382000084,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(84)",
+		"title": "每日经历神-6月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140624.mp3",
+		"id": 6382000085,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(85)",
+		"title": "每日经历神-6月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140625.mp3",
+		"id": 6382000086,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(86)",
+		"title": "每日经历神-6月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140626.mp3",
+		"id": 6382000087,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(87)",
+		"title": "每日经历神-6月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140627.mp3",
+		"id": 6382000088,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(88)",
+		"title": "每日经历神-6月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140628.mp3",
+		"id": 6382000089,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(89)",
+		"title": "每日经历神-6月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140629.mp3",
+		"id": 6382000090,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(90)",
+		"title": "每日经历神-6月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/Devotion/DayByDay/Jun/Dvo140630.mp3",
+		"id": 6382000091,
+		"albumId": 6382,
+		"albumName": "《每日经历神》夏季合集",
+		"albumtitle": "《每日经历神》夏季合集(91)",
+		"title": "每日经历神-6月30日"
+	}
+]

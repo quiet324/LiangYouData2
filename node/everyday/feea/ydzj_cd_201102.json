@@ -1,0 +1,22 @@
+[
+	{
+		"path": "http://media.feearadio.net/downloads/others/CD/2011/02/01.mp3",
+		"title": "1.新年歌",
+		"duration": 550,
+		"size": "4M",
+		"albumName": "【節目精選CD】2011年2月份 - 新年新意義。活出意義",
+		"id": 6083000001,
+		"albumId": 6083,
+		"albumtitle": "【節目精選CD】2011年2月份 - 新年新意義。活出意義(1)"
+	},
+	{
+		"path": "http://media.feearadio.net/downloads/others/CD/2011/02/02.mp3",
+		"title": "2.齊來頌揚",
+		"duration": 550,
+		"size": "4M",
+		"albumName": "【節目精選CD】2011年2月份 - 新年新意義。活出意義",
+		"id": 6083000002,
+		"albumId": 6083,
+		"albumtitle": "【節目精選CD】2011年2月份 - 新年新意義。活出意義(2)"
+	}
+]

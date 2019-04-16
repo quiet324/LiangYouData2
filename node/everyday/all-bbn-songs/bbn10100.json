@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10101%20Doctrine%20of%20Salvation%201.m4a",
+		"id": 7010000001,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (1)",
+		"title": "讲座1 - 10101 教义课程--救恩论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10102%20Doctrine%20of%20Salvation%202.m4a",
+		"id": 7010000002,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (2)",
+		"title": "讲座2 - 10102 教义课程--救恩论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10103%20Doctrine%20of%20Salvation%203.m4a",
+		"id": 7010000003,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (3)",
+		"title": "讲座3 - 10103 教义课程--救恩论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10104%20Doctrine%20of%20Salvation%204.m4a",
+		"id": 7010000004,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (4)",
+		"title": "讲座4 - 10104 教义课程--救恩论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10105%20Doctrine%20of%20Salvation%205.m4a",
+		"id": 7010000005,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (5)",
+		"title": "讲座5 - 10105 教义课程--救恩论"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10106%20Doctrine%20of%20Salvation%206.m4a",
+		"id": 7010000006,
+		"albumId": 7010,
+		"albumName": "BBN 10100 教义课程--救恩论 | 康来昌博士 ",
+		"albumtitle": "BBN 10100 教义课程--救恩论 | 康来昌博士 (6)",
+		"title": "讲座6 - 10106 教义课程--救恩论"
+	}
+]

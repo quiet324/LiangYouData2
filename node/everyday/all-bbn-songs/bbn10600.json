@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10601%20Doctrine%20Of%20God%209.m4a",
+		"id": 7014000001,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (1)",
+		"title": "讲座1 - 10601 教义课程--神论 (下)"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10602%20Doctrine%20of%20God%2010.m4a",
+		"id": 7014000002,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (2)",
+		"title": "讲座2 - 10602 教义课程--神论 (下)"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10603%20%20Doctrine%20of%20God%2011.m4a",
+		"id": 7014000003,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (3)",
+		"title": "讲座3 - 10603 教义课程--神论 (下)"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10604%20Doctrine%20Of%20God%2012.m4a",
+		"id": 7014000004,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (4)",
+		"title": "讲座4 - 10604 教义课程--神论 (下)"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10605%20Doctrine%20of%20God%2013.m4a",
+		"id": 7014000005,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (5)",
+		"title": "讲座5 - 10605 教义课程--神论 (下)"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10606%20Doctrine%20Of%20God%2015.m4a",
+		"id": 7014000006,
+		"albumId": 7014,
+		"albumName": "BBN 10600 教义课程--神论 (下) | 康来昌博士 ",
+		"albumtitle": "BBN 10600 教义课程--神论 (下) | 康来昌博士 (6)",
+		"title": "讲座6 - 10606 教义课程--神论 (下)"
+	}
+]

@@ -1,0 +1,912 @@
+[
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150401.mp3",
+		"id": 6220000001,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(1)",
+		"title": "真理之光-20150401"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150402.mp3",
+		"id": 6220000002,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(2)",
+		"title": "真理之光-20150402"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150403.mp3",
+		"id": 6220000003,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(3)",
+		"title": "真理之光-20150403"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150404.mp3",
+		"id": 6220000004,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(4)",
+		"title": "真理之光-20150404"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150405.mp3",
+		"id": 6220000005,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(5)",
+		"title": "真理之光-20150405"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150406.mp3",
+		"id": 6220000006,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(6)",
+		"title": "真理之光-20150406"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150407.mp3",
+		"id": 6220000007,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(7)",
+		"title": "真理之光-20150407"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150408.mp3",
+		"id": 6220000008,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(8)",
+		"title": "真理之光-20150408"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150409.mp3",
+		"id": 6220000009,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(9)",
+		"title": "真理之光-20150409"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150410.mp3",
+		"id": 6220000010,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(10)",
+		"title": "真理之光-20150410"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150411.mp3",
+		"id": 6220000011,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(11)",
+		"title": "真理之光-20150411"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150412.mp3",
+		"id": 6220000012,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(12)",
+		"title": "真理之光-20150412"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150413.mp3",
+		"id": 6220000013,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(13)",
+		"title": "真理之光-20150413"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150414.mp3",
+		"id": 6220000014,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(14)",
+		"title": "真理之光-20150414"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150415.mp3",
+		"id": 6220000015,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(15)",
+		"title": "真理之光-20150415"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150416.mp3",
+		"id": 6220000016,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(16)",
+		"title": "真理之光-20150416"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150417.mp3",
+		"id": 6220000017,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(17)",
+		"title": "真理之光-20150417"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150418.mp3",
+		"id": 6220000018,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(18)",
+		"title": "真理之光-20150418"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150419.mp3",
+		"id": 6220000019,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(19)",
+		"title": "真理之光-20150419"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150420.mp3",
+		"id": 6220000020,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(20)",
+		"title": "真理之光-20150420"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150421.mp3",
+		"id": 6220000021,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(21)",
+		"title": "真理之光-20150421"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150422.mp3",
+		"id": 6220000022,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(22)",
+		"title": "真理之光-20150422"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150423.mp3",
+		"id": 6220000023,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(23)",
+		"title": "真理之光-20150423"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150424.mp3",
+		"id": 6220000024,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(24)",
+		"title": "真理之光-20150424"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150425.mp3",
+		"id": 6220000025,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(25)",
+		"title": "真理之光-20150425"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150426.mp3",
+		"id": 6220000026,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(26)",
+		"title": "真理之光-20150426"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150427.mp3",
+		"id": 6220000027,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(27)",
+		"title": "真理之光-20150427"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150428.mp3",
+		"id": 6220000028,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(28)",
+		"title": "真理之光-20150428"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150429.mp3",
+		"id": 6220000029,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(29)",
+		"title": "真理之光-20150429"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150430.mp3",
+		"id": 6220000030,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(30)",
+		"title": "真理之光-20150430"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150501.mp3",
+		"id": 6220000031,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(31)",
+		"title": "真理之光-20150501"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150502.mp3",
+		"id": 6220000032,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(32)",
+		"title": "真理之光-20150502"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150503.mp3",
+		"id": 6220000033,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(33)",
+		"title": "真理之光-20150503"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150504.mp3",
+		"id": 6220000034,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(34)",
+		"title": "真理之光-20150504"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150505.mp3",
+		"id": 6220000035,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(35)",
+		"title": "真理之光-20150505"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150506.mp3",
+		"id": 6220000036,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(36)",
+		"title": "真理之光-20150506"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150507.mp3",
+		"id": 6220000037,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(37)",
+		"title": "真理之光-20150507"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150508.mp3",
+		"id": 6220000038,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(38)",
+		"title": "真理之光-20150508"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150509.mp3",
+		"id": 6220000039,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(39)",
+		"title": "真理之光-20150509"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150510.mp3",
+		"id": 6220000040,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(40)",
+		"title": "真理之光-20150510"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150511.mp3",
+		"id": 6220000041,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(41)",
+		"title": "真理之光-20150511"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150512.mp3",
+		"id": 6220000042,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(42)",
+		"title": "真理之光-20150512"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150513.mp3",
+		"id": 6220000043,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(43)",
+		"title": "真理之光-20150513"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150514.mp3",
+		"id": 6220000044,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(44)",
+		"title": "真理之光-20150514"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150515.mp3",
+		"id": 6220000045,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(45)",
+		"title": "真理之光-20150515"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150516.mp3",
+		"id": 6220000046,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(46)",
+		"title": "真理之光-20150516"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150517.mp3",
+		"id": 6220000047,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(47)",
+		"title": "真理之光-20150517"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150518.mp3",
+		"id": 6220000048,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(48)",
+		"title": "真理之光-20150518"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150519.mp3",
+		"id": 6220000049,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(49)",
+		"title": "真理之光-20150519"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150520.mp3",
+		"id": 6220000050,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(50)",
+		"title": "真理之光-20150520"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150521.mp3",
+		"id": 6220000051,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(51)",
+		"title": "真理之光-20150521"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150522.mp3",
+		"id": 6220000052,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(52)",
+		"title": "真理之光-20150522"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150523.mp3",
+		"id": 6220000053,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(53)",
+		"title": "真理之光-20150523"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150524.mp3",
+		"id": 6220000054,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(54)",
+		"title": "真理之光-20150524"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150525.mp3",
+		"id": 6220000055,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(55)",
+		"title": "真理之光-20150525"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150526.mp3",
+		"id": 6220000056,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(56)",
+		"title": "真理之光-20150526"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150527.mp3",
+		"id": 6220000057,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(57)",
+		"title": "真理之光-20150527"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150528.mp3",
+		"id": 6220000058,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(58)",
+		"title": "真理之光-20150528"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150529.mp3",
+		"id": 6220000059,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(59)",
+		"title": "真理之光-20150529"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150530.mp3",
+		"id": 6220000060,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(60)",
+		"title": "真理之光-20150530"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150531.mp3",
+		"id": 6220000061,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(61)",
+		"title": "真理之光-20150531"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150601.mp3",
+		"id": 6220000062,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(62)",
+		"title": "真理之光-20150601"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150602.mp3",
+		"id": 6220000063,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(63)",
+		"title": "真理之光-20150602"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150603.mp3",
+		"id": 6220000064,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(64)",
+		"title": "真理之光-20150603"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150604.mp3",
+		"id": 6220000065,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(65)",
+		"title": "真理之光-20150604"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150605.mp3",
+		"id": 6220000066,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(66)",
+		"title": "真理之光-20150605"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150606.mp3",
+		"id": 6220000067,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(67)",
+		"title": "真理之光-20150606"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150607.mp3",
+		"id": 6220000068,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(68)",
+		"title": "真理之光-20150607"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150608.mp3",
+		"id": 6220000069,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(69)",
+		"title": "真理之光-20150608"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150609.mp3",
+		"id": 6220000070,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(70)",
+		"title": "真理之光-20150609"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150610.mp3",
+		"id": 6220000071,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(71)",
+		"title": "真理之光-20150610"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150611.mp3",
+		"id": 6220000072,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(72)",
+		"title": "真理之光-20150611"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150612.mp3",
+		"id": 6220000073,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(73)",
+		"title": "真理之光-20150612"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150613.mp3",
+		"id": 6220000074,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(74)",
+		"title": "真理之光-20150613"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150614.mp3",
+		"id": 6220000075,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(75)",
+		"title": "真理之光-20150614"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150615.mp3",
+		"id": 6220000076,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(76)",
+		"title": "真理之光-20150615"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150616.mp3",
+		"id": 6220000077,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(77)",
+		"title": "真理之光-20150616"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150617.mp3",
+		"id": 6220000078,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(78)",
+		"title": "真理之光-20150617"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150618.mp3",
+		"id": 6220000079,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(79)",
+		"title": "真理之光-20150618"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150619.mp3",
+		"id": 6220000080,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(80)",
+		"title": "真理之光-20150619"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150620.mp3",
+		"id": 6220000081,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(81)",
+		"title": "真理之光-20150620"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150621.mp3",
+		"id": 6220000082,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(82)",
+		"title": "真理之光-20150621"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150622.mp3",
+		"id": 6220000083,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(83)",
+		"title": "真理之光-20150622"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150623.mp3",
+		"id": 6220000084,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(84)",
+		"title": "真理之光-20150623"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150624.mp3",
+		"id": 6220000085,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(85)",
+		"title": "真理之光-20150624"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150625.mp3",
+		"id": 6220000086,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(86)",
+		"title": "真理之光-20150625"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150626.mp3",
+		"id": 6220000087,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(87)",
+		"title": "真理之光-20150626"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150627.mp3",
+		"id": 6220000088,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(88)",
+		"title": "真理之光-20150627"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150628.mp3",
+		"id": 6220000089,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(89)",
+		"title": "真理之光-20150628"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150629.mp3",
+		"id": 6220000090,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(90)",
+		"title": "真理之光-20150629"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th150630.mp3",
+		"id": 6220000091,
+		"albumId": 6220,
+		"albumName": "《真理之光》2015年夏季合集",
+		"albumtitle": "《真理之光》2015年夏季合集(91)",
+		"title": "真理之光-20150630"
+	}
+]

@@ -501,7 +501,30 @@ var j = schedule.scheduleJob(rule, function() { // rule hour at 5 minutes
 
         while (outerSync) { require('deasync').sleep(2000); }
 
+
+
+
     });
+
+
+    console.log(moment().format('MMMM Do YYYY, h:mm:ss a') + " upload... " + cosAudioFile.fileName);
+
+    cos.sliceUploadFile({
+        Bucket: 'dailyaudio', // 替换为你的Bucket名称
+        Region: 'ap-chengdu', // 设置COS所在的区域，对应关系: 华南->cn-south, 华东->cn-east, 华北->cn-north
+        Key: audioFilesForCOSFileName.substring(cosAudioFile.fileName.lastIndexOf('/')), // 设置上传到cos后的文件的名称
+        FilePath: audioFilesForCOSFileName // 设置要上传的本地文件
+    }, function(err, data) {
+        sync = false;
+
+        if (!err) {
+            console.log(data);
+        } else {
+            console.log(err);
+        }
+    });
+
+
 
 
     // if (fs.existsSync(jsonFilesForCOSFileName)) { //

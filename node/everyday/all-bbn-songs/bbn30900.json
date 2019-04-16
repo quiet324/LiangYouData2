@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30901%20Nehemiah%201.m4a",
+		"id": 7048000001,
+		"albumId": 7048,
+		"albumName": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 ",
+		"albumtitle": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 (1)",
+		"title": "讲座1 - 30901 圣经书卷--尼希米记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30902%20Nehemiah%202.m4a",
+		"id": 7048000002,
+		"albumId": 7048,
+		"albumName": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 ",
+		"albumtitle": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 (2)",
+		"title": "讲座2 - 30902 圣经书卷--尼希米记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30903%20Nehemiah%203.m4a",
+		"id": 7048000003,
+		"albumId": 7048,
+		"albumName": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 ",
+		"albumtitle": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 (3)",
+		"title": "讲座3 - 30903 圣经书卷--尼希米记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30904%20Nehemiah%204.m4a",
+		"id": 7048000004,
+		"albumId": 7048,
+		"albumName": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 ",
+		"albumtitle": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 (4)",
+		"title": "讲座4 - 30904 圣经书卷--尼希米记"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/30905%20Nehemiah%205.m4a",
+		"id": 7048000005,
+		"albumId": 7048,
+		"albumName": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 ",
+		"albumtitle": "BBN 30900 圣经书卷--尼希米记 |  李秀全牧师 (5)",
+		"title": "讲座5 - 30905 圣经书卷--尼希米记"
+	}
+]

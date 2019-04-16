@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21901%20LMY%2023%20Be%20a%20worker%20without%20regretion1-1.m4a",
+		"id": 7034000001,
+		"albumId": 7034,
+		"albumName": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 ",
+		"albumtitle": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 (1)",
+		"title": "讲座1 - 21901 基督徒生活讲座--无愧的工人"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21902%20LMY%2024%20Be%20a%20worker%20without%20regretion1-2.m4a",
+		"id": 7034000002,
+		"albumId": 7034,
+		"albumName": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 ",
+		"albumtitle": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 (2)",
+		"title": "讲座2 - 21902 基督徒生活讲座--无愧的工人"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21903%20LMY%2025%20Be%20a%20worker%20without%20regretion2-1.m4a",
+		"id": 7034000003,
+		"albumId": 7034,
+		"albumName": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 ",
+		"albumtitle": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 (3)",
+		"title": "讲座3 - 21903 基督徒生活讲座--无愧的工人"
+	},
+	{
+		"duration": 2500,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21904%20LMY%2026%20Be%20a%20worker%20without%20regretion2-2d.m4a",
+		"id": 7034000004,
+		"albumId": 7034,
+		"albumName": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 ",
+		"albumtitle": "BBN 21900 基督徒生活讲座--无愧的工人 | 李秀全牧师 (4)",
+		"title": "讲座4 - 21904 基督徒生活讲座--无愧的工人"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50501%20How%20much%20do%20you%20know%20mission%201%20okm.m4a",
+		"id": 7100000001,
+		"albumId": 7100,
+		"albumName": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师",
+		"albumtitle": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师(1)",
+		"title": "讲座1 - 50501 选修课程--宣教大使命"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50502%20How%20much%20do%20you%20know%20mission%202%20okm.m4a",
+		"id": 7100000002,
+		"albumId": 7100,
+		"albumName": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师",
+		"albumtitle": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师(2)",
+		"title": "讲座2 - 50502 选修课程—宣教大使命"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50503%20%20How%20much%20do%20you%20know%20mission%203%20okm.m4a",
+		"id": 7100000003,
+		"albumId": 7100,
+		"albumName": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师",
+		"albumtitle": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师(3)",
+		"title": "讲座3 - 50503 选修课程—宣教大使命"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50504%20%20How%20much%20do%20you%20know%20mission%204%20okm.m4a",
+		"id": 7100000004,
+		"albumId": 7100,
+		"albumName": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师",
+		"albumtitle": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师(4)",
+		"title": "讲座4 - 50504 选修课程—宣教大使命"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50505%20the%20inheritance%20of%20Mission%20okm.m4a",
+		"id": 7100000005,
+		"albumId": 7100,
+		"albumName": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师",
+		"albumtitle": "BBN 50500 选修课程--宣教大使命 |  李秀全牧师(5)",
+		"title": "讲座5 - 50505 选修课程—宣教大使命"
+	}
+]

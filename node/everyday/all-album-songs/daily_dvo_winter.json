@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131001.mp3",
+		"id": 6380000001,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(1)",
+		"title": "荒漠甘泉乐侶-10月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131002.mp3",
+		"id": 6380000002,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(2)",
+		"title": "荒漠甘泉乐侶-10月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131003.mp3",
+		"id": 6380000003,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(3)",
+		"title": "荒漠甘泉乐侶-10月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131004.mp3",
+		"id": 6380000004,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(4)",
+		"title": "荒漠甘泉乐侶-10月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131005.mp3",
+		"id": 6380000005,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(5)",
+		"title": "荒漠甘泉乐侶-10月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131006.mp3",
+		"id": 6380000006,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(6)",
+		"title": "荒漠甘泉乐侶-10月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131007.mp3",
+		"id": 6380000007,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(7)",
+		"title": "荒漠甘泉乐侶-10月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131008.mp3",
+		"id": 6380000008,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(8)",
+		"title": "荒漠甘泉乐侶-10月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131009.mp3",
+		"id": 6380000009,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(9)",
+		"title": "荒漠甘泉乐侶-10月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131010.mp3",
+		"id": 6380000010,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(10)",
+		"title": "荒漠甘泉乐侶-10月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131011.mp3",
+		"id": 6380000011,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(11)",
+		"title": "荒漠甘泉乐侶-10月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131012.mp3",
+		"id": 6380000012,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(12)",
+		"title": "荒漠甘泉乐侶-10月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131013.mp3",
+		"id": 6380000013,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(13)",
+		"title": "荒漠甘泉乐侶-10月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131014.mp3",
+		"id": 6380000014,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(14)",
+		"title": "荒漠甘泉乐侶-10月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131015.mp3",
+		"id": 6380000015,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(15)",
+		"title": "荒漠甘泉乐侶-10月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131016.mp3",
+		"id": 6380000016,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(16)",
+		"title": "荒漠甘泉乐侶-10月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131017.mp3",
+		"id": 6380000017,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(17)",
+		"title": "荒漠甘泉乐侶-10月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131018.mp3",
+		"id": 6380000018,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(18)",
+		"title": "荒漠甘泉乐侶-10月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131019.mp3",
+		"id": 6380000019,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(19)",
+		"title": "荒漠甘泉乐侶-10月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131020.mp3",
+		"id": 6380000020,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(20)",
+		"title": "荒漠甘泉乐侶-10月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131021.mp3",
+		"id": 6380000021,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(21)",
+		"title": "荒漠甘泉乐侶-10月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131022.mp3",
+		"id": 6380000022,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(22)",
+		"title": "荒漠甘泉乐侶-10月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131023.mp3",
+		"id": 6380000023,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(23)",
+		"title": "荒漠甘泉乐侶-10月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131024.mp3",
+		"id": 6380000024,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(24)",
+		"title": "荒漠甘泉乐侶-10月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131025.mp3",
+		"id": 6380000025,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(25)",
+		"title": "荒漠甘泉乐侶-10月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131026.mp3",
+		"id": 6380000026,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(26)",
+		"title": "荒漠甘泉乐侶-10月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131027.mp3",
+		"id": 6380000027,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(27)",
+		"title": "荒漠甘泉乐侶-10月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131028.mp3",
+		"id": 6380000028,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(28)",
+		"title": "荒漠甘泉乐侶-10月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131029.mp3",
+		"id": 6380000029,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(29)",
+		"title": "荒漠甘泉乐侶-10月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131030.mp3",
+		"id": 6380000030,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(30)",
+		"title": "荒漠甘泉乐侶-10月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Oct/dvo131031.mp3",
+		"id": 6380000031,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(31)",
+		"title": "荒漠甘泉乐侶-10月31日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131101.mp3",
+		"id": 6380000032,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(32)",
+		"title": "荒漠甘泉乐侶-11月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131102.mp3",
+		"id": 6380000033,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(33)",
+		"title": "荒漠甘泉乐侶-11月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131103.mp3",
+		"id": 6380000034,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(34)",
+		"title": "荒漠甘泉乐侶-11月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131104.mp3",
+		"id": 6380000035,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(35)",
+		"title": "荒漠甘泉乐侶-11月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131105.mp3",
+		"id": 6380000036,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(36)",
+		"title": "荒漠甘泉乐侶-11月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131106.mp3",
+		"id": 6380000037,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(37)",
+		"title": "荒漠甘泉乐侶-11月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131107.mp3",
+		"id": 6380000038,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(38)",
+		"title": "荒漠甘泉乐侶-11月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131108.mp3",
+		"id": 6380000039,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(39)",
+		"title": "荒漠甘泉乐侶-11月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131109.mp3",
+		"id": 6380000040,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(40)",
+		"title": "荒漠甘泉乐侶-11月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131110.mp3",
+		"id": 6380000041,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(41)",
+		"title": "荒漠甘泉乐侶-11月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131111.mp3",
+		"id": 6380000042,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(42)",
+		"title": "荒漠甘泉乐侶-11月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131112.mp3",
+		"id": 6380000043,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(43)",
+		"title": "荒漠甘泉乐侶-11月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131113.mp3",
+		"id": 6380000044,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(44)",
+		"title": "荒漠甘泉乐侶-11月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131114.mp3",
+		"id": 6380000045,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(45)",
+		"title": "荒漠甘泉乐侶-11月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131115.mp3",
+		"id": 6380000046,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(46)",
+		"title": "荒漠甘泉乐侶-11月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131116.mp3",
+		"id": 6380000047,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(47)",
+		"title": "荒漠甘泉乐侶-11月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131117.mp3",
+		"id": 6380000048,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(48)",
+		"title": "荒漠甘泉乐侶-11月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131118.mp3",
+		"id": 6380000049,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(49)",
+		"title": "荒漠甘泉乐侶-11月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131119.mp3",
+		"id": 6380000050,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(50)",
+		"title": "荒漠甘泉乐侶-11月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131120.mp3",
+		"id": 6380000051,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(51)",
+		"title": "荒漠甘泉乐侶-11月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131121.mp3",
+		"id": 6380000052,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(52)",
+		"title": "荒漠甘泉乐侶-11月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131122.mp3",
+		"id": 6380000053,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(53)",
+		"title": "荒漠甘泉乐侶-11月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131123.mp3",
+		"id": 6380000054,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(54)",
+		"title": "荒漠甘泉乐侶-11月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131124.mp3",
+		"id": 6380000055,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(55)",
+		"title": "荒漠甘泉乐侶-11月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131125.mp3",
+		"id": 6380000056,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(56)",
+		"title": "荒漠甘泉乐侶-11月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131126.mp3",
+		"id": 6380000057,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(57)",
+		"title": "荒漠甘泉乐侶-11月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131127.mp3",
+		"id": 6380000058,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(58)",
+		"title": "荒漠甘泉乐侶-11月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131128.mp3",
+		"id": 6380000059,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(59)",
+		"title": "荒漠甘泉乐侶-11月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131129.mp3",
+		"id": 6380000060,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(60)",
+		"title": "荒漠甘泉乐侶-11月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Nov/dvo131130.mp3",
+		"id": 6380000061,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(61)",
+		"title": "荒漠甘泉乐侶-11月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131201.mp3",
+		"id": 6380000062,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(62)",
+		"title": "荒漠甘泉乐侶-12月1日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131202.mp3",
+		"id": 6380000063,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(63)",
+		"title": "荒漠甘泉乐侶-12月2日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131203.mp3",
+		"id": 6380000064,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(64)",
+		"title": "荒漠甘泉乐侶-12月3日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131204.mp3",
+		"id": 6380000065,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(65)",
+		"title": "荒漠甘泉乐侶-12月4日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131205.mp3",
+		"id": 6380000066,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(66)",
+		"title": "荒漠甘泉乐侶-12月5日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131206.mp3",
+		"id": 6380000067,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(67)",
+		"title": "荒漠甘泉乐侶-12月6日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131207.mp3",
+		"id": 6380000068,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(68)",
+		"title": "荒漠甘泉乐侶-12月7日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131208.mp3",
+		"id": 6380000069,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(69)",
+		"title": "荒漠甘泉乐侶-12月8日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131209.mp3",
+		"id": 6380000070,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(70)",
+		"title": "荒漠甘泉乐侶-12月9日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131210.mp3",
+		"id": 6380000071,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(71)",
+		"title": "荒漠甘泉乐侶-12月10日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131211.mp3",
+		"id": 6380000072,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(72)",
+		"title": "荒漠甘泉乐侶-12月11日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131212.mp3",
+		"id": 6380000073,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(73)",
+		"title": "荒漠甘泉乐侶-12月12日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131213.mp3",
+		"id": 6380000074,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(74)",
+		"title": "荒漠甘泉乐侶-12月13日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131214.mp3",
+		"id": 6380000075,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(75)",
+		"title": "荒漠甘泉乐侶-12月14日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131215.mp3",
+		"id": 6380000076,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(76)",
+		"title": "荒漠甘泉乐侶-12月15日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131216.mp3",
+		"id": 6380000077,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(77)",
+		"title": "荒漠甘泉乐侶-12月16日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131217.mp3",
+		"id": 6380000078,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(78)",
+		"title": "荒漠甘泉乐侶-12月17日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131218.mp3",
+		"id": 6380000079,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(79)",
+		"title": "荒漠甘泉乐侶-12月18日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131219.mp3",
+		"id": 6380000080,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(80)",
+		"title": "荒漠甘泉乐侶-12月19日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131220.mp3",
+		"id": 6380000081,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(81)",
+		"title": "荒漠甘泉乐侶-12月20日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131221.mp3",
+		"id": 6380000082,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(82)",
+		"title": "荒漠甘泉乐侶-12月21日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131222.mp3",
+		"id": 6380000083,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(83)",
+		"title": "荒漠甘泉乐侶-12月22日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131223.mp3",
+		"id": 6380000084,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(84)",
+		"title": "荒漠甘泉乐侶-12月23日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131224.mp3",
+		"id": 6380000085,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(85)",
+		"title": "荒漠甘泉乐侶-12月24日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131225.mp3",
+		"id": 6380000086,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(86)",
+		"title": "荒漠甘泉乐侶-12月25日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131226.mp3",
+		"id": 6380000087,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(87)",
+		"title": "荒漠甘泉乐侶-12月26日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131227.mp3",
+		"id": 6380000088,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(88)",
+		"title": "荒漠甘泉乐侶-12月27日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131228.mp3",
+		"id": 6380000089,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(89)",
+		"title": "荒漠甘泉乐侶-12月28日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131229.mp3",
+		"id": 6380000090,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(90)",
+		"title": "荒漠甘泉乐侶-12月29日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131230.mp3",
+		"id": 6380000091,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(91)",
+		"title": "荒漠甘泉乐侶-12月30日"
+	},
+	{
+		"duration": 300,
+		"size": "1M",
+		"path": "http://media.haomuren.org/devotion/siD_mc/Dec/dvo131231.mp3",
+		"id": 6380000092,
+		"albumId": 6380,
+		"albumName": "《荒漠甘泉乐侶》冬季合集",
+		"albumtitle": "《荒漠甘泉乐侶》冬季合集(92)",
+		"title": "荒漠甘泉乐侶-12月31日"
+	}
+]

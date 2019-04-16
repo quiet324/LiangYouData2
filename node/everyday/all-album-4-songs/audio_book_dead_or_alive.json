@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 818,
+		"size": "12.48 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/DeadOrAlive/1.所有人在灵性上都是死的.mp3",
+		"id": 6480000001,
+		"title": "1.所有人在灵性上都是死的",
+		"albumId": 6480,
+		"albumName": "你是活人还是死人",
+		"albumtitle": "你是活人还是死人(1)"
+	},
+	{
+		"duration": 1105,
+		"size": "16.87 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/DeadOrAlive/2.所有人都需要被救活.mp3",
+		"id": 6480000002,
+		"title": "2.所有人都需要被救活",
+		"albumId": 6480,
+		"albumName": "你是活人还是死人",
+		"albumtitle": "你是活人还是死人(2)"
+	},
+	{
+		"duration": 900,
+		"size": "13.73 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/DeadOrAlive/3.一个死亡的灵魂在灵命上怎样活过来.mp3",
+		"id": 6480000003,
+		"title": "3.一个死亡的灵魂在灵命上怎样活过来",
+		"albumId": 6480,
+		"albumName": "你是活人还是死人",
+		"albumtitle": "你是活人还是死人(3)"
+	},
+	{
+		"duration": 1110,
+		"size": "16.95 MiB",
+		"path": "https://rawcdn.githack.com/quiet324/AudioBookResource/180124/DeadOrAlive/4.你活着吗？.mp3",
+		"id": 6480000004,
+		"title": "4.你活着吗？",
+		"albumId": 6480,
+		"albumName": "你是活人还是死人",
+		"albumtitle": "你是活人还是死人(4)"
+	}
+]

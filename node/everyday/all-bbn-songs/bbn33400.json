@@ -1,0 +1,62 @@
+[
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33401%20II%20Peter%201%20ok%20.m4a",
+		"id": 7070000001,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (1)",
+		"title": "讲座1 - 33401 圣经书卷--彼得后书"
+	},
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33402%20II%20Peter%202%20ok%20.m4a",
+		"id": 7070000002,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (2)",
+		"title": "讲座2 - 33402 圣经书卷--彼得后书"
+	},
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33403%20II%20Peter%203%20ok%20.m4a",
+		"id": 7070000003,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (3)",
+		"title": "讲座3 - 33403 圣经书卷--彼得后书"
+	},
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33404%20II%20Peter%204%20ok%20.m4a",
+		"id": 7070000004,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (4)",
+		"title": "讲座4 - 33404 圣经书卷--彼得后书"
+	},
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33405%20II%20Peter%205%20ok%20.m4a",
+		"id": 7070000005,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (5)",
+		"title": "讲座5 - 33405 圣经书卷--彼得后书"
+	},
+	{
+		"duration": 2700,
+		"size": "9M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/33406%20II%20Peter%206%20ok%20.m4a",
+		"id": 7070000006,
+		"albumId": 7070,
+		"albumName": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  ",
+		"albumtitle": "BBN 33300 圣经书卷--箴言 |  庄祖鲲博士  (6)",
+		"title": "讲座6 - 33406 圣经书卷--彼得后书"
+	}
+]

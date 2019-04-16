@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50201%20The%20Truth%20of%20Church%201ok.m4a",
+		"id": 7098000001,
+		"albumId": 7098,
+		"albumName": "BBN 50200 选修课程--教会真理 |  陈中明牧师",
+		"albumtitle": "BBN 50200 选修课程--教会真理 |  陈中明牧师(1)",
+		"title": "讲座1 - 50201选修课程--教会真理"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50202%20The%20Truth%20of%20Church%202.m4a",
+		"id": 7098000002,
+		"albumId": 7098,
+		"albumName": "BBN 50200 选修课程--教会真理 |  陈中明牧师",
+		"albumtitle": "BBN 50200 选修课程--教会真理 |  陈中明牧师(2)",
+		"title": "讲座2 - 50202选修课程--教会真理"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50203%20The%20Truth%20of%20Church%203.m4a",
+		"id": 7098000003,
+		"albumId": 7098,
+		"albumName": "BBN 50200 选修课程--教会真理 |  陈中明牧师",
+		"albumtitle": "BBN 50200 选修课程--教会真理 |  陈中明牧师(3)",
+		"title": "讲座3 - 50203选修课程--教会真理"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50204%20The%20Truth%20of%20Church%204.m4a",
+		"id": 7098000004,
+		"albumId": 7098,
+		"albumName": "BBN 50200 选修课程--教会真理 |  陈中明牧师",
+		"albumtitle": "BBN 50200 选修课程--教会真理 |  陈中明牧师(4)",
+		"title": "讲座4 - 50204选修课程--教会真理"
+	}
+]

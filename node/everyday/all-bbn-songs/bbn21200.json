@@ -1,0 +1,72 @@
+[
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21201%20What%20is%20the%20faith.m4a",
+		"id": 7027000001,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (1)",
+		"title": "讲座1 - 21201 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21202%20what%20is%20not%20faith%20Faith.m4a",
+		"id": 7027000002,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (2)",
+		"title": "讲座2 - 21202 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21203%20%20the%20principle%20of%20faithok.m4a",
+		"id": 7027000003,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (3)",
+		"title": "讲座3 - 21203 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21204%20how%20to%20grow%20your%20faith%204.m4a",
+		"id": 7027000004,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (4)",
+		"title": "讲座4 - 21204 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21205%20the%20effective%20of%20faith.m4a",
+		"id": 7027000005,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (5)",
+		"title": "讲座5 - 21205 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21206%20different%20kind%20of%20false%20faith%206.m4a",
+		"id": 7027000006,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (6)",
+		"title": "讲座6 - 21206 基督徒生活讲座—信心与生活"
+	},
+	{
+		"duration": 3600,
+		"size": "10M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/21207%20different%20kind%20of%20good%20faith.m4a",
+		"id": 7027000007,
+		"albumId": 7027,
+		"albumName": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 ",
+		"albumtitle": "BBN 21200 基督徒生活讲座--信心与生活 | 陈中明牧师 (7)",
+		"title": "讲座7 - 21207 基督徒生活讲座—信心与生活"
+	}
+]

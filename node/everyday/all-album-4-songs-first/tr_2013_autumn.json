@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130701.mp3",
+		"id": 6406000001,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(1)",
+		"title": "彩虹桥-20130701"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130702.mp3",
+		"id": 6406000002,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(2)",
+		"title": "彩虹桥-20130702"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130703.mp3",
+		"id": 6406000003,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(3)",
+		"title": "彩虹桥-20130703"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130704.mp3",
+		"id": 6406000004,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(4)",
+		"title": "彩虹桥-20130704"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130705.mp3",
+		"id": 6406000005,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(5)",
+		"title": "彩虹桥-20130705"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130706.mp3",
+		"id": 6406000006,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(6)",
+		"title": "彩虹桥-20130706"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130707.mp3",
+		"id": 6406000007,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(7)",
+		"title": "彩虹桥-20130707"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130708.mp3",
+		"id": 6406000008,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(8)",
+		"title": "彩虹桥-20130708"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130709.mp3",
+		"id": 6406000009,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(9)",
+		"title": "彩虹桥-20130709"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130710.mp3",
+		"id": 6406000010,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(10)",
+		"title": "彩虹桥-20130710"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130711.mp3",
+		"id": 6406000011,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(11)",
+		"title": "彩虹桥-20130711"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130712.mp3",
+		"id": 6406000012,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(12)",
+		"title": "彩虹桥-20130712"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130713.mp3",
+		"id": 6406000013,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(13)",
+		"title": "彩虹桥-20130713"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130714.mp3",
+		"id": 6406000014,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(14)",
+		"title": "彩虹桥-20130714"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130715.mp3",
+		"id": 6406000015,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(15)",
+		"title": "彩虹桥-20130715"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130716.mp3",
+		"id": 6406000016,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(16)",
+		"title": "彩虹桥-20130716"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130717.mp3",
+		"id": 6406000017,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(17)",
+		"title": "彩虹桥-20130717"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130718.mp3",
+		"id": 6406000018,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(18)",
+		"title": "彩虹桥-20130718"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130719.mp3",
+		"id": 6406000019,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(19)",
+		"title": "彩虹桥-20130719"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130720.mp3",
+		"id": 6406000020,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(20)",
+		"title": "彩虹桥-20130720"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130721.mp3",
+		"id": 6406000021,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(21)",
+		"title": "彩虹桥-20130721"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130722.mp3",
+		"id": 6406000022,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(22)",
+		"title": "彩虹桥-20130722"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130723.mp3",
+		"id": 6406000023,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(23)",
+		"title": "彩虹桥-20130723"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130724.mp3",
+		"id": 6406000024,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(24)",
+		"title": "彩虹桥-20130724"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130725.mp3",
+		"id": 6406000025,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(25)",
+		"title": "彩虹桥-20130725"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130726.mp3",
+		"id": 6406000026,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(26)",
+		"title": "彩虹桥-20130726"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130727.mp3",
+		"id": 6406000027,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(27)",
+		"title": "彩虹桥-20130727"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130728.mp3",
+		"id": 6406000028,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(28)",
+		"title": "彩虹桥-20130728"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130729.mp3",
+		"id": 6406000029,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(29)",
+		"title": "彩虹桥-20130729"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130730.mp3",
+		"id": 6406000030,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(30)",
+		"title": "彩虹桥-20130730"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130731.mp3",
+		"id": 6406000031,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(31)",
+		"title": "彩虹桥-20130731"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130801.mp3",
+		"id": 6406000032,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(32)",
+		"title": "彩虹桥-20130801"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130802.mp3",
+		"id": 6406000033,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(33)",
+		"title": "彩虹桥-20130802"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130803.mp3",
+		"id": 6406000034,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(34)",
+		"title": "彩虹桥-20130803"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130804.mp3",
+		"id": 6406000035,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(35)",
+		"title": "彩虹桥-20130804"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130805.mp3",
+		"id": 6406000036,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(36)",
+		"title": "彩虹桥-20130805"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130806.mp3",
+		"id": 6406000037,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(37)",
+		"title": "彩虹桥-20130806"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130807.mp3",
+		"id": 6406000038,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(38)",
+		"title": "彩虹桥-20130807"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130808.mp3",
+		"id": 6406000039,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(39)",
+		"title": "彩虹桥-20130808"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130809.mp3",
+		"id": 6406000040,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(40)",
+		"title": "彩虹桥-20130809"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130810.mp3",
+		"id": 6406000041,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(41)",
+		"title": "彩虹桥-20130810"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130811.mp3",
+		"id": 6406000042,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(42)",
+		"title": "彩虹桥-20130811"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130812.mp3",
+		"id": 6406000043,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(43)",
+		"title": "彩虹桥-20130812"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130813.mp3",
+		"id": 6406000044,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(44)",
+		"title": "彩虹桥-20130813"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130814.mp3",
+		"id": 6406000045,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(45)",
+		"title": "彩虹桥-20130814"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130815.mp3",
+		"id": 6406000046,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(46)",
+		"title": "彩虹桥-20130815"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130816.mp3",
+		"id": 6406000047,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(47)",
+		"title": "彩虹桥-20130816"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130817.mp3",
+		"id": 6406000048,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(48)",
+		"title": "彩虹桥-20130817"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130818.mp3",
+		"id": 6406000049,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(49)",
+		"title": "彩虹桥-20130818"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130819.mp3",
+		"id": 6406000050,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(50)",
+		"title": "彩虹桥-20130819"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130820.mp3",
+		"id": 6406000051,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(51)",
+		"title": "彩虹桥-20130820"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130821.mp3",
+		"id": 6406000052,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(52)",
+		"title": "彩虹桥-20130821"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130822.mp3",
+		"id": 6406000053,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(53)",
+		"title": "彩虹桥-20130822"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130823.mp3",
+		"id": 6406000054,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(54)",
+		"title": "彩虹桥-20130823"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130824.mp3",
+		"id": 6406000055,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(55)",
+		"title": "彩虹桥-20130824"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130825.mp3",
+		"id": 6406000056,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(56)",
+		"title": "彩虹桥-20130825"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130826.mp3",
+		"id": 6406000057,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(57)",
+		"title": "彩虹桥-20130826"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130827.mp3",
+		"id": 6406000058,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(58)",
+		"title": "彩虹桥-20130827"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130828.mp3",
+		"id": 6406000059,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(59)",
+		"title": "彩虹桥-20130828"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130829.mp3",
+		"id": 6406000060,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(60)",
+		"title": "彩虹桥-20130829"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130830.mp3",
+		"id": 6406000061,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(61)",
+		"title": "彩虹桥-20130830"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130831.mp3",
+		"id": 6406000062,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(62)",
+		"title": "彩虹桥-20130831"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130901.mp3",
+		"id": 6406000063,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(63)",
+		"title": "彩虹桥-20130901"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130902.mp3",
+		"id": 6406000064,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(64)",
+		"title": "彩虹桥-20130902"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130903.mp3",
+		"id": 6406000065,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(65)",
+		"title": "彩虹桥-20130903"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130904.mp3",
+		"id": 6406000066,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(66)",
+		"title": "彩虹桥-20130904"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130905.mp3",
+		"id": 6406000067,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(67)",
+		"title": "彩虹桥-20130905"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130906.mp3",
+		"id": 6406000068,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(68)",
+		"title": "彩虹桥-20130906"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130907.mp3",
+		"id": 6406000069,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(69)",
+		"title": "彩虹桥-20130907"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130908.mp3",
+		"id": 6406000070,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(70)",
+		"title": "彩虹桥-20130908"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130909.mp3",
+		"id": 6406000071,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(71)",
+		"title": "彩虹桥-20130909"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130910.mp3",
+		"id": 6406000072,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(72)",
+		"title": "彩虹桥-20130910"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130911.mp3",
+		"id": 6406000073,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(73)",
+		"title": "彩虹桥-20130911"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130912.mp3",
+		"id": 6406000074,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(74)",
+		"title": "彩虹桥-20130912"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130913.mp3",
+		"id": 6406000075,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(75)",
+		"title": "彩虹桥-20130913"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130914.mp3",
+		"id": 6406000076,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(76)",
+		"title": "彩虹桥-20130914"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130915.mp3",
+		"id": 6406000077,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(77)",
+		"title": "彩虹桥-20130915"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130916.mp3",
+		"id": 6406000078,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(78)",
+		"title": "彩虹桥-20130916"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130917.mp3",
+		"id": 6406000079,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(79)",
+		"title": "彩虹桥-20130917"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130918.mp3",
+		"id": 6406000080,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(80)",
+		"title": "彩虹桥-20130918"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130919.mp3",
+		"id": 6406000081,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(81)",
+		"title": "彩虹桥-20130919"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130920.mp3",
+		"id": 6406000082,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(82)",
+		"title": "彩虹桥-20130920"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130921.mp3",
+		"id": 6406000083,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(83)",
+		"title": "彩虹桥-20130921"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130922.mp3",
+		"id": 6406000084,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(84)",
+		"title": "彩虹桥-20130922"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130923.mp3",
+		"id": 6406000085,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(85)",
+		"title": "彩虹桥-20130923"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130924.mp3",
+		"id": 6406000086,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(86)",
+		"title": "彩虹桥-20130924"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130925.mp3",
+		"id": 6406000087,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(87)",
+		"title": "彩虹桥-20130925"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130926.mp3",
+		"id": 6406000088,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(88)",
+		"title": "彩虹桥-20130926"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130927.mp3",
+		"id": 6406000089,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(89)",
+		"title": "彩虹桥-20130927"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130928.mp3",
+		"id": 6406000090,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(90)",
+		"title": "彩虹桥-20130928"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130929.mp3",
+		"id": 6406000091,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(91)",
+		"title": "彩虹桥-20130929"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/streaming/tr/tr130930.mp3",
+		"id": 6406000092,
+		"albumId": 6406,
+		"albumName": "《彩虹桥》2013年秋季合集",
+		"albumtitle": "《彩虹桥》2013年秋季合集(92)",
+		"title": "彩虹桥-20130930"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50401%20Jesus%20Savior%201.m4a",
+		"id": 7099000001,
+		"albumId": 7099,
+		"albumName": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士",
+		"albumtitle": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士(1)",
+		"title": "讲座1 - 50401 选修课程--耶稣基督，人类的救星"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50402%20Jesus%20Savior%202.m4a",
+		"id": 7099000002,
+		"albumId": 7099,
+		"albumName": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士",
+		"albumtitle": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士(2)",
+		"title": "讲座2 - 50402 选修课程--耶稣基督，人类的救星"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50403%20Jesus%20Savior%203.m4a",
+		"id": 7099000003,
+		"albumId": 7099,
+		"albumName": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士",
+		"albumtitle": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士(3)",
+		"title": "讲座3 - 50403 选修课程--耶稣基督，人类的救星"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50404%20Jesus%20Savior%204.m4a",
+		"id": 7099000004,
+		"albumId": 7099,
+		"albumName": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士",
+		"albumtitle": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士(4)",
+		"title": "讲座4 - 50404 选修课程--耶稣基督，人类的救星"
+	},
+	{
+		"duration": 2700,
+		"size": "7M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/50405%20Jesus%20Savior%205.m4a",
+		"id": 7099000005,
+		"albumId": 7099,
+		"albumName": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士",
+		"albumtitle": "BBN 50400 选修课程--耶稣基督，人类的救星 |  李定武博士(5)",
+		"title": "讲座5 - 50405 选修课程--耶稣基督，人类的救星"
+	}
+]

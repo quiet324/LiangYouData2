@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00601%20The%20meaning%20of%20the%20cross%20ok%20.m4a",
+		"id": 7003000001,
+		"albumId": 7003,
+		"albumName": "BBN 00600 基要课程--十字架与基督 | 李定武博士 ",
+		"albumtitle": "BBN 00600 基要课程--十字架与基督 | 李定武博士 (1)",
+		"title": "讲座1 - 00601 基要课程--十字架与基督--十字架的反讽"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00602%20The%20promise%20of%20the%20cross%20ok%20.m4a",
+		"id": 7003000002,
+		"albumId": 7003,
+		"albumName": "BBN 00600 基要课程--十字架与基督 | 李定武博士 ",
+		"albumtitle": "BBN 00600 基要课程--十字架与基督 | 李定武博士 (2)",
+		"title": "讲座2 - 00602 基要课程--十字架与基督--十字架的应许"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00603%20The%20cross%20and%20the%20life%20ok.m4a",
+		"id": 7003000003,
+		"albumId": 7003,
+		"albumName": "BBN 00600 基要课程--十字架与基督 | 李定武博士 ",
+		"albumtitle": "BBN 00600 基要课程--十字架与基督 | 李定武博士 (3)",
+		"title": "讲座3 - 00603 基要课程--十字架与基督--十字架与生命"
+	},
+	{
+		"duration": 3600,
+		"size": "15M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/00604%20The%20fulfillment%20of%20the%20cross%20ok.%20mp3.m4a",
+		"id": 7003000004,
+		"albumId": 7003,
+		"albumName": "BBN 00600 基要课程--十字架与基督 | 李定武博士 ",
+		"albumtitle": "BBN 00600 基要课程--十字架与基督 | 李定武博士 (4)",
+		"title": "讲座4 - 00604 基要课程--十字架与基督--十字架的成就"
+	}
+]

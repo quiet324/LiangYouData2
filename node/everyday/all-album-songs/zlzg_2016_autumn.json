@@ -1,0 +1,922 @@
+[
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160701.mp3",
+		"id": 6225000001,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(1)",
+		"title": "真理之光-20160701"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160702.mp3",
+		"id": 6225000002,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(2)",
+		"title": "真理之光-20160702"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160703.mp3",
+		"id": 6225000003,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(3)",
+		"title": "真理之光-20160703"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160704.mp3",
+		"id": 6225000004,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(4)",
+		"title": "真理之光-20160704"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160705.mp3",
+		"id": 6225000005,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(5)",
+		"title": "真理之光-20160705"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160706.mp3",
+		"id": 6225000006,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(6)",
+		"title": "真理之光-20160706"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160707.mp3",
+		"id": 6225000007,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(7)",
+		"title": "真理之光-20160707"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160708.mp3",
+		"id": 6225000008,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(8)",
+		"title": "真理之光-20160708"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160709.mp3",
+		"id": 6225000009,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(9)",
+		"title": "真理之光-20160709"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160710.mp3",
+		"id": 6225000010,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(10)",
+		"title": "真理之光-20160710"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160711.mp3",
+		"id": 6225000011,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(11)",
+		"title": "真理之光-20160711"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160712.mp3",
+		"id": 6225000012,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(12)",
+		"title": "真理之光-20160712"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160713.mp3",
+		"id": 6225000013,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(13)",
+		"title": "真理之光-20160713"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160714.mp3",
+		"id": 6225000014,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(14)",
+		"title": "真理之光-20160714"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160715.mp3",
+		"id": 6225000015,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(15)",
+		"title": "真理之光-20160715"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160716.mp3",
+		"id": 6225000016,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(16)",
+		"title": "真理之光-20160716"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160717.mp3",
+		"id": 6225000017,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(17)",
+		"title": "真理之光-20160717"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160718.mp3",
+		"id": 6225000018,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(18)",
+		"title": "真理之光-20160718"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160719.mp3",
+		"id": 6225000019,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(19)",
+		"title": "真理之光-20160719"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160720.mp3",
+		"id": 6225000020,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(20)",
+		"title": "真理之光-20160720"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160721.mp3",
+		"id": 6225000021,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(21)",
+		"title": "真理之光-20160721"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160722.mp3",
+		"id": 6225000022,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(22)",
+		"title": "真理之光-20160722"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160723.mp3",
+		"id": 6225000023,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(23)",
+		"title": "真理之光-20160723"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160724.mp3",
+		"id": 6225000024,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(24)",
+		"title": "真理之光-20160724"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160725.mp3",
+		"id": 6225000025,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(25)",
+		"title": "真理之光-20160725"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160726.mp3",
+		"id": 6225000026,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(26)",
+		"title": "真理之光-20160726"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160727.mp3",
+		"id": 6225000027,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(27)",
+		"title": "真理之光-20160727"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160728.mp3",
+		"id": 6225000028,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(28)",
+		"title": "真理之光-20160728"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160729.mp3",
+		"id": 6225000029,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(29)",
+		"title": "真理之光-20160729"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160730.mp3",
+		"id": 6225000030,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(30)",
+		"title": "真理之光-20160730"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160731.mp3",
+		"id": 6225000031,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(31)",
+		"title": "真理之光-20160731"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160801.mp3",
+		"id": 6225000032,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(32)",
+		"title": "真理之光-20160801"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160802.mp3",
+		"id": 6225000033,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(33)",
+		"title": "真理之光-20160802"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160803.mp3",
+		"id": 6225000034,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(34)",
+		"title": "真理之光-20160803"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160804.mp3",
+		"id": 6225000035,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(35)",
+		"title": "真理之光-20160804"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160805.mp3",
+		"id": 6225000036,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(36)",
+		"title": "真理之光-20160805"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160806.mp3",
+		"id": 6225000037,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(37)",
+		"title": "真理之光-20160806"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160807.mp3",
+		"id": 6225000038,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(38)",
+		"title": "真理之光-20160807"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160808.mp3",
+		"id": 6225000039,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(39)",
+		"title": "真理之光-20160808"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160809.mp3",
+		"id": 6225000040,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(40)",
+		"title": "真理之光-20160809"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160810.mp3",
+		"id": 6225000041,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(41)",
+		"title": "真理之光-20160810"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160811.mp3",
+		"id": 6225000042,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(42)",
+		"title": "真理之光-20160811"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160812.mp3",
+		"id": 6225000043,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(43)",
+		"title": "真理之光-20160812"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160813.mp3",
+		"id": 6225000044,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(44)",
+		"title": "真理之光-20160813"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160814.mp3",
+		"id": 6225000045,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(45)",
+		"title": "真理之光-20160814"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160815.mp3",
+		"id": 6225000046,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(46)",
+		"title": "真理之光-20160815"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160816.mp3",
+		"id": 6225000047,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(47)",
+		"title": "真理之光-20160816"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160817.mp3",
+		"id": 6225000048,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(48)",
+		"title": "真理之光-20160817"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160818.mp3",
+		"id": 6225000049,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(49)",
+		"title": "真理之光-20160818"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160819.mp3",
+		"id": 6225000050,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(50)",
+		"title": "真理之光-20160819"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160820.mp3",
+		"id": 6225000051,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(51)",
+		"title": "真理之光-20160820"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160821.mp3",
+		"id": 6225000052,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(52)",
+		"title": "真理之光-20160821"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160822.mp3",
+		"id": 6225000053,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(53)",
+		"title": "真理之光-20160822"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160823.mp3",
+		"id": 6225000054,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(54)",
+		"title": "真理之光-20160823"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160824.mp3",
+		"id": 6225000055,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(55)",
+		"title": "真理之光-20160824"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160825.mp3",
+		"id": 6225000056,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(56)",
+		"title": "真理之光-20160825"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160826.mp3",
+		"id": 6225000057,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(57)",
+		"title": "真理之光-20160826"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160827.mp3",
+		"id": 6225000058,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(58)",
+		"title": "真理之光-20160827"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160828.mp3",
+		"id": 6225000059,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(59)",
+		"title": "真理之光-20160828"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160829.mp3",
+		"id": 6225000060,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(60)",
+		"title": "真理之光-20160829"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160830.mp3",
+		"id": 6225000061,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(61)",
+		"title": "真理之光-20160830"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160831.mp3",
+		"id": 6225000062,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(62)",
+		"title": "真理之光-20160831"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160901.mp3",
+		"id": 6225000063,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(63)",
+		"title": "真理之光-20160901"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160902.mp3",
+		"id": 6225000064,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(64)",
+		"title": "真理之光-20160902"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160903.mp3",
+		"id": 6225000065,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(65)",
+		"title": "真理之光-20160903"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160904.mp3",
+		"id": 6225000066,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(66)",
+		"title": "真理之光-20160904"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160905.mp3",
+		"id": 6225000067,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(67)",
+		"title": "真理之光-20160905"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160906.mp3",
+		"id": 6225000068,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(68)",
+		"title": "真理之光-20160906"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160907.mp3",
+		"id": 6225000069,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(69)",
+		"title": "真理之光-20160907"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160908.mp3",
+		"id": 6225000070,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(70)",
+		"title": "真理之光-20160908"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160909.mp3",
+		"id": 6225000071,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(71)",
+		"title": "真理之光-20160909"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160910.mp3",
+		"id": 6225000072,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(72)",
+		"title": "真理之光-20160910"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160911.mp3",
+		"id": 6225000073,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(73)",
+		"title": "真理之光-20160911"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160912.mp3",
+		"id": 6225000074,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(74)",
+		"title": "真理之光-20160912"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160913.mp3",
+		"id": 6225000075,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(75)",
+		"title": "真理之光-20160913"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160914.mp3",
+		"id": 6225000076,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(76)",
+		"title": "真理之光-20160914"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160915.mp3",
+		"id": 6225000077,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(77)",
+		"title": "真理之光-20160915"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160916.mp3",
+		"id": 6225000078,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(78)",
+		"title": "真理之光-20160916"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160917.mp3",
+		"id": 6225000079,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(79)",
+		"title": "真理之光-20160917"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160918.mp3",
+		"id": 6225000080,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(80)",
+		"title": "真理之光-20160918"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160919.mp3",
+		"id": 6225000081,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(81)",
+		"title": "真理之光-20160919"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160920.mp3",
+		"id": 6225000082,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(82)",
+		"title": "真理之光-20160920"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160921.mp3",
+		"id": 6225000083,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(83)",
+		"title": "真理之光-20160921"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160922.mp3",
+		"id": 6225000084,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(84)",
+		"title": "真理之光-20160922"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160923.mp3",
+		"id": 6225000085,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(85)",
+		"title": "真理之光-20160923"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160924.mp3",
+		"id": 6225000086,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(86)",
+		"title": "真理之光-20160924"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160925.mp3",
+		"id": 6225000087,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(87)",
+		"title": "真理之光-20160925"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160926.mp3",
+		"id": 6225000088,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(88)",
+		"title": "真理之光-20160926"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160927.mp3",
+		"id": 6225000089,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(89)",
+		"title": "真理之光-20160927"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160928.mp3",
+		"id": 6225000090,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(90)",
+		"title": "真理之光-20160928"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160929.mp3",
+		"id": 6225000091,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(91)",
+		"title": "真理之光-20160929"
+	},
+	{
+		"duration": 860,
+		"size": "6.9M",
+		"path": "http://media.febcchinese.org/Streaming/th/th160930.mp3",
+		"id": 6225000092,
+		"albumId": 6225,
+		"albumName": "《真理之光》2016年秋季合集",
+		"albumtitle": "《真理之光》2016年秋季合集(92)",
+		"title": "真理之光-20160930"
+	}
+]

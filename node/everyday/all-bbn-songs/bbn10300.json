@@ -1,0 +1,72 @@
+[
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10301%20Christology%20a.m4a",
+		"id": 7012000001,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (1)",
+		"title": "讲座1 - 10301 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10302%20Christology.m4a",
+		"id": 7012000002,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (2)",
+		"title": "讲座2 - 10302 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10303%20Christology.m4a",
+		"id": 7012000003,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (3)",
+		"title": "讲座3 - 10303 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10304%20Christology.m4a",
+		"id": 7012000004,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (4)",
+		"title": "讲座4 - 10304 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10305%20Christology.m4a",
+		"id": 7012000005,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (5)",
+		"title": "讲座5 - 10305 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10306%20Christology.m4a",
+		"id": 7012000006,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (6)",
+		"title": "讲座6 - 10306 教义课程--基督论（康来昌博士版）"
+	},
+	{
+		"duration": 3600,
+		"size": "11M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/10307%20Christology.m4a",
+		"id": 7012000007,
+		"albumId": 7012,
+		"albumName": "BBN 10300 教义课程--基督论 | 康来昌博士 ",
+		"albumtitle": "BBN 10300 教义课程--基督论 | 康来昌博士 (7)",
+		"title": "讲座7 - 10307 教义课程--基督论（康来昌博士版）"
+	}
+]

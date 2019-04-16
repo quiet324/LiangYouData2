@@ -1,0 +1,42 @@
+[
+	{
+		"duration": 3000,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22401%20The%20Church%20is%20My%20Home.m4a",
+		"id": 7038000001,
+		"albumId": 7038,
+		"albumName": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士",
+		"albumtitle": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士(1)",
+		"title": "讲座1 - 22401 基督徒生活讲座--教会是我家"
+	},
+	{
+		"duration": 3000,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22402%20The%20Church%20is%20My%20Home.m4a",
+		"id": 7038000002,
+		"albumId": 7038,
+		"albumName": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士",
+		"albumtitle": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士(2)",
+		"title": "讲座2 - 22402 基督徒生活讲座--教会是我家"
+	},
+	{
+		"duration": 3000,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22403%20The%20Church%20is%20My%20Home.m4a",
+		"id": 7038000003,
+		"albumId": 7038,
+		"albumName": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士",
+		"albumtitle": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士(3)",
+		"title": "讲座3 - 22403 基督徒生活讲座--教会是我家"
+	},
+	{
+		"duration": 3000,
+		"size": "8M",
+		"path": "https://bbnbi-a.akamaihd.net/BBNBIAudio/Chinese/22404%20The%20Church%20is%20My%20Home.m4a",
+		"id": 7038000004,
+		"albumId": 7038,
+		"albumName": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士",
+		"albumtitle": "BBN 22400 基督徒生活讲座--教会是我家 | 郝继华博士(4)",
+		"title": "讲座4 - 22404 基督徒生活讲座--教会是我家"
+	}
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/01.mp3",
+    "title": "第一集：亞伯蘭與羅得來到迦南地",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000001,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(1)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/02.mp3",
+    "title": "第二集：亞伯拉罕與羅德分家",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000002,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(2)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/03.mp3",
+    "title": "第三集：亞伯蘭救出被擄走的羅德 耶和華應許亞伯蘭後代如繁星多",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000003,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(3)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/04.mp3",
+    "title": "第四集：夏甲生以實瑪利 耶和華與亞伯蘭立約並改名為亞伯拉罕",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000004,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(4)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/05.mp3",
+    "title": "第五集：羅德搬進所多瑪城",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000005,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(5)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/06.mp3",
+    "title": "第六集：亞伯拉罕為所多瑪祈求",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000006,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(6)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/07.mp3",
+    "title": "第七集：羅德逃出所多瑪後 亞伯拉罕在外稱撒拉為妹引來危機",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000007,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(7)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/08.mp3",
+    "title": "第八集：埃及新王虐待以色列人 收生者敬畏 神留存男子",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000008,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(8)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/09.mp3",
+    "title": "第九集：摩西的出生 成年摩西見以色列人受苦",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000009,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(9)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/10.mp3",
+    "title": "第十集：摩西逃往米甸 耶和華顯現於荊棘火中",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000010,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(10)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/11.mp3",
+    "title": "第十一集：耶和華命摩西行奇事於法老前 摩西亞倫見法老",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000011,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(11)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/12.mp3",
+    "title": "第十二集：法老益虐以色列人.神復言所許",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000012,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(12)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/13.mp3",
+    "title": "第十三集：杖變蛇為證.水變血之災",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000013,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(13)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/14.mp3",
+    "title": "第十四集：十災蛙災 蠅災 畜疫之災",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000014,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(14)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/15.mp3",
+    "title": "第十五集：十災之瘡災",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000015,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(15)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/16.mp3",
+    "title": "第十六集：降十災 雹災 蝗災",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000016,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(16)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/17.mp3",
+    "title": "第十七集：十災-黑暗之災 以末次之災警告法老",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000017,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(17)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/18.mp3",
+    "title": "第十八集：拿俄米與路得",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000018,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(18)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/19.mp3",
+    "title": "第十九集：哈拿的故事 拾穗的路得",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000019,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(19)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/20.mp3",
+    "title": "第二十集：撒母耳初得啟示",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000020,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(20)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/21.mp3",
+    "title": "第二十一集：立掃羅為王 掃羅擅自獻祭 立大衛為王",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000021,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(21)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/22.mp3",
+    "title": "第二十二課：遵守規則 大衛殺歌利亞",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000022,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(22)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/23.mp3",
+    "title": "第二十三課：婦女讚大衛之勇掃羅不悅及大衛在隱基底不害掃羅",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000023,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(23)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/24.mp3",
+    "title": "第二十四集：大衛在西弗不害掃羅",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000024,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(24)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/25.mp3",
+    "title": "第二十五集：掃羅自承其謬 大衛遁至非利士",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000025,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(25)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/26.mp3",
+    "title": "第二十六集：大衛遺命所羅門 童女瑪莉亞懷神子",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000026,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(26)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/27.mp3",
+    "title": "第二十七集：所羅門王的智慧 所羅門王墮落國分為二 亞哈作以色列王",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000027,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(27)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/28.mp3",
+    "title": "第二十八集：以利亞預言旱荒",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000028,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(28)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/29.mp3",
+    "title": "第二十九集：以利亞使寡婦之子復活 耶洗別欲殺以利亞",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000029,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(29)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/30.mp3",
+    "title": "第三十集：以利沙從事以利亞 亞哈貪謀拿伯之葡萄園",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000030,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(30)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/31.mp3",
+    "title": "第三十一集：耶洗別計奪葡萄園 以利沙求感以利亞之靈加倍感己",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000031,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(31)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/32.mp3",
+    "title": "第三十二集：以利亞奉命見亞哈及行神蹟 以利沙為寡婦行奇事",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000032,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(32)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/33.mp3",
+    "title": "第三十三集：書念婦接待以利沙 書念婦生子 書念婦的兒子",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000033,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(33)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/34.mp3",
+    "title": "第三十四集：乃縵患大痲瘋得醫治 基哈西之貪冒",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000034,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(34)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/35.mp3",
+    "title": "第三十五集：乃縵患大痲瘋與小俾女 書念婦子死以利沙甦之",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000035,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(35)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/36.mp3",
+    "title": "第三十六集：以利沙行神蹟使沉斧浮起 亞蘭人圍多坍 以利沙慰安其僕",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000036,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(36)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/37.mp3",
+    "title": "第三十七集：膏耶戶為王 射殺約蘭及亞哈謝",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000037,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(37)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/38.mp3",
+    "title": "第三十八集：以利沙病危並教導約阿施王能力從神而來 希西家做猶大王 希西家向神獻祭",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000038,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(38)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/39.mp3",
+    "title": "第三十九集：瑪拿西王 約沙法王 烏西雅王",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000039,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(39)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/40.mp3",
+    "title": "第四十集：約西亞王",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000040,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(40)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/41.mp3",
+    "title": "第四十一集：希西家王",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000041,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(41)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/42.mp3",
+    "title": "第四十二集：先知以賽亞 耶利米",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000042,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(42)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/43.mp3",
+    "title": "第四十三集：先知但以理解夢 獅子坑 先知何西阿",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000043,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(43)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/44.mp3",
+    "title": "第四十四集：先知以西結",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000044,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(44)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/45.mp3",
+    "title": "第四十五集：先知阿摩司 先知約拿 先知彌迦",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000045,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(45)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/46.mp3",
+    "title": "第四十六集：門徒彼此爭誰為大 摩西分權管理以色列人 耶穌於安息日治病",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000046,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(46)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/47.mp3",
+    "title": "第四十七集：以色列的過年 逾越節",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000047,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(47)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/48.mp3",
+    "title": "第四十八集：只要相信 耶穌治病",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000048,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(48)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/49.mp3",
+    "title": "第四十九集：種籽與田地 饒恕的故事",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000049,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(49)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/50.mp3",
+    "title": "第五十集：主降生及瑪拉基的故事",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000050,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(50)"
+  },
+  {
+    "path": "http://media.feearadio.net/downloads/others/Drama/Bibblestory/51.mp3",
+    "title": "第五十一集：喇合的信心 耶利哥城倒塌",
+    "duration": 1200,
+    "size": "20M",
+    "albumName": "圣经故事广播剧",
+    "id": 6023000051,
+    "albumId": 6023,
+    "albumtitle": "圣经故事广播剧(51)"
+  }
+]

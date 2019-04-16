@@ -1,0 +1,912 @@
+[
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120101.mp3",
+		"id": 6196000001,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(1)",
+		"title": "灵命日粮-20120101"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120102.mp3",
+		"id": 6196000002,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(2)",
+		"title": "灵命日粮-20120102"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120103.mp3",
+		"id": 6196000003,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(3)",
+		"title": "灵命日粮-20120103"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120104.mp3",
+		"id": 6196000004,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(4)",
+		"title": "灵命日粮-20120104"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120105.mp3",
+		"id": 6196000005,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(5)",
+		"title": "灵命日粮-20120105"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120106.mp3",
+		"id": 6196000006,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(6)",
+		"title": "灵命日粮-20120106"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120107.mp3",
+		"id": 6196000007,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(7)",
+		"title": "灵命日粮-20120107"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120108.mp3",
+		"id": 6196000008,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(8)",
+		"title": "灵命日粮-20120108"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120109.mp3",
+		"id": 6196000009,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(9)",
+		"title": "灵命日粮-20120109"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120110.mp3",
+		"id": 6196000010,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(10)",
+		"title": "灵命日粮-20120110"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120111.mp3",
+		"id": 6196000011,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(11)",
+		"title": "灵命日粮-20120111"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120112.mp3",
+		"id": 6196000012,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(12)",
+		"title": "灵命日粮-20120112"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120113.mp3",
+		"id": 6196000013,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(13)",
+		"title": "灵命日粮-20120113"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120114.mp3",
+		"id": 6196000014,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(14)",
+		"title": "灵命日粮-20120114"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120115.mp3",
+		"id": 6196000015,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(15)",
+		"title": "灵命日粮-20120115"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120116.mp3",
+		"id": 6196000016,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(16)",
+		"title": "灵命日粮-20120116"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120117.mp3",
+		"id": 6196000017,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(17)",
+		"title": "灵命日粮-20120117"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120118.mp3",
+		"id": 6196000018,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(18)",
+		"title": "灵命日粮-20120118"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120119.mp3",
+		"id": 6196000019,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(19)",
+		"title": "灵命日粮-20120119"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120120.mp3",
+		"id": 6196000020,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(20)",
+		"title": "灵命日粮-20120120"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120121.mp3",
+		"id": 6196000021,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(21)",
+		"title": "灵命日粮-20120121"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120122.mp3",
+		"id": 6196000022,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(22)",
+		"title": "灵命日粮-20120122"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120123.mp3",
+		"id": 6196000023,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(23)",
+		"title": "灵命日粮-20120123"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120124.mp3",
+		"id": 6196000024,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(24)",
+		"title": "灵命日粮-20120124"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120125.mp3",
+		"id": 6196000025,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(25)",
+		"title": "灵命日粮-20120125"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120126.mp3",
+		"id": 6196000026,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(26)",
+		"title": "灵命日粮-20120126"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120127.mp3",
+		"id": 6196000027,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(27)",
+		"title": "灵命日粮-20120127"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120128.mp3",
+		"id": 6196000028,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(28)",
+		"title": "灵命日粮-20120128"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120129.mp3",
+		"id": 6196000029,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(29)",
+		"title": "灵命日粮-20120129"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120130.mp3",
+		"id": 6196000030,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(30)",
+		"title": "灵命日粮-20120130"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120131.mp3",
+		"id": 6196000031,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(31)",
+		"title": "灵命日粮-20120131"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120201.mp3",
+		"id": 6196000032,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(32)",
+		"title": "灵命日粮-20120201"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120202.mp3",
+		"id": 6196000033,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(33)",
+		"title": "灵命日粮-20120202"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120203.mp3",
+		"id": 6196000034,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(34)",
+		"title": "灵命日粮-20120203"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120204.mp3",
+		"id": 6196000035,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(35)",
+		"title": "灵命日粮-20120204"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120205.mp3",
+		"id": 6196000036,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(36)",
+		"title": "灵命日粮-20120205"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120206.mp3",
+		"id": 6196000037,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(37)",
+		"title": "灵命日粮-20120206"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120207.mp3",
+		"id": 6196000038,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(38)",
+		"title": "灵命日粮-20120207"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120208.mp3",
+		"id": 6196000039,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(39)",
+		"title": "灵命日粮-20120208"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120209.mp3",
+		"id": 6196000040,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(40)",
+		"title": "灵命日粮-20120209"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120210.mp3",
+		"id": 6196000041,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(41)",
+		"title": "灵命日粮-20120210"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120211.mp3",
+		"id": 6196000042,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(42)",
+		"title": "灵命日粮-20120211"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120212.mp3",
+		"id": 6196000043,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(43)",
+		"title": "灵命日粮-20120212"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120213.mp3",
+		"id": 6196000044,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(44)",
+		"title": "灵命日粮-20120213"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120214.mp3",
+		"id": 6196000045,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(45)",
+		"title": "灵命日粮-20120214"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120215.mp3",
+		"id": 6196000046,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(46)",
+		"title": "灵命日粮-20120215"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120216.mp3",
+		"id": 6196000047,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(47)",
+		"title": "灵命日粮-20120216"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120217.mp3",
+		"id": 6196000048,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(48)",
+		"title": "灵命日粮-20120217"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120218.mp3",
+		"id": 6196000049,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(49)",
+		"title": "灵命日粮-20120218"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120219.mp3",
+		"id": 6196000050,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(50)",
+		"title": "灵命日粮-20120219"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120220.mp3",
+		"id": 6196000051,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(51)",
+		"title": "灵命日粮-20120220"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120221.mp3",
+		"id": 6196000052,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(52)",
+		"title": "灵命日粮-20120221"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120222.mp3",
+		"id": 6196000053,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(53)",
+		"title": "灵命日粮-20120222"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120223.mp3",
+		"id": 6196000054,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(54)",
+		"title": "灵命日粮-20120223"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120224.mp3",
+		"id": 6196000055,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(55)",
+		"title": "灵命日粮-20120224"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120225.mp3",
+		"id": 6196000056,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(56)",
+		"title": "灵命日粮-20120225"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120226.mp3",
+		"id": 6196000057,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(57)",
+		"title": "灵命日粮-20120226"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120227.mp3",
+		"id": 6196000058,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(58)",
+		"title": "灵命日粮-20120227"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120228.mp3",
+		"id": 6196000059,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(59)",
+		"title": "灵命日粮-20120228"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120229.mp3",
+		"id": 6196000060,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(60)",
+		"title": "灵命日粮-20120229"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120301.mp3",
+		"id": 6196000061,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(61)",
+		"title": "灵命日粮-20120301"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120302.mp3",
+		"id": 6196000062,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(62)",
+		"title": "灵命日粮-20120302"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120303.mp3",
+		"id": 6196000063,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(63)",
+		"title": "灵命日粮-20120303"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120304.mp3",
+		"id": 6196000064,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(64)",
+		"title": "灵命日粮-20120304"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120305.mp3",
+		"id": 6196000065,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(65)",
+		"title": "灵命日粮-20120305"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120306.mp3",
+		"id": 6196000066,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(66)",
+		"title": "灵命日粮-20120306"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120307.mp3",
+		"id": 6196000067,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(67)",
+		"title": "灵命日粮-20120307"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120308.mp3",
+		"id": 6196000068,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(68)",
+		"title": "灵命日粮-20120308"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120309.mp3",
+		"id": 6196000069,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(69)",
+		"title": "灵命日粮-20120309"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120310.mp3",
+		"id": 6196000070,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(70)",
+		"title": "灵命日粮-20120310"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120311.mp3",
+		"id": 6196000071,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(71)",
+		"title": "灵命日粮-20120311"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120312.mp3",
+		"id": 6196000072,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(72)",
+		"title": "灵命日粮-20120312"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120313.mp3",
+		"id": 6196000073,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(73)",
+		"title": "灵命日粮-20120313"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120314.mp3",
+		"id": 6196000074,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(74)",
+		"title": "灵命日粮-20120314"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120315.mp3",
+		"id": 6196000075,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(75)",
+		"title": "灵命日粮-20120315"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120316.mp3",
+		"id": 6196000076,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(76)",
+		"title": "灵命日粮-20120316"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120317.mp3",
+		"id": 6196000077,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(77)",
+		"title": "灵命日粮-20120317"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120318.mp3",
+		"id": 6196000078,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(78)",
+		"title": "灵命日粮-20120318"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120319.mp3",
+		"id": 6196000079,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(79)",
+		"title": "灵命日粮-20120319"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120320.mp3",
+		"id": 6196000080,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(80)",
+		"title": "灵命日粮-20120320"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120321.mp3",
+		"id": 6196000081,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(81)",
+		"title": "灵命日粮-20120321"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120322.mp3",
+		"id": 6196000082,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(82)",
+		"title": "灵命日粮-20120322"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120323.mp3",
+		"id": 6196000083,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(83)",
+		"title": "灵命日粮-20120323"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120324.mp3",
+		"id": 6196000084,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(84)",
+		"title": "灵命日粮-20120324"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120325.mp3",
+		"id": 6196000085,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(85)",
+		"title": "灵命日粮-20120325"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120326.mp3",
+		"id": 6196000086,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(86)",
+		"title": "灵命日粮-20120326"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120327.mp3",
+		"id": 6196000087,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(87)",
+		"title": "灵命日粮-20120327"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120328.mp3",
+		"id": 6196000088,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(88)",
+		"title": "灵命日粮-20120328"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120329.mp3",
+		"id": 6196000089,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(89)",
+		"title": "灵命日粮-20120329"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120330.mp3",
+		"id": 6196000090,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(90)",
+		"title": "灵命日粮-20120330"
+	},
+	{
+		"duration": 1760,
+		"size": "14.1M",
+		"path": "http://media.febcchinese.org/streaming/bv/bv120331.mp3",
+		"id": 6196000091,
+		"albumId": 6196,
+		"albumName": "灵命日粮 2012年春季合集",
+		"albumtitle": "灵命日粮 2012年春季合集(91)",
+		"title": "灵命日粮-20120331"
+	}
+]
